@@ -1,0 +1,10 @@
+{
+  "no-inline-html": false,
+  "line-length": false,
+  "no-bare-urls": false,
+  "emphasis-style": false,
+  "no-trailing-punctuation": false,
+  "no-emphasis-as-heading": false,
+  "no-emphasis-as-header": false,
+  "ol-prefix": false
+}
