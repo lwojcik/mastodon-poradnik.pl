@@ -203,7 +203,7 @@ Jeśli wspominasz o kimś z Twojej instancji, wystarczy wpisać tylko pierwszy c
 
 Zasady zależą od instancji. Każda instancja posiada stronę pod adresem https://<span>_adres_instancji_</span>/about, która zazwyczaj zawiera informacje o instancji oraz określa zasady społeczności. Dla przykładu, zasady instancji mastodon.social znajdują się na https://mastodon.social/about.
 
-Miej na uwadze, że są to zazwyczaj wskazówki, a nie sztywne reguły. Jako że każda instancja jest obsługiwana przez osobny zespół moderatorski - często w składzie jednej osoby! - ma on ostatnie słowo w kwesti tego, co na jego instancji jest dozwolone, a co nie. Administracja Twojej instancji może nawet posunąć się do blokowania innych instancji w całości, jeżeli ich użytkownicy okażą się niekompatiblni z wartościami wyznawanymi przez Twoją instancję, a moderacja tamtej instancji nie wykazuje chęci współpracy.
+Miej na uwadze, że są to zazwyczaj wskazówki, a nie sztywne reguły. Jako że każda instancja jest obsługiwana przez osobny zespół moderatorski - często w składzie jednej osoby! - ma on ostatnie słowo w kwestii tego, co na jego instancji jest dozwolone, a co nie. Administracja Twojej instancji może nawet posunąć się do blokowania innych instancji w całości, jeżeli ich użytkownicy okażą się niekompatiblni z wartościami wyznawanymi przez Twoją instancję, a moderacja tamtej instancji nie wykazuje chęci współpracy.
 
 ## Co zrobić, gdy zobaczę, że ktoś łamie zasady?
 
