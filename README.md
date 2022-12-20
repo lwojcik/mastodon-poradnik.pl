@@ -315,9 +315,7 @@ Hasztag stanowi metadane o Twoim wpisie: dostarcza dodatkowych informacji, któr
 
 Dodatkowo†, hasztagi są śledzone przez każdą instancję. Kliknięcie w hasztag przenosi Cię do listy publicznych wpisów z tym hasztagiem. Możesz za ich pomocą czytać, co ciekawego przyniosła #polityka, znaleźć nowe osoby do obserwowania w tagu #FollowFriday, czy też zobaczyć prace artystyczne ludzi w tagu #mastoart. Mastodon od wersji 4.0.0 pozwala na obserwowanie wybranych hasztagów, dzięki czemu wpisy zawierające obserwowany hasztag wylądują na Twojej osi czasu.
 
-Nie przesadzaj z hasztagami. Co do zasady Twoje hasztagi nie powinny przekraczać 10% długości Twojego wpisu. Jeśli
-
-Don't go overboard with hashtags. As a guideline, your hashtags probably shouldn't be more than 10% of the total length of your toot. If you find yourself going over that, you might be spreading things a bit too thin.
+Nie przesadzaj z ilością hasztagów. Co do zasady Twoje hasztagi raczej nie powinny przekraczać 10% całkowitej długości Twojego wpisu. Jeśli zdarza Ci się przekraczać ten pułap, być może za bardzo rozmieniasz się na drobne.
 
 † _A właściwie taka idea przyświecała hasztagom na początku, ale ich faktyczne użycie wyewoluowało._
 
@@ -357,9 +355,9 @@ Zapewne zauważysz, że jeżeli do wpisu załączysz obrazek i użyjesz CW, nak�
 
 ## Załączyłam obrazek do mojego tootka. Jak dodać do niego opis zawartości?
 
-:interrobang: When you attach an image, you'll see "Edit" (plus a pencil icon) at the top right of the image. Clicking this will pop up a dialog box that lets you determine what part of the image should show in the preview; it also allows you to set alt-text for the image, which people can read if they mouse over the text, and which screen-readers (such as for the visually-impaired) can read instead of just saying "embedded image".
+:interrobang: Załączyszy obrazek, zobaczysz link "Edytuj" (z ikoną ołówka) w jego górnym prawym rogu. Kliknięcie na niego spowoduje otwarcie okna dialogowego, w którym będziesz mieć możliwość zdecydowania, która część obrazka powinna być widoczna w podglądzie. W oknie tym znajdziesz też możliwość ustawienia opisu zawartości obrazka, który będzie widoczny dla czytających Twój wpis przy najechaniu myszą oraz zostanie przeczytany przez czytniki głosowe (używane przez osoby z problemami ze wzrokiem) zamiast zwykłego "załączony obrazek".
 
-For images that are largely text (for example, a screenshot of a Tumblr post), Mastodon has built-in optical character recognition (OCR) and can often transcribe the image for you, although you should probably double-check the transcription to make sure it's accurate. If, for some reason, your instance's OCR isn't working, you can use an online tool like [Online OCR](https://www.onlineocr.net) to transcribe your image. And if all else fails, there are OCRBots on the fediverse that will reply to your post with a transcription if you @mention them.
+Z myślą o obrazkach składających się w większości z tekstu (np. zrzut ekranu wpisu na Tumblrze), Mastodon posiada wbudowany mechanizm rozpoznawania tekstu (OCR) i możesz się nim posłużyć do opisania Twojego obrazka, jednak nie zapomnij sprawdzić, czy wygenerowany opis na pewno jest poprawny. Jeżeli z jakiegoś powodu OCR na Twojej instancji nie działa, możesz użyć narzędzie online takiego jak [Online OCR](https://www.onlineocr.net) do wygenerowania opisu (transkrypcji) Twojego obrazka. A jeśli i to zawiedzie, w fediwersum znajdziesz roboty, które wygenerują opis obrazka, gdy je zawołasz po nazwie użytkownika. [ przyp. tłum.: jednym z nich jest [OCR Bot - @OCRbot@fedi.lynnesbian.space](https://fedi.lynnesbian.space/@OCRbot) i ma on możliwość rozpoznawania tekstów w wielu językach, również po polsku]
 
 Tekst w opisie obrazka ma swój własny limit 1500 znaków; **nie wlicza się on** w limit znaków dla treści Twojego wpisu!
 
