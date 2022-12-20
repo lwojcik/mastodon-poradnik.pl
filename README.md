@@ -315,9 +315,7 @@ Hasztag stanowi metadane o Twoim wpisie: dostarcza dodatkowych informacji, któr
 
 Dodatkowo†, hasztagi są śledzone przez każdą instancję. Kliknięcie w hasztag przenosi Cię do listy publicznych wpisów z tym hasztagiem. Możesz za ich pomocą czytać, co ciekawego przyniosła #polityka, znaleźć nowe osoby do obserwowania w tagu #FollowFriday, czy też zobaczyć prace artystyczne ludzi w tagu #mastoart. Mastodon od wersji 4.0.0 pozwala na obserwowanie wybranych hasztagów, dzięki czemu wpisy zawierające obserwowany hasztag wylądują na Twojej osi czasu.
 
-Nie przesadzaj z hasztagami. Co do zasady Twoje hasztagi nie powinny przekraczać 10% długości Twojego wpisu. Jeśli
-
-Don't go overboard with hashtags. As a guideline, your hashtags probably shouldn't be more than 10% of the total length of your toot. If you find yourself going over that, you might be spreading things a bit too thin.
+Nie przesadzaj z ilością hasztagamów. Co do zasady Twoje hasztagi raczej nie powinny przekraczać 10% całkowitej długości Twojego wpisu. Jeśli zdarza Ci się przekraczać ten pułap, być może za bardzo rozmieniasz się na drobne.
 
 † _A właściwie taka idea przyświecała hasztagom na początku, ale ich faktyczne użycie wyewoluowało._
 
