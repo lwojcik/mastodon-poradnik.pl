@@ -1,16 +1,18 @@
 # Niezbyt zwięzłe wprowadzenie do [Mastodona](https://joinmastodon.org/pl)
 
-_[ Bazą wyjściową dla niniejszego poradnika jest [An Increasingly Less-Brief Guide to Mastodon](https://github.com/joyeusenoelle/GuideToMastodon) autorstwa [Noëlle Anthony](https://github.com/joyeusenoelle) oraz [współtwórców](https://github.com/joyeusenoelle/GuideToMastodon/graphs/contributors). Pierwotnie miało to być po prostu wierne tłumaczenie oryginału. Jednakże długofalowym celem tego poradnika jest wyjście poza rolę zwykłego przekładu językowego i nieco bardziej precyzyjne opisanie tego, jak działa Mastodon w Polsce. Dopóki jednak pewne koncepty i zjawiska nie zaistnieją na polskim Mastodonie, niniejszy poradnik będzie posługiwał się przykładami z oryginalnej wersji. ]_
+_[ Bazą wyjściową dla niniejszego poradnika jest [An Increasingly Less-Brief Guide to Mastodon](https://github.com/joyeusenoelle/GuideToMastodon) autorstwa [Noëlle Anthony](https://github.com/joyeusenoelle) oraz [współtwórców](https://github.com/joyeusenoelle/GuideToMastodon/graphs/contributors). Pierwotnie miało to być po prostu wierne tłumaczenie oryginału. Jednak długofalowym celem tego poradnika jest wyjście poza rolę zwykłego przekładu językowego i nieco bardziej precyzyjne opisanie tego, jak działa Mastodon w Polsce. Dopóki jednak pewne koncepty i zjawiska nie zaistnieją na polskim Mastodonie, niniejszy poradnik będzie posługiwał się przykładami z oryginalnej wersji. ]_
 
-<p style="text-align:center;"><h1>Spokojnie. To nie jest tak straszne, jak wygląda.</h1></p>
+<p style="text-align:center;"><h1>Spokojnie. Nie jest tak strasznie, jak mogłoby się wydawać.</h1></p>
 
 **Mastodon różni się dość znacznie od Twittera, ale da się do niego przyzwyczaić.** Wszystkie istotne różnice są oznaczone tym emoji :bangbang:; z góry przepraszam, jeśli coś pominęłam. Dawno mnie nie było na Twitterze!
 
-Zarówno autorka oryginału, jak i autor tłumaczenia dołożyli wszelkich starań, aby brzmiało to przystępnie, ale sugestie zmian są mile widziane! Jeżeli masz konto na GitHubie, możesz przesłać propozycje zmian bezpośrednio. Możesz również skontaktować się z autorką poradnika [na Mastodonie](https://elekk.xyz/@noelle) lub mailem: `noelle AT noelle.codes`.
+Zarówno autorka oryginału, jak i autor tłumaczenia dołożyli wszelkich starań, aby brzmiało to przystępnie, ale sugestie zmian są mile widziane! Jeżeli masz konto na GitHubie i chcesz pomóc przy tworzeniu oryginalnej wersji tego poradnika, możesz przesłać propozycje zmian bezpośrednio. Możesz również skontaktować się z autorką poradnika [na Mastodonie](https://elekk.xyz/@noelle) lub mailem: `noelle AT noelle.codes`.
 
-Oryginalna, anglojęzyczna wersja tej strony znajduje się pod adresem http://guidetomastodon.com. Linkując do niej, podlinkuj również do [@Noelle@elekk.xyz](https://elekk.xyz/@noelle). Dzięki!
+Oryginalna wersja tej strony znajduje się pod adresem http://guidetomastodon.com. Linkując do niej, podlinkuj również do [@Noelle@elekk.xyz](https://elekk.xyz/@noelle). Dzięki!
 
-_[przyp. tłum.: Polskojęzyczna wersja tego przewodnika (którą to właśnie teraz czytasz) znajduje się pod adresem https://github.com/lwojcik/Mastodon-Poradnik. Propozycje zmian do tej wersji mogą być [zgłaszane na GitHubie](https://github.com/lwojcik/Mastodon-Poradnik/issues). Autor tłumaczenia robi to w dobrej wierze i bez większych oczekiwań wobec świata. Będzie mu jednak bardzo miło, jeśli przy linku do tłumaczenia znajdzie się jeden z linków do jego kont: [@lukem@masto.ai](https://masto.ai/@lukem) albo [@lukaszwojcik@mastodon.pl](https://mastodon.pl/@lukaszwojcik).]_
+Polskojęzyczną wersję tego poradnika (a więc tą, którą właśnie czytasz) znajdziesz zawsze pod adresem http://mastodon-poradnik.pl. Propozycje zmian do tej wersji mogą być [zgłaszane na GitHubie](https://github.com/lwojcik/Mastodon-Poradnik/issues).
+
+Autor tłumaczenia robi to w dobrej wierze i bez większych oczekiwań wobec świata. Będzie mu jednak bardzo miło, jeśli przy linku do tłumaczenia znajdzie się jeden z linków do jego kont: [@lukem@masto.ai](https://masto.ai/@lukem) albo [@lukaszwojcik@mastodon.pl](https://mastodon.pl/@lukaszwojcik).
 
 ## Spis treści
 
@@ -59,25 +61,25 @@ _[przyp. tłum.: Polskojęzyczna wersja tego przewodnika (którą to właśnie t
 
 ## Czym jest Mastodon?
 
-Mastodon to platforma do tworzenia sieci społecznościowych. Dzięki niej każdy może uruchomić własną stronę społecznościową (oraz udostępnić ją do użytku innym ludziom, jeśli takie ma życzenie). Każda strona na Mastodonie może komunikować się z innymi stronami na Mastodonie (jak również [wieloma innymi](https://en.wikipedia.org/wiki/ActivityPub)). To takie skrzyżowanie Twittera z e-mailem, ale nieco różniące się od nich.
+Mastodon to platforma do tworzenia sieci społecznościowych. Dzięki niej każdy może uruchomić własną stronę społecznościową oraz - jeżeli chce - udostępnić ją do użytku innym ludziom. Każda strona na Mastodonie może komunikować się z innymi stronami na Mastodonie (jak również [wieloma innymi](https://en.wikipedia.org/wiki/ActivityPub)). To takie skrzyżowanie Twittera z e-mailem, ale nieco różniące się nieco od nich.
 
 Nazwa "Mastodon" pochodzi od [zespołu heavy-metalowego](https://www.mastodonrocks.com/), ale wyglądem nawiązuje do [wymarłego zwierzęcia](https://pl.wikipedia.org/wiki/Mastodonty).
 
 ## Co łączy go z Twitterem?
 
-Dodajesz względnie krótkie wpisy i widzisz aktualizującą się listę wpisów Twoich od Twoich znajomych. W osobnej kolumnie możesz sprawdzić powiadomienia (odpowiedzi, podbicia, polubienia i wiadomości bezpośrednie).
+Dodajesz krótkie wpisy i widzisz aktualizującą się listę wpisów od Twoich znajomych. W osobnej kolumnie możesz sprawdzić powiadomienia (odpowiedzi, podbicia, polubienia i wiadomości bezpośrednie).
 
-Wpisy na Mastodonie nazywane są "tootami" albo "tootkami" (ang. _toots_). Jeden toot może pomieścić do 500 znaków. _[ przyp. tłum.: Istnieją instancje Mastodona, które wyłamują się z tej reguły - np. najstarszy polski serwer Mastodona, 101010.pl, posiada limit 2048 znaków. Mastodon nie umożliwia łatwej zmiany limitu znaków, jednak jest to możliwe poprzez modyfikację kodu i administratorzy niektórych serwerów Mastodona to robią. ]_
+Wpisy na Mastodonie nazywane są "tootami" albo "tootkami" (ang. _"toots"_). Jeden toot może pomieścić do 500 znaków. Istnieją instancje Mastodona, które wyłamują się z tej reguły - np. najstarszy polski serwer Mastodona, 101010.pl, posiada limit 2048 znaków.
 
 Mastodon obsługuje też hasztagi, czyli słowa poprzedzone znakiem #, np. "#giereczkowo" czy "#fotografia". Klikając w hasztag zobaczysz inne wpisy zawierające ten tag.
 
 ## Co łączy go z e-mailem?
 
-:bangbang: Każda instancja Mastodona jest niezależna, ale działa w ramach jednej sieci, podobnie jak serwery pocztowe. Gdy zakładasz skrzynkę e-mail na gmail.com, to nie dostajesz automatycznie skrzynki na interia.pl czy wp.pl, ale możesz wysyłać i odbierać wiadomości od użytkowników skrzynek na interia.pl czy wp.pl.
+:bangbang: Każda instancja Mastodona jest niezależna, ale działa w ramach jednej sieci, zupełnie jak serwery poczty e-mail. Gdy zakładasz skrzynkę e-mail na gmail.com, to nie dostajesz automatycznie skrzynki na interia.pl czy wp.pl, ale możesz wysyłać i odbierać wiadomości od użytkowników skrzynek na interia.pl czy wp.pl.
 
-Analogicznie, gdy zakładasz konto na mastodon.social, to nie dostajesz konta na każdej innej instancji. Możesz jednak rozmawiać z ludźmi z innych instancji, a oni mogą rozmawiać z Tobą.
+Tak samo tutaj - gdy zakładasz konto na mastodon.social, to nie dostajesz konta na każdej innej instancji. Możesz jednak rozmawiać z ludźmi z innych instancji, a oni mogą rozmawiać z Tobą.
 
-Możesz założyć konta na wielu instancjach, jeżeli chcesz poruszać różne tematy w oddzielnych miejscach. Możesz założyć konto na https://hackers.town aby pisać o technologii, konto na https://elekk.xyz aby rozmawiać o grach, oraz konto na https://mastodon.online do tematów ogólnych. Do każdego konta musisz logować się osobno i możesz mieć otwarte każde z nich w osobnej karcie lub oknie przeglądarki (wiele aplikacji mobilnych również posiada możliwość logowania na wielu kontach jednocześnie).
+Możesz mieć konta na wielu instancjach i używać każdego z nich do poruszania innych tematów. Możesz założyć konto na https://hackers.town aby pisać o technologii, konto na https://elekk.xyz aby rozmawiać o grach, oraz konto na https://mastodon.online do tematów ogólnych. Do każdego konta musisz logować się osobno i możesz mieć otwarte każde z nich w osobnej karcie lub oknie przeglądarki (wiele aplikacji mobilnych również posiada możliwość logowania na wielu kontach jednocześnie).
 
 **Pamiętaj, że w przypadku Mastodona, pojęcia "serwer" i "instancja" oznaczają to samo.**
 
@@ -87,27 +89,29 @@ Możesz założyć konta na wielu instancjach, jeżeli chcesz poruszać różne 
 
 Lokalna oś czasu prezentuje wszystkie wpisy dodane przez użytkowników Twojej instancji, z wyjątkiem reakcji (reakcją jest każdy toot wysłany _jako odpowiedź_ na innego toota - samo wspomnienie innego użytkownika nie powoduje, że wpis staje się od razu odpowiedzią!).
 
-Globalna oś czasu prezentuje wszystkie publiczne wpisy dodane przez użytkowników, o których istnieniu wie Twoja instancja, nawet jeśli ci użytkownicy są z innych instancji. Twoja instancja wie o osobie z innej instancji wtedy, kiedy przynajmniej jeden użytkownik z Twojej instancji KIEDYKOLWIEK doda tę osobę do obserwowanych.
+Globalna oś czasu prezentuje publiczne wpisy wszystkich ludzi, o których istnieniu wie Twoja instancja - także tych z innych instancji. Twoja instancja wie o osobie z innej instancji wtedy, kiedy przynajmniej jeden użytkownik Twojej instancji KIEDYKOLWIEK doda tę osobę do obserwowanych.
 
-Lokalna i globalna oś czasu mogą czasem przytłoczyć ilością treści. Korzystaj ostrożnie!
+Lokalna i globalna oś czasu mogą czasem przytłaczać ilością treści. Korzystaj z rozwagą!
 
 ## Czym jest fediwersum (ang. Fediverse)?
 
 ~~Niestety, nie mogę ci powiedzieć, czym jest fediwersum~~
 
-Fediwersum to rozległy zbiór serwerów, które porozumiewają się ze sobą za pomocą protokołów ActivityPub lub OStatus (tak szczerze, jeżeli nie tworzysz oprogramowania do komunikacji z fediwerum, to nie musisz wiedzieć co to oznacza). Istnieje mnóstwo różnych rodzajów oprogramowania w fediwersum, takich jak Pixelfed, Pleroma, Misskey czy WriteFreely. Mastodon jest jednym z najpopularniejszych i to o nim traktuje to wprowadzenie. Jeżeli używasz czegoś innego, ten poradnik raczej niewiele Ci pomoże.
+Fediwersum (ang. _"fediverse"_ albo _"fedi"_) to rozproszony zbiór serwerów, które porozumiewają się ze sobą za pomocą protokołów ActivityPub lub OStatus (tak szczerze, jeżeli nie tworzysz oprogramowania do komunikacji z fediwersum, to nie musisz wiedzieć co to oznacza).
+
+Istnieje mnóstwo różnych rodzajów oprogramowania w fediwersum, takich jak Pixelfed, Pleroma, Misskey czy WriteFreely. Mastodon jest jednym z najpopularniejszych i to o nim traktuje to wprowadzenie. Jeżeli używasz czegoś innego, ten poradnik raczej niewiele Ci pomoże.
 
 ## Jak mogę zbudować obecność marki na Mastodonie?
 
-:bangbang: Krótka odpowiedź: **bardzo ostrożnie.**
+:bangbang: W skrócie: **bardzo ostrożnie.**
 
-Mamy za sobą piętnaście lat życia z Twitterem, Facebookiem i Bóg jeden wie iloma innymi serwisami, które stały się platformami do SEO, budowania świadomości marki, korporacyjnej synergii, i powiem bez ogródek: większość z nas ma już tego wszystkiego po dziurki w nosie.
+Mamy za sobą kilkanaście lat życia z Twitterem, Facebookiem i Bóg jeden wie iloma innymi serwisami, które przekształciły się w platformy do SEO, budowania świadomości marki, korporacyjnej synergii - no i powiem bez ogródek: większość z nas ma już tego wszystkiego po dziurki w nosie.
 
 Mastodon nie polega na konwersji obserwujących w klientów. To nie jest kolejne miejsce na SEO czy budowanie lojalności wobec marek. **Mastodon to ludzie.** Nie patrz na użytkowników Mastodona jak na potencjalnych klientów, którzy mogliby coś od Ciebie kupić. Patrz na ich jak na _ludzi_, których chciał(a)byś poznać.
 
-Jeżeli tworzysz coś i masz przeczucie, że ktoś mógłby kupić Twój produkt albo skorzystać z Twoich usług - wspaniale! Powiedz o tym ludziom - ale _miej w pamięci, że to żywi ludzie_, a nie grupa docelowa Twojego marketingu.
+Jeżeli tworzysz coś i masz przeczucie, że ktoś mógłby kupić Twój produkt albo skorzystać z Twoich usług - wspaniale! Powiedz nam o tym - ale \_miej w pamięci, że jesteśmy ludźmi z krwi i kości, a nie grupą docelową Twojego marketingu.
 
-Jest jedno irytujące zachowanie typowe dla wielu firm, a którego nie powinieneś / powinnaś powielać: **nie wysyłaj nikomu niezamówionych wiadomości reklamujących Twój produkt lub usługę**. Daj sobie trochę czasu na poznanie ludzi, wchodź z nimi w konwersacje. Gdy masz pewność, że konkretna osoba mogłaby zainteresować się tym, co masz do zaoferowania i jeszcze o tym nie wie - _dopiero wtedy_ powiedz jej o swoim produkcie / usłudze.
+Jest jedno irytujące zachowanie typowe dla wielu firm, a niezbyt widziane wśród ludzi: **nie wysyłaj nikomu niezamówionych wiadomości reklamujących Twój produkt lub usługę**. Daj sobie trochę czasu na poznanie Twoich rozmówców, wchodź z nimi w dyskusje. Gdy masz pewność, że ktoś mógłby zainteresować się tym, co masz do zaoferowania i jeszcze o tym nie wie - _dopiero wtedy_ powiedz tej osobie o swoim produkcie / usłudze.
 
 Jeżeli reprezentujesz firmę i Twój szef powiedział Ci, że Wasza firma musi być obecna na Mastodonie, możesz mu odpowiedzieć tak (i możesz też dodać, że to ja kazałam Ci tak odpowiedzieć) _[ przyp. tłum.: autor tłumaczenia też się pod tym podpisuje]_:
 
@@ -117,7 +121,7 @@ Jeżeli reprezentujesz firmę i Twój szef powiedział Ci, że Wasza firma musi 
 
 :bangbang: W przeciwieństwie do Twittera, Mastodon nie posiada wbudowanego mechanizmu weryfikacji. Wierzymy na słowo, że jesteś tym, za kogo się podajesz. Jeżeli widzisz kogoś ze znaczkiem wyglądającym jak ikonka weryfikacji na Twitterze (na przykład :white_check_mark:), to ta osoba po prostu dodała emoji do wyświetlanej nazwy.
 
-Mimo to, administratorzy niektórych instancji mogą wymagać potwierdzenia tożsamości użytkownika przed umożliwieniem mu rejestracji, ale **to nie jest regułą**.
+Mimo to, na niektórych instancjach może być wymagane potwierdzenie tożsamości przed założeniem konta, ale **to nie jest reguła**.
 
 **Jeżeli ktoś podaje się za Ciebie, skontaktuj się z administratorem instancji, z której ta osoba korzysta, aby rozwiązać ten problem.**
 
@@ -131,27 +135,29 @@ Jeżeli Twoja instancja na to pozwala, instrukcję dodania linku do weryfikacji 
 
 Celowo wielkimi literami.
 
-Wybór instancji nie jest prosty. Wiele instancji ma specyficzny profil: `mastodon.lol` jest bezpieczną przestrzenią dla osób queerowych, `hackers.town` jest przystanią dla maniaków komputerów, `wandering.shop` powstał z myślą o fanach science fiction i fantasy, a `botsin.space` pozwala na utrzymywanie i rozwój kont automatycznych (botów). Na `oulipo.social` niedozwolone jak dodawanie wpisów zawierających choćby jedną literę "e".
+Jeżeli chcesz czytać wpisy Polaków, rozmawiać z ludźmi po polsku i niezbyt interesuje Cię zagraniczna część fediwersum, Twoim najlepszym wyborem będzie jedna ze znanych instancji prowadzonych przez Polaków. Najstarszą polską instancją Mastodona jest [101010.pl](https://101010.pl). Są też inne, takie jak [pol.social](https://pol.social/), [mastodon.pl](https://mastodon.pl/) czy [dadalo.pl](https://dadalo.pl/).
 
-Jeżeli nie masz jeszcze konta na Mastodonie, dobrym pomysłem może być użycie jednej z większych instancji, takich jak `mastodon.social` - flagowej instancji, liczącej ponad 100 tys. użytkowników - czy też `mas.to`. Te instancje posiadają ogromne, zazwyczaj przyjazne społeczności ludzi, którzy chętnie pomogą Ci znaleźć bardziej wyspecjalizowaną instancję, jeżeli takowej poszukujesz. Przestrzegam jednak, że z uwagi na rozmiar tych instancji, ich lokalne osie czasu potrafią odświeżać się bardzo szybko.
+Z perspektywy kogoś, kogo interesuje szersza (anglojęzyczna) część fediwersum, kwestia wyboru instancji nieco się komplikuje. Wiele instancji ma specyficzny profil: `mastodon.lol` jest bezpieczną przestrzenią dla osób queerowych, `hackers.town` jest przystanią dla maniaków komputerów, `wandering.shop` powstał z myślą o fanach science fiction i fantasy, a `botsin.space` pozwala na utrzymywanie i rozwój kont automatycznych (botów). Na `oulipo.social` niedozwolone jak dodawanie wpisów zawierających choćby jedną literę "e".
+
+Jeżeli nie masz jeszcze konta na Mastodonie, dobrym pomysłem może być użycie jednej z większych instancji, takich jak `mastodon.online` - flagowej instancji, liczącej ponad 100 tys. użytkowników - czy też `mstdn.social` lub `mas.to`. Te instancje posiadają liczne, z reguły przyjazne społeczności, którzy chętnie pomogą Ci znaleźć bardziej wyspecjalizowaną instancję, jeżeli zechcesz takiej poszukać. Przestrzegam jednak, że z uwagi na rozmiar tych instancji, ich lokalne osie czasu potrafią odświeżać się bardzo szybko.
 
 (_Uwaga na marginesie odnośnie mastodon.social: to **jest** największa ogólnodostępna instancja (największa ogólnie jest instancja japońskojęzyczna [mstdn.jp](https://mstdn.jp)). Wielu ludzi zakłada tam konta i nigdy nie interesuje się innymi instancjami. Jeśli masz już konto na mastodon.social, dobrym pomysłem jest traktowanie go jak tymczasowego przystanku zanim znajdziesz instancję lepiej odpowiadającą Twoim potrzebom i zainteresowaniom. Gdy już taką znajdziesz, możesz wyeksportować wszystkich ludzi, których obserwujesz, masz wyciszonych i zablokowanych na mastodon.social i zaimportować je na nowym koncie, dzięki czemu nie musisz szukać wszystkich drugi raz._)
 
-Jeżeli masz już konto na jakiejś instancji, ale masz wątpliwości czy jest ona dobrym miejscem dla Ciebie, poproś o sugestie instancji, które bardziej Ci odpowiadają. Ponadto, wyszukaj treści według #hasztaga, który Cię interesuje. Jeżeli znajdzie się większa grupa ludzi z jednej instancji, która mówi na dany temat, może to być dobre miejsce do sprawdzenia.
+Jeżeli masz już konto na jakiejś instancji, ale masz wątpliwości czy jest ona dobrym miejscem dla Ciebie, poproś o sugestie instancji, które mogłyby bardziej Ci odpowiadać tematycznie. Ponadto, wyszukaj treści według #hasztaga, który Cię interesuje. Jeżeli znajdziesz większą grupę ludzi z jednej instancji, która rozmawia na dany temat - być może warto się tą instancją zainteresować.
 
-Możesz również skorzystać z narzędzia do wyboru instancji na [joinmastodon.org](https://joinmastodon.org/communities) czy też formularza na [instances.social](https://instances.social/), jednak ich listy zawierają _mnóstwo_ instancji i może to być dla Ciebie przytłaczające. Spokojnie, nie spiesz się.
+Możesz także skorzystać z narzędzia do wyboru instancji na [joinmastodon.org](https://joinmastodon.org/communities) czy też formularza na [instances.social](https://instances.social/), jednak ich listy zawierają _mnóstwo_ instancji i może to być dla Ciebie przytłaczające. Spokojnie, nie spiesz się.
 
 ## Znalazłam inną instancję, która bardziej mi odpowiada. Czy mogę przenieść moje konto?
 
 Tak i nie.
 
-Są dwa sposoby aby to osiągnąć: możesz swoje konto **przekierować** albo **zmigrować**.
+Są dwa sposoby aby to osiągnąć: możesz **przekierować** albo **zmigrować** swoje konto.
 
-Jeżeli wybierzesz **przekierowanie** konta, Twoje stare konto będzie wyświetlać informacje o przeniesieniu i nie będziesz mieć możliwości korzystania z niego (czyli przede wszystkim stracisz możliwość publikowania na nim). Wciąż będziesz mieć możliwość wyeksportowania danych z Twojego konta oraz reaktywowania go w dowolnym momencie. Użytkownicy, którzy wejdą na Twoje stare konto, zobaczą informację, że mogą Cię znaleźć pod nowym adresem. Nic więcej nie zostanie przeniesione automatycznie. Aby ustawić przekierowanie konta przejdź na stronę `[adres Twojego serwera]/settings/migration/redirect/new` (na przykład elekk.xyz/settings/migration/redirect/new). Link te znajdziesz na stronie poświeconej migracji konta. Wystarczy, że wpiszesz nazwę konta, do którego chcesz ustawić przekierowanie, a Mastodon zajmie się resztą.
+Jeżeli wybierzesz **przekierowanie** konta, Twoje stare konto będzie wyświetlać informacje o przeniesieniu i stracisz możliwość korzystania z niego (czyli przede wszystkim stracisz możliwość publikowania na nim). Wciąż będziesz mieć możliwość wyeksportowania danych z tego konta oraz reaktywowania go w dowolnym momencie. Użytkownicy, którzy wejdą na Twoje stare konto, zobaczą informację, że mogą Cię znaleźć pod nowym adresem. Nic więcej nie zostanie przeniesione automatycznie. Aby ustawić przekierowanie konta przejdź na stronę `[adres Twojego serwera]/settings/migration/redirect/new` (na przykład elekk.xyz/settings/migration/redirect/new). Link te znajdziesz na stronie poświeconej migracji konta. Wystarczy, że wpiszesz nazwę konta, do którego chcesz ustawić przekierowanie, a Mastodon zajmie się resztą.
 
 (Przy przekierowaniu konta masz możliwość ręcznego przeniesienia części swoich danych. Zobacz kroki 4-6 poniżej.)
 
-Jeżeli wybierzesz **migrację** swojego konta, stanie się dokładnie to samo, co przy przekierowaniu konta. **Ale oprócz tego**, wszyscy, którzy Cię obserwują, zostaną przeniesieni na Twoje nowe konto (dzięki czemu nikt nie będzie musiał drugi raz szukać i dodawać Cię do obserwowanych). Ponadto, _możesz_ przenieść swoje listy obserwowanych, list, zablokowanych, wyciszonych, zablokowanych domen i zakładek, ale system nie zrobi tego za Ciebie.
+Jeżeli wybierzesz **migrację** swojego konta, stanie się dokładnie to samo, co przy przekierowaniu konta. **Ale oprócz tego**, wszyscy, którzy Cię obserwują, automatycznie zaobserwują Twoje nowe konto (dzięki czemu nikt nie będzie musiał drugi raz szukać i dodawać Cię do obserwowanych). Ponadto, _możesz_ przenieść swoich obserwowanych, listy, zablokowanych, wyciszonych, zablokowane domeny i zakładki - system nie zrobi tego automatycznie za Ciebie.
 
 **W żadnym z powyższych przypadków Twoje wpisy nie zostaną przeniesione. Na nowym koncie zaczynasz z pustą historią wpisów.**
 
@@ -181,11 +187,11 @@ Specjalne podziękowania dla [Teda](https://peoplemaking.games/@esdin) i arachno
 
 ## Jak zmienić nazwę użytkownika?
 
-:bangbang: W skrócie: nie da się. Gdy już wybierz nazwę użytkownika dla swojego konta, nie da się jej zmienić, więc wybieraj rozsądnie.
+:bangbang: W skrócie: nie da się. Gdy już wybierz nazwę użytkownika dla swojego konta, nie da się jej zmienić, więc wybieraj z rozwagą.
 
 Rozwijając odpowiedź: jedyną możliwością zmiany nazwy użytkownika jest migracja konta (zobacz wyżej), jednakże nie zabierzesz ze sobą historii swoich wpisów.
 
-Niektórzy bardziej ambitni administratorzy próbowali zmieniać nazwy użytkowników bezpośrednio w bazie danych (na prośbę samych użytkowników), ale z jakiegoś powodu federacja na takich kontach przestawała działać; użytkownicy zgłaszali problemy z dostarczaniem wiadomości na inne instancje i widocznością wzmianek.
+Niektórzy bardziej ambitni administratorzy próbowali zmieniać nazwy użytkowników bezpośrednio w bazie danych (na prośbę samych zainteresowanych), ale z jakiegoś powodu federacja na takich kontach przestawała działać; ludzie zgłaszali problemy z dostarczaniem wiadomości i widocznością wzmianek na innych instancjach.
 
 ## Jak wspomnieć kogoś, kto nie jest na mojej instancji?
 
@@ -197,13 +203,13 @@ Jeśli wspominasz o kimś z Twojej instancji, wystarczy wpisać tylko pierwszy c
 
 Zasady zależą od instancji. Każda instancja posiada stronę pod adresem https://<span>_adres_instancji_</span>/about, która zazwyczaj zawiera informacje o instancji oraz określa zasady społeczności. Dla przykładu, zasady instancji mastodon.social znajdują się na https://mastodon.social/about.
 
-Miej na uwadze, że są to zazwyczaj wskazówki, a nie sztywne reguły. Jako że każda instancja jest obsługiwana przez osobny skład moderatorski - często w składzie jednej osoby! - ma on ostatnie słowo w kwesti tego, co na jego instancji jest dozwolone, a co nie. Administratorzy Twojej instancji mogą nawet posunąć się do blokowania innych instancji w całości, jeżeli ich użytkownicy okażą się niekompatiblni z wartościami wyznawanymi przez Twoją instancję, a moderatorzy tamtej instancji nie okazują chęci współpracy.
+Miej na uwadze, że są to zazwyczaj wskazówki, a nie sztywne reguły. Jako że każda instancja jest obsługiwana przez osobny zespół moderatorski - często w składzie jednej osoby! - ma on ostatnie słowo w kwesti tego, co na jego instancji jest dozwolone, a co nie. Administracja Twojej instancji może nawet posunąć się do blokowania innych instancji w całości, jeżeli ich użytkownicy okażą się niekompatiblni z wartościami wyznawanymi przez Twoją instancję, a moderacja tamtej instancji nie wykazuje chęci współpracy.
 
 ## Co zrobić, gdy zobaczę, że ktoś łamie zasady?
 
-Jeżeli zauważysz łamanie zasad, możesz wysłać zgłoszenie. Kliknij na `...` pod wpisem naruszającym zasady i wybierz `Zgłoś @nazwa_uzytkownika` (opcja ta znajduje się zazwyczaj gdzieś na dole menu). Otworzy się okno, w którym możesz zaznaczyć inne wpisy użytkownika, jak również wpisać _powód_ zgłoszenia, aby ułatwić moderatorowi zrozumienie, dlaczego wysyłasz zgłoszenie.
+Jeżeli zauważysz łamanie zasad, możesz je zgłosić. Kliknij na `...` pod wpisem naruszającym zasady i wybierz `Zgłoś @nazwa_uzytkownika` (opcja ta znajduje się zazwyczaj gdzieś na dole menu). Otworzy się okno, w którym możesz zaznaczyć inne wpisy zgłaszanego użytkownika, jak również wpisać _powód_ zgłoszenia, aby ułatwić moderacji zrozumienie, dlaczego wysyłasz zgłoszenie.
 
-Jeżeli użytkownik jest na innej instancji, to obok powodu zgłoszenia znajdziesz także przełącznik umożliwiający przekazanie zgłoszenia do instancji użytkownika. W ten sposób zgłoszenie trafi nie tylko do moderatorów Twojej instancji, ale również do moderatorów instancji tego użytkownika. Zanim jednak to zrobisz, **sprawdź reguły instancji tamtego użytkownika**. Może się okazać, że wcale nie łamie on reguł swojej instancji.
+Jeżeli użytkownik jest na innej instancji, to obok powodu zgłoszenia znajdziesz także przełącznik umożliwiający przekazanie zgłoszenia do instancji użytkownika. W ten sposób zgłoszenie trafi nie tylko do moderacji Twojej instancji, ale również do moderacji instancji tego użytkownika. Zanim jednak to zrobisz, **sprawdź reguły instancji tamtego użytkownika**. Może się okazać, że wcale nie łamie on reguł swojej instancji.
 
 **Moderatorzy i administratorzy _Twojej_ instancji będą widzieli, że zgłoszenie zostało wysłane od Ciebie. Jeżeli wybierzesz opcję przekazania zgłoszenia do instancji danego użytkownika, moderatorzy i administratorzy tamtej instancji _nie zobaczą_, kto przysłał zgłoszenie - dowiedzą się tylko, że zgłoszenie przyszło z Twojej instancji.**
 
