@@ -1,6 +1,6 @@
 # Niezbyt zwięzłe wprowadzenie do [Mastodona](https://joinmastodon.org/pl)
 
-_[ Bazą wyjściową dla niniejszego poradnika jest [An Increasingly Less-Brief Guide to Mastodon](https://github.com/joyeusenoelle/GuideToMastodon) autorstwa [Noëlle Anthony](https://github.com/joyeusenoelle) oraz [współtwórców](https://github.com/joyeusenoelle/GuideToMastodon/graphs/contributors). Pierwotnie miało to być po prostu wierne tłumaczenie oryginału. Jednak długofalowym celem tego poradnika jest wyjście poza rolę zwykłego przekładu językowego i nieco bardziej precyzyjne opisanie tego, jak działa Mastodon w Polsce. Dopóki jednak pewne koncepty i zjawiska nie zaistnieją na polskim Mastodonie, niniejszy poradnik będzie posługiwał się przykładami z oryginalnej wersji. ]_
+_[ Bazą wyjściową dla niniejszego poradnika jest [An Increasingly Less-Brief Guide to Mastodon](http://guidetomastodon.com/) autorstwa [Noëlle Anthony](https://github.com/joyeusenoelle) oraz [współtwórców](https://github.com/joyeusenoelle/GuideToMastodon/graphs/contributors). Pierwotnie miało to być po prostu wierne tłumaczenie oryginału. Jednak długofalowym celem tego poradnika jest wyjście poza rolę zwykłego przekładu językowego i nieco bardziej precyzyjne opisanie tego, jak działa Mastodon w Polsce. Dopóki jednak pewne koncepty i zjawiska nie zaistnieją na polskim Mastodonie, niniejszy poradnik będzie posługiwał się przykładami z oryginalnej wersji. ]_
 
 <p style="text-align:center;"><h1>Spokojnie. Nie jest tak strasznie, jak mogłoby się wydawać.</h1></p>
 
