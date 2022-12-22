@@ -40,12 +40,12 @@ Autor tłumaczenia robi to w dobrej wierze i bez większych oczekiwań wobec ś
 - [Co się dzieje, gdy przekroczę limit znaków?](#co-się-dzieje-gdy-przekroczę-limit-znaków)
 - [Czym są hasztagi?](#czym-są-hasztagi)
 - [Co oznacza "CW"?](#co-oznacza-cw)
-- [Załączyłam obrazek do mojego tootka. Co to za ikonka z okiem?](#załączyłam-obrazek-do-mojego-tootka-co-to-za-ikonka-z-okiem)
-- [Załączyłam obrazek do mojego tootka. Jak dodać do niego opis zawartości?](#załączyłam-obrazek-do-mojego-tootka-jak-dodać-do-niego-opis-zawartości)
+- [Załączyłam obrazek do mojego wpisu. Co to za ikonka z okiem?](#załączyłam-obrazek-do-mojego-wpisu-co-to-za-ikonka-z-okiem)
+- [Załączyłam obrazek do mojego wpisu. Jak dodać do niego opis zawartości?](#załączyłam-obrazek-do-mojego-wpisu-jak-dodać-do-niego-opis-zawartości)
 - [Dlaczego powinnam opisywać moje obrazki?](#dlaczego-powinnam-opisywać-moje-obrazki)
 - [Dlaczego moja znajoma na innej instancji może używać tej emotki, a ja nie?](#dlaczego-moja-znajoma-na-innej-instancji-może-używać-tej-emotki-a-ja-nie)
 - [Dlaczego nie mogę wyszukać konkretnego słowa lub frazy?](#dlaczego-nie-mogę-wyszukać-konkretnego-słowa-lub-frazy)
-- [Dlaczego nie mogę zacytować czyjegoś tootka jak na Twitterze?](#dlaczego-nie-mogę-zacytować-czyjegoś-tootka-jak-na-twitterze)
+- [Dlaczego nie mogę zacytować czyjegoś wpisu jak na Twitterze?](#dlaczego-nie-mogę-zacytować-czyjegoś-wpisu-jak-na-twitterze)
 - [Kultura na Mastodonie jest jakaś taka... dziwna?](#kultura-na-mastodonie-jest-jakaś-taka-dziwna)
 - [Co oznacza ![:red_candle:](red_candle_sm.png)?](#co-oznacza-)
 - [Jaka jest ogólnie przyjęta etykieta na Mastodonie?](#jaka-jest-ogólnie-przyjęta-etykieta-na-mastodonie)
@@ -69,7 +69,7 @@ Nazwa "Mastodon" pochodzi od [zespołu heavy-metalowego](https://www.mastodonroc
 
 Dodajesz krótkie wpisy i widzisz aktualizującą się listę wpisów od Twoich znajomych. W osobnej kolumnie możesz sprawdzić powiadomienia (odpowiedzi, podbicia, polubienia i wiadomości bezpośrednie).
 
-Wpisy na Mastodonie nazywane są "tootami" albo "tootkami" (ang. _"toots"_). Jeden toot może pomieścić do 500 znaków. Istnieją instancje Mastodona, które wyłamują się z tej reguły - np. najstarszy polski serwer Mastodona, 101010.pl, posiada limit 2048 znaków.
+Wpisy na Mastodonie nazywane są czasem "tootami" albo "tootkami" (od ang. _"toot"_). Jeden "toot" może pomieścić do 500 znaków. Istnieją instancje Mastodona, które wyłamują się z tej reguły - np. najstarszy polski serwer Mastodona, 101010.pl, posiada limit 2048 znaków.
 
 Mastodon obsługuje też hasztagi, czyli słowa poprzedzone znakiem #, np. "#giereczkowo" czy "#fotografia". Klikając w hasztag zobaczysz inne wpisy zawierające ten tag.
 
@@ -87,7 +87,7 @@ Możesz mieć konta na wielu instancjach i używać każdego z nich do poruszani
 
 :bangbang: Mastodon posiada dwie dodatkowe osie czasu, które możesz przeglądać: lokalną oś czasu (ang. 'Local timeline') i globalną oś czasu (ang. 'Federated timeline').
 
-Lokalna oś czasu prezentuje wszystkie wpisy dodane przez użytkowników Twojej instancji, z wyjątkiem reakcji (reakcją jest każdy toot wysłany _jako odpowiedź_ na innego toota - samo wspomnienie innego użytkownika nie powoduje, że wpis staje się od razu odpowiedzią!).
+Lokalna oś czasu prezentuje wszystkie wpisy dodane przez użytkowników Twojej instancji, z wyjątkiem reakcji (reakcją jest każdy wpis wysłany przez nas _jako odpowiedź_ na wpis innego użytkownika - samo wspomnienie innego użytkownika nie powoduje, że wpis staje się od razu odpowiedzią!).
 
 Globalna oś czasu prezentuje publiczne wpisy wszystkich ludzi, o których istnieniu wie Twoja instancja - także tych z innych instancji. Twoja instancja wie o osobie z innej instancji wtedy, kiedy przynajmniej jeden użytkownik Twojej instancji KIEDYKOLWIEK doda tę osobę do obserwowanych.
 
@@ -245,7 +245,7 @@ Miej na uwadze, że serwery, które używają oprogramowania kompatybilnego z Ma
 
 Chcę to podkreślić z całą mocą: **Wpisy widoczne tylko dla wspomnianych ("Wiadomości bezpośrednie") nie są szyfrowane ani zabezpieczone.**
 
-Administrator Twojego serwera ma możliwość odczytania _wszystkich_ tootów opublikowanych na jego serwerze, jak również _wszystkich_ tootów wysłanych do użytkownika na jego serwerze. **Jednakże** proces ten jest upierdliwy. Twoje prywatne wpisy nie pojawią się w panelu administracyjnym serwera; aby się do nich dostać, Twój administrator musi się własnoręcznie zalogować do bazy danych - zazwyczaj za pomocą linii komend serwera. To _nie jest_ coś, co administratorzy dla kaprysu. Robią to tylko wtedy, kiedy muszą i jest ku temu ważny powód:
+Administrator Twojego serwera ma możliwość odczytania _wszystkich_ wpisów opublikowanych na jego serwerze, jak również _wszystkich_ wpisów wysłanych do użytkownika na jego serwerze. **Jednakże** proces ten jest upierdliwy. Twoje prywatne wpisy nie pojawią się w panelu administracyjnym serwera; aby się do nich dostać, Twój administrator musi się własnoręcznie zalogować do bazy danych - zazwyczaj za pomocą linii komend serwera. To _nie jest_ coś, co administratorzy robią dla kaprysu. Robią to tylko wtedy, kiedy muszą i jest ku temu ważny powód:
 
 Jest to konieczny środek bezpieczeństwa. Administratorzy _nie chcą_ czytać Twoich prywatnych wpisów, ale muszą mieć taką możliwość, ponieważ prywatne wpisy mogą być wykorzystywane do cichego nękania innych ludzi lub innych nielegalnych działań bez wiedzy administratora. W wielu systemach prawnych administrator może być pociągnięty do odpowiedzialności _nawet jeżeli nie wiedział, że nadużycia miały miejsce_.
 
@@ -293,7 +293,7 @@ Wszystkie trzy opcje są dostępne po kliknięciu `...` przy jednym z wpisów de
 
 **Ale.**
 
-Podobnie jak w przypadku [prywatnego konta](#więc-jeśli-ustawię-konto-jako-prywatne-tylko-zaakceptowani-obserwujący-będą-widzieć-moje-wpisy), każdy użytkownik - nawet zablokowany lub zawieszony przez moderatora - może otworzyć Twoją publiczą stronę lub kanał RSS i zobaczyć Twoje publiczne i niewidoczne tooty. Niestety nie ma na to dobrego rozwiązania, może z wyjątkiem ustawienia wszystkich tootów jako widoczne tylko dla obserwujących.
+Podobnie jak w przypadku [prywatnego konta](#więc-jeśli-ustawię-konto-jako-prywatne-tylko-zaakceptowani-obserwujący-będą-widzieć-moje-wpisy), każdy użytkownik - nawet zablokowany lub zawieszony przez moderatora - może otworzyć Twoją publiczą stronę lub kanał RSS i zobaczyć Twoje publiczne i niewidoczne wpisy. Niestety nie ma na to dobrego rozwiązania, może z wyjątkiem ustawienia wszystkich wpisów jako widoczne tylko dla obserwujących.
 
 ## Jak sprawdzić, czy ktoś mnie wyciszył lub zablokował?
 
@@ -309,9 +309,9 @@ Jeśli ktoś Cię zablokował, wciąż możesz otworzyć publiczną stronę tej 
 
 Spokojnie. Po pierwsze, nie da się; Mastodon nie pozwoli Ci dodać wpisu dłuższego niż limit na Twojej instancji. Nie będziesz mieć żadnych nieprzyjemności z tego powodu.
 
-Jeśli masz poczucie, że to co co chcesz przekazać jest za długie na jednego toota, albo przyszło Ci do głowy coś jeszcze już po opublikowaniu toota, możesz _odpowiedzieć na własnego toota_. Mastodon obsługuje wątkowanie tootów, więc możesz dodać dowolną liczbę tootów jako odpowiedzi jeden do drugiego, i cała seria wyświetli się każdemu, kto kliknie na którykolwiek z tootów w Twoim wątku.
+Jeśli masz poczucie, że to co co chcesz przekazać jest za długie na jeden wpis, albo przyszło Ci do głowy coś jeszcze już po opublikowaniu wpisu, możesz _odpowiedzieć na własny wpis_. Mastodon obsługuje wątkowanie wpisów, więc możesz dodać dowolną liczbę wpisu jako odpowiedzi jeden do drugiego, i cała seria wyświetli się każdemu, kto kliknie na którykolwiek z wpisów w Twoim wątku.
 
-A zatem - jeżeli Twój toot jest zbyt długi, podziel go i dodaj drugą część jako odpowiedź do pierwszego. A jeśli później przypomnisz sobie o czymś jeszcze, to po prostu dodaj odpowiedź do Twojego pierwotnego tootu i odpowiedź będzie widoczna zawsze, gdy ktoś kliknie na oryginalny toot.
+A zatem - jeżeli Twój wpis jest zbyt długi, podziel go i dodaj drugą część jako odpowiedź do pierwszego. A jeśli później przypomnisz sobie o czymś jeszcze, to po prostu dodaj odpowiedź do Twojego pierwotnego wpisu i ta odpowiedź będzie widoczna zawsze, gdy ktoś kliknie na oryginalny wpis.
 
 ## Czym są hasztagi?
 
@@ -349,17 +349,17 @@ Niektóre popularne skróty, które napotkasz w CW:
 - nsfw: nie oglądać w miejscu pracy (od ang. not safe for work)
 - ec: kontakt wzrokowy (od ang. eye content) - zazwyczaj używany, gdy do wpisu dołączone jest zdjęcie
 
-Ogólnie mówiąc, kieruj się swoim najlepszym osądem; pomyśl: "czy jest jakiś powód, dla którego ktoś nie chciałby tego zobaczyć?". Masz możliwość, aby poświęcić zaledwie chwilkę czasu i uczynić fediwersum lepszym miejscem. Czemuby z tego nie skorzystać?
+Ogólnie mówiąc, kieruj się swoim najlepszym osądem. Pomyśl: "czy jest jakiś powód, dla którego ktoś nie chciałby tego zobaczyć?". Masz możliwość, aby poświęcić zaledwie chwilkę czasu i uczynić fediwersum lepszym miejscem. Czemu z tego nie skorzystać?
 
 **Ważna uwaga:** Mastodon _ignoruje_ hasztagi w treści CW. Mastodon _widzi_ hasztagi, które znajdują się *pod* CW. Zawsze wstawiaj hasztagi w treści Twojego wpisu, nigdy w treści ostrzeżenia o zawartości.
 
-## Załączyłam obrazek do mojego tootka. Co to za ikonka z okiem?
+## Załączyłam obrazek do mojego wpisu. Co to za ikonka z okiem?
 
 :bangbang: Kliknięcie w nią spowoduje, że Twój obrazek zostanie zakryty nakładką z ostrzeżeniem "Wrażliwa zawartość". Dobrze jest tego używać do oznaczania nagości, przemocy i krwi, tematów politycznych itp.
 
 Zapewne zauważysz, że jeżeli do wpisu załączysz obrazek i użyjesz CW, nakładka "wrażliwa zawartość" włącza się automatycznie i nie da się jej wyłączyć. To zamierzony efekt.
 
-## Załączyłam obrazek do mojego tootka. Jak dodać do niego opis zawartości?
+## Załączyłam obrazek do mojego wpisu. Jak dodać do niego opis zawartości?
 
 :interrobang: Załączyszy obrazek, zobaczysz link "Edytuj" (z ikoną ołówka) w jego górnym prawym rogu. Kliknięcie na niego spowoduje otwarcie okna dialogowego, w którym będziesz mieć możliwość zdecydowania, która część obrazka powinna być widoczna w podglądzie. W oknie tym znajdziesz też możliwość ustawienia opisu zawartości obrazka, który będzie widoczny dla czytających Twój wpis przy najechaniu myszą oraz zostanie przeczytany przez czytniki głosowe (używane przez osoby z problemami ze wzrokiem) zamiast zwykłego "załączony obrazek".
 
@@ -383,7 +383,7 @@ Możesz także wykorzystywać opisy do obrazków jako nośniki dodatkowego humor
 
 To funkcja zapobiegająca nękaniu. Prześladowcy często wyszukują konkretne słowa lub frazy (np. "TERF", "homofobia" czy "biała supremacja") aby atakować i dręczyć ludzi, z którymi się nie zgadzają. Ograniczając wyszukiwanie do nazw użytkowników i hasztagów, Mastodon pozwala użytkownikom decydować o tym, jak chcą prezentować swoje treści w wynikach wyszukiwania u innych (niektóre instancje Mastodona umożliwiają pełnotekstowe wyszukiwanie, jednak zazwyczaj znajdziesz w ten sposób tylko swoje własne wpisy. Dzięki temu łatwiej znaleźć coś, co opublikowałeś dawno temu bez wystawiania się na ryzyko nękania).
 
-## Dlaczego nie mogę zacytować czyjegoś tootka jak na Twitterze?
+## Dlaczego nie mogę zacytować czyjegoś wpisu jak na Twitterze?
 
 :bangbang: Podobnie jak z wyszukiwaniem, jest to funkcja zapobiegająca nękaniu. Jeżeli chcesz odpowiedzieć na czyjś wpis, no to zrób dokładnie to - dodaj odpowiedz do tego wpisu. Nie możesz tak po prostu rzucić go swoim obserwującym i dołączyć złośliwy komentarz.
 
@@ -413,7 +413,7 @@ Nie ma jednego sztywnego zestawu reguł dla wszystkich. Jak wspomniałam wyżej,
 
 - Jeśli załączasz obrazek do swojego wpisu, ale nie opisujesz go w treści, dodaj opis jego zawartości, aby ułatwić zrozumienie go przez osoby używające czytników ekranu.
 
-- Jeśli załączasz obrazek, który zawiera **nagość, pornografię lub treści sugestywne seksualnie, krew, przemoc, lub politykę**, lub którykolwiek z popularnych czynników wywołujących PTSD / niepokój (np. jedzenie, pająki), [oznacz go jako treść wrażliwą](#załączyłam-obrazek-do-mojego-tootka-co-to-za-ikonka-z-okiem).
+- Jeśli załączasz obrazek, który zawiera **nagość, pornografię lub treści sugestywne seksualnie, krew, przemoc, lub politykę**, lub którykolwiek z popularnych czynników wywołujących PTSD / niepokój (np. jedzenie, pająki), [oznacz go jako treść wrażliwą](#załączyłam-obrazek-do-mojego-wpisu-co-to-za-ikonka-z-okiem).
 
 - Jeżeli _treść_ Twojego wpisu porusza którykolwiek z powyższych tematów, [wstaw ostrzeżenie o zawartości (CW)](#co-oznacza-cw)
 
