@@ -399,7 +399,7 @@ Poniżej kilka popularnych dziwactw:
 
 - AWOO: [Awoo.Space](https://awoo.space) to jedna z pierwszych instancji Mastodona. "Awoo" to dźwięk wyjącego wilka. Śmiesznie to brzmi. Awoo! (Pawoo.net nie ma z tym nic wspólnego; w języku japońskim "pawoo" jest oznacza trąbienie słonia.). Ktoś się wkurzył na te wszystkie "awoo" i ustanowił karę 350 dolarów za każde "awoo". Spokojnie, nikt jej nigdy nie zapłacił.
 
-- #gameing: Swego czasu istniało (i wciąż istnieje) przekonanie, że granie w gry określane hasztagiem #gaming jest "hardkorowe" i elitarne. Istniały też obawy, że pewne grupy graczy zawłaszczą hasztag #gaming. #gameing powstał jako środek zapobiegawczy; chodzi w nim o przyjemne, luźne i bezstresowe podejście do gier, czy to video czy innych _[ przyp. tłum.: w polskiej społeczności Mastodona istnieje podobny hasztag #giereczkowo. ]_.
+- #gameing: Swego czasu istniało (i wciąż istnieje) przekonanie, że granie w gry określane hasztagiem #gaming jest "hardkorowe" i elitarne. Istniały też obawy, że pewne grupy graczy zawłaszczą hasztag #gaming. #gameing powstał jako środek zapobiegawczy; chodzi w nim o przyjemne, luźne i bezstresowe podejście do gier, czy to video czy innych _[ przyp. tłum.: w polskiej społeczności Mastodona istnieje podobny hasztag #giereczkowo ]_.
 
 Przyzwyczaisz się.
 
