@@ -479,4 +479,4 @@ A jeśli nadal nie możesz znaleźć odpowiedzi na swoje pytanie, możesz skonta
 
 ## Jak mogę zaangażować się w rozwój tego poradnika?
 
-Sprawdź [instrukcje dla współtwórców](contributing.md)!
+Sprawdź [instrukcje dla współtwórców](DLA_WSPOLTWORCOW.md)!

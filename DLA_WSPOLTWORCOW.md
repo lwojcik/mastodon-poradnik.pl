@@ -1,5 +1,7 @@
 # Jak mogę zaangażować się w rozwój tego poradnika?
 
+## Pomoc przy wersji oryginalnej (anglojęzycznej)
+
 Jeżeli chcesz pomóc przy rozwijaniu [oryginalnej (anglojęzycznej) wersji tego poradnika](https://github.com/joyeusenoelle/GuideToMastodon) - sprawdź [instrukcję w oryginalnym projekcie](https://github.com/joyeusenoelle/GuideToMastodon/blob/main/contributing.md).
 
 ## Rozwój polskiej wersji
