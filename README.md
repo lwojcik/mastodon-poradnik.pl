@@ -61,7 +61,7 @@ Autor tłumaczenia robi to w dobrej wierze i bez większych oczekiwań wobec ś
 
 ## Czym jest Mastodon?
 
-Mastodon to platforma do tworzenia sieci społecznościowych. Dzięki niej każdy może uruchomić własną stronę społecznościową oraz - jeżeli chce - udostępnić ją do użytku innym ludziom. Każda strona na Mastodonie może komunikować się z innymi stronami na Mastodonie (jak również [wieloma innymi](https://en.wikipedia.org/wiki/ActivityPub)). To takie skrzyżowanie Twittera z e-mailem, ale nieco różniące się nieco od nich.
+Mastodon to platforma do tworzenia sieci społecznościowych. Dzięki niej każdy może uruchomić własną stronę społecznościową oraz - jeżeli chce - udostępnić ją do użytku innym ludziom. Każda strona na Mastodonie może komunikować się z innymi stronami na Mastodonie (jak również [wieloma innymi](https://en.wikipedia.org/wiki/ActivityPub)). To takie skrzyżowanie Twittera z e-mailem, ale różniące się nieco od nich obu.
 
 Nazwa "Mastodon" pochodzi od [zespołu heavy-metalowego](https://www.mastodonrocks.com/), ale wyglądem nawiązuje do [wymarłego zwierzęcia](https://pl.wikipedia.org/wiki/Mastodonty).
 
