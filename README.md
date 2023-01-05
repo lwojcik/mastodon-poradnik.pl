@@ -37,13 +37,13 @@ Autor tłumaczenia robi to w dobrej wierze i bez większych oczekiwań wobec ś
 - [Co się dzieje, gdy ktoś dodaje mnie do obserwowanych?](#co-się-dzieje-gdy-ktoś-dodaje-mnie-do-obserwowanych)
 - [Więc jeśli ustawię konto jako prywatne, tylko zaakceptowani obserwujący będą widzieć moje wpisy?](#więc-jeśli-ustawię-konto-jako-prywatne-tylko-zaakceptowani-obserwujący-będą-widzieć-moje-wpisy)
 - [Co jeżeli ktoś mnie obserwuje albo pisze do mnie, a ja sobie tego nie życzę?](#co-jeżeli-ktoś-mnie-obserwuje-albo-pisze-do-mnie-a-ja-sobie-tego-nie-życzę)
-- [Jak sprawdzić, czy ktoś mnie wyciszył lub zablokował?](#jak-sprawdzić-czy-ktoś-mnie-wyciszył-lub-zablokował)
+- [Jak sprawdzić, czy dana osoba mnie wyciszyła lub zablokowała?](#jak-sprawdzić-czy-dana-osoba-mnie-wyciszyła-lub-zablokowała)
 - [Co się dzieje, gdy przekroczę limit znaków?](#co-się-dzieje-gdy-przekroczę-limit-znaków)
 - [Czym są hasztagi?](#czym-są-hasztagi)
 - [Co oznacza "CW"?](#co-oznacza-cw)
-- [Załączyłam obrazek do mojego wpisu. Co to za ikonka z okiem?](#załączyłam-obrazek-do-mojego-wpisu-co-to-za-ikonka-z-okiem)
-- [Załączyłam obrazek do mojego wpisu. Jak dodać do niego opis zawartości?](#załączyłam-obrazek-do-mojego-wpisu-jak-dodać-do-niego-opis-zawartości)
-- [Dlaczego powinnam opisywać moje obrazki?](#dlaczego-powinnam-opisywać-moje-obrazki)
+- [Próbuje załączyć obrazek do wpisu. Co to za ikonka z okiem?](#próbuje-załączyć-obrazek-do-wpisu-co-to-za-ikonka-z-okiem)
+- [Próbuje załączyć obrazek do wpisu. Jak dodać do niego opis zawartości?](#próbuje-załączyć-obrazek-do-wpisu-jak-dodać-do-niego-opis-zawartości)
+- [Dlaczego opisywanie obrazków jest takie ważne?](#dlaczego-opisywanie-obrazków-jest-takie-ważne)
 - [Dlaczego moja znajoma na innej instancji może używać tej emotki, a ja nie?](#dlaczego-moja-znajoma-na-innej-instancji-może-używać-tej-emotki-a-ja-nie)
 - [Dlaczego nie mogę wyszukać konkretnego słowa lub frazy?](#dlaczego-nie-mogę-wyszukać-konkretnego-słowa-lub-frazy)
 - [Dlaczego nie mogę zacytować czyjegoś wpisu jak na Twitterze?](#dlaczego-nie-mogę-zacytować-czyjegoś-wpisu-jak-na-twitterze)
@@ -339,23 +339,23 @@ Wszystkie trzy opcje są dostępne po kliknięciu `...` przy jednym z wpisów lu
 
 **Jest jednak małe ale.**
 
-Podobnie jak w przypadku [prywatnego konta](#więc-jeśli-ustawię-konto-jako-prywatne-tylko-zaakceptowani-obserwujący-będą-widzieć-moje-wpisy), każda osoba - nawet zablokowana lub zawieszona przez moderatora - może otworzyć Twoją publiczną stronę lub kanał RSS i zobaczyć Twoje wpisy oznaczone jako publiczne i niewidoczne. Niestety nie ma na to rady. Pomóc może ustawienie wszystkich wpisów jako widoczne tylko dla obserwujących.
+Podobnie jak w przypadku [prywatnego konta](#więc-jeśli-ustawię-konto-jako-prywatne-tylko-zaakceptowani-obserwujący-będą-widzieć-moje-wpisy), każda osoba - nawet zablokowana lub zawieszona przez moderatora - może otworzyć Twoją publiczną stronę lub kanał RSS i zobaczyć Twoje wpisy oznaczone jako publiczne i niewidoczne. Niestety nie ma na to rady. Pomocne może być ustawienie wszystkich wpisów jako widoczne tylko dla obserwujących.
 
 ## Jak sprawdzić, czy dana osoba mnie wyciszyła lub zablokowała?
 
 Nie da się. Nie dostaniesz powiadomienia o tym fakcie.
 
-Jeśli dana osoba Cię wyciszyła, nie będziesz mieć stuprocentowej pewności. Brak reakcji na Twoje wzmianki może być powodem do podejrzeń, ale Mastodon celowo utrudnia rozpoznanie, czy tak się dzieje. Ma to na celu na celu zapobiegnięcie sytuacji, w której ktoś nęka Cię z wielu kont aby obejść wyciszenie.
+Jeśli dana osoba Cię wyciszyła, nie będziesz mieć stuprocentowej pewności. Brak reakcji na Twoje wzmianki może wzbudzać podejrzenia, ale Mastodon celowo utrudnia rozpoznanie, czy tak się dzieje. Ma to na celu zapobiegnięcie sytuacji, w której ktoś nęka Cię z kilku kont, żeby obejść wyciszenie.
 
-Gdy ktoś Cię zablokuje, stracisz możliwość obserwowania tej osoby, a jej wpisy nie pojawią się w Twojej osi czasu. Gdy otworzysz profil tej osoby _wewnątrz inferfejsu WWW Mastodona_, żaden z jej wpisów nie będzie widoczny. Warto jednak zaznaczysz, że jeżeli otworzysz profil kogoś, kogo _nie obserwujesz_, a wpisy tej osoby się nie wyświetlą, to przyczyną nie musi być blokada, lecz problemy z serwerem. Nie wyciągaj pochopnych wniosków.
+Gdy ktoś Cię zablokuje, stracisz możliwość obserwowania tej osoby, a jej wpisy nie pojawią się w Twojej osi czasu. Gdy otworzysz profil tej osoby _wewnątrz inferfejsu WWW Mastodona_, żaden z jej wpisów nie będzie widoczny. Warto jednak wiedzieć, że jeżeli otworzysz profil kogoś, kogo _nie obserwujesz_, a wpisy tej osoby się nie wyświetlą, to przyczyną nie musi być blokada, lecz np. problemy z serwerem. Nie wyciągaj pochopnych wniosków.
 
-Jeśli ktoś Cię zablokował, wciąż możesz otworzyć publiczną stronę tej osoby i zobaczyć jej publiczne i niewidoczne wpisy. Publiczne profile nie wymagają logowania, aby je zobaczyć, więc nie ma możliwości rozpoznania, że Ty to Ty i że dana osoba Cię blokuje. _Jednak bądźmy szczerzy:_ jeśli dana osoba Cię zablokowałą, to znaczy że nie życzy sobie Twojej obecności w pobliżu. _Masz techniczną możliwość_ czytania publicznych i niewidocznych wpisów tej osoby, ale może jednak przestań? Naruszasz w znaczący sposób prywatność tej osoby i z premedytacją przekraczasz wyznaczone granice. Argument w stylu "oprogramowanie na to pozwala, czyli to jest w porządku" jest żałosny. Poważnie - zostaw tę osobę w spokoju.
+Jeśli ktoś Cię zablokował, wciąż możesz otworzyć publiczną stronę tej osoby i odczytać jej publiczne i niewidoczne wpisy. Publiczne profile nie wymagają logowania, aby je zobaczyć, więc nie ma możliwości rozpoznania, że to Ty i że dana osoba Cię blokuje. _Jednak bądźmy szczerzy:_ jeśli ta osoba Cię zablokowała, to znaczy że nie życzy sobie kontaktu z Tobą. _Masz techniczną możliwość_ czytania publicznych i niewidocznych wpisów tej osoby, ale może jednak przestań? Naruszasz w znaczący sposób prywatność tej osoby i z premedytacją przekraczasz wyznaczone granice. Argument w stylu "oprogramowanie na to pozwala, czyli to jest w porządku" jest żałosny. Poważnie - zostaw tę osobę w spokoju.
 
 ## Co się dzieje, gdy przekroczę limit znaków?
 
-Spokojnie - nie da się. Mastodon nie pozwoli Ci dodać wpisu dłuższego niż limit na Twojej instancji. Nikt nie zrobi Ci żadnych nieprzyjemności z tego powodu.
+Spokojnie, nie da się. Mastodon nie pozwoli Ci dodać wpisu dłuższego niż limit na Twojej instancji. Nikt z tego powodu nie zrobi Ci żadnych nieprzyjemności.
 
-Jeśli przeczujwasz, że Twoja wiadomość jest zbyt długa na jeden wpis, albo przyszło Ci do głowy coś jeszcze już po opublikowaniu wpisu, możesz _odpowiedzieć na własny wpis_. Mastodon obsługuje wątkowanie wpisów, więc możesz dodać dowolną liczbę wpisów jako odpowiedzi jedna na drugą, i cała seria wyświetli się po kliknięciu w którykolwiek z wpisów w Twoim wątku.
+Jeśli przeczuwasz, że Twoja wiadomość jest zbyt długa na jeden wpis, albo przyszło Ci do głowy coś jeszcze już po opublikowaniu wpisu, możesz _odpowiedzieć na własny wpis_. Mastodon obsługuje wątkowanie wpisów, więc możesz dodać dowolną liczbę wpisów jako odpowiedzi jedna na drugą, i cała seria wyświetli się po kliknięciu w którykolwiek z wpisów w Twoim wątku.
 
 A zatem - jeżeli Twój wpis jest zbyt długi, podziel go i dodaj drugą część jako odpowiedź do pierwszego. A gdy przypomnisz sobie o czymś jeszcze, to po prostu dodaj odpowiedź do Twojego pierwotnego wpisu i ta odpowiedź będzie widoczna, gdy ktoś kliknie na oryginalny wpis.
 
@@ -367,12 +367,11 @@ Aby stworzyć hasztaga, wpisz "#" i dowolną sekwencję liter lub liczb. Możesz
 
 `#Piekno-Nauki` nie zadziała (hasztagiem stanie się jedynie `#Piekno`).
 
-Hasztag stanowi metadane Twoim wpisu, tj. dostarcza dodatkowych informacji, które nie są częścią wpisu, ale ułatwiają zrozumienie jego treści. Jeżeli masz styczność z programowaniem, pomyśl o hasztagu jak o komentarzu w kodzie.
+Hasztag stanowi metadane Twoim wpisu, tj. dostarcza dodatkowych informacji, które nie stanowią częścią wpisu, ale ułatwiają zrozumienie jego treści. Jeżeli masz styczność z programowaniem, pomyśl o hasztagu jak o komentarzu w kodzie.
 
-Hasztagi są śledzone przez każdą instancję. Kliknięcie w hasztag przenosi Cię do listy publicznych wpisów z tym hasztagiem. Możesz za ich pomocą czytać, co ciekawego przyniosła #polityka, znaleźć nowe osoby do obserwowania w tagu #FollowFriday, czy też zobaczyć prace artystyczne ludzi w tagu #mastoArt. Mastodon od wersji 4.0.0 pozwala na obserwowanie wybranych hasztagów, dzięki czemu wpisy zawierające obserwowany hasztag 
-wylądują na Twojej osi czasu.
+Hasztagi są śledzone przez każdą instancję. Kliknięcie w hasztag przenosi Cię do listy publicznych wpisów z tym hasztagiem. Możesz za ich pomocą czytać, co ciekawego przyniosła #polityka, znaleźć nowe osoby do obserwowania w tagu #FollowFriday, czy też zobaczyć prace artystyczne ludzi w tagu #mastoArt. Mastodon od wersji 4.0.0 pozwala na obserwowanie wybranych hasztagów, dzięki czemu wpisy zawierające obserwowany hasztag pojawią się na Twojej osi czasu.
 
-Jeśli hasztag składa się z kilku słów, używaj wielkich liter - np. `#DepartamentWiedzyUżytecznej` zamiast `#departamentwiedzyużytecznej`. Dzięki temu czytniki ekranowe poprawnie odczytają pojedyncze słowa w hasztagu i ułatwią jego zrozumienie osobom niewidomym lub słabo widzącym.
+Jeśli hasztag składa się z kilku słów, używaj wielkich liter - np. `#DepartamentWiedzyUżytecznej` zamiast `#departamentwiedzyużytecznej`. Dzięki temu czytniki ekranu poprawnie odczytają pojedyncze słowa w hasztagu i ułatwią jego zrozumienie osobom niewidomym lub słabo widzącym.
 
 Nie przesadzaj z ilością hasztagów. Co do zasady hasztagi raczej nie powinny przekraczać 10% całkowitej długości Twojego wpisu. Jeśli zdarza Ci się przekraczać ten pułap, być może za bardzo rozmieniasz się na drobne.
 
@@ -406,33 +405,35 @@ Oprócz tego w ostrzeżeniach mogą znaleźć się dodatkowe informacje:
 - 'boosts ok' / 'boosts appreciated' - prośba albo zachęta do podbicia wpisu
 - 'no boosts' / 'no favs' - informuje, że dana osoba nie życzy sobie, aby jej wpis był podbijany / dodawany do ulubionych i warto to uszanować
 
-Jak formułować ostrzeżenia o zawartości? Ogólnie mówiąc, kieruj się swoim najlepszym osądem. Zadaj sobie pytanie: "czy jest jakiś powód, dla którego ktoś nie chciałby tego zobaczyć?". Masz możliwość, aby poświęcić zaledwie chwilkę czasu i uczynić fediwersum lepszym miejscem. Czemu z tego nie skorzystać?
+Administracja niektórych serwerów może wymagać, aby wpisy o określonej tematyce były opatrzone ostrzeżeniami o zawartości. Nie jest to cenzura, a raczej uprzejmość wobec ludzi, którzy patrzą na świat w jakimś stopniu inaczej, niż my. Dzięki ostrzeżeniom o zawartości osoby o zróżnicowanej wrażliwości na pewne bodźce (np. w spektrum autyzmu, bojące się widoku pająków, cierpiące na depresję itp.) mogą pominąć pewne treści i wciąż cieszyć się bezpieczną i zdrową platformą do rozmów i wymiany myśli.
 
-Ostrzeżenia o zawartości mogą być wymagane w zasadach serwera dla wpisów o określonej tematyce. Nie jest to cenzura, a raczej uprzejmość wobec ludzi, którzy w jakimś stopniu patrzą na świat inaczej, niż my. Dzięki ostrzeżeniom o zawartości osoby o różnej wrażliwości na pewne bodźce (np. osoby ze spektrum autyzmu, bojące się widoku pająków, cierpiące na depresję itp.) mogą pominąć pewne treści i nadal cieszyć się bezpieczną i zdrową platformą do rozmów i wymiany myśli.
+Jak formułować ostrzeżenia o zawartości? Ogólnie mówiąc, kieruj się swoim najlepszym osądem. Zadaj sobie pytanie: "czy jest jakiś powód, dla którego ktoś nie chciałby tego zobaczyć?". Masz możliwość, aby poświęcić zaledwie chwilkę czasu i uczynić fediwersum lepszym miejscem. Skorzystaj z tego!
 
 **Ważna uwaga:** Mastodon _ignoruje_ hasztagi w treści ostrzeżeń o zawartości. Mastodon _widzi_ hasztagi, które znajdują się *pod* ostrzeżeniami. Zawsze wstawiaj hasztagi w treści wpisu (np. na końcu), a nie wewnątrz samego ostrzeżenia.
 
-## Załączyłam obrazek do mojego wpisu. Co to za ikonka z okiem?
+## Próbuję załączyć obrazek do wpisu. Co to za ikonka z okiem?
 
-:bangbang: Kliknięcie w nią spowoduje, że Twój obrazek zostanie zakryty nakładką z ostrzeżeniem "Wrażliwa zawartość". Dobrze jest tego używać do oznaczania nagości, przemocy i krwi, tematów politycznych itp.
+:bangbang: Kliknięcie w tę ikonkę spowoduje, że Twój obrazek przykryje nakładka z ostrzeżeniem "Wrażliwa zawartość". Warto tego używać do oznaczania nagości, przemocy i krwi, tematów politycznych itp.
 
-Zapewne zauważysz, że jeżeli do wpisu załączysz obrazek i użyjesz CW, nakładka "wrażliwa zawartość" włącza się automatycznie i nie da się jej wyłączyć. To zamierzony efekt.
+Być może zauważysz, że jeżeli do wpisu załączysz obrazek i użyjesz CW, nakładka "wrażliwa zawartość" pojawi się automatycznie i nie da się jej wyłączyć. To zamierzony efekt.
 
-## Załączyłam obrazek do mojego wpisu. Jak dodać do niego opis zawartości?
+## Próbuje załączyć obrazek do wpisu. Jak dodać do niego opis zawartości?
 
-:interrobang: Załączyszy obrazek, zobaczysz link "Edytuj" (z ikoną ołówka) w jego górnym prawym rogu. Kliknięcie na niego spowoduje otwarcie okna dialogowego, w którym będziesz mieć możliwość zdecydowania, która część obrazka powinna być widoczna w podglądzie. W oknie tym znajdziesz też możliwość ustawienia opisu zawartości obrazka, który będzie widoczny dla czytających Twój wpis przy najechaniu myszą oraz zostanie przeczytany przez czytniki głosowe (używane przez osoby z problemami ze wzrokiem) zamiast zwykłego "załączony obrazek".
+:interrobang: Gdy załączysz obrazek do wpisu, zobaczysz link "Edytuj" (z ikoną ołówka) w jego górnym prawym rogu. Kliknij w niego. Otworzy się okienko, w którym będziesz mieć możliwość zdecydowania, która część obrazka powinna być widoczna w podglądzie. Znajdziesz tam także możliwość ustawienia opisu zawartości obrazka, który będzie widoczny dla czytających Twój wpis przy najechaniu myszą oraz zostanie przeczytany przez czytniki ekranu (używane przez osoby z problemami ze wzrokiem) zamiast zwykłego "załączony obrazek".
 
-Z myślą o obrazkach składających się w większości z tekstu (np. zrzut ekranu wpisu na Tumblrze), Mastodon posiada wbudowany mechanizm rozpoznawania tekstu (OCR) i możesz się nim posłużyć do opisania Twojego obrazka, jednak nie zapomnij sprawdzić, czy wygenerowany opis na pewno jest poprawny. Jeżeli z jakiegoś powodu OCR na Twojej instancji nie działa, możesz użyć narzędzie online takiego jak [Online OCR](https://www.onlineocr.net) do wygenerowania opisu (transkrypcji) Twojego obrazka. A jeśli i to zawiedzie, w fediwersum znajdziesz roboty, które wygenerują opis obrazka, gdy je zawołasz po nazwie użytkownika. [ przyp. tłum.: jednym z nich jest [OCR Bot - @OCRbot@fedi.lynnesbian.space](https://fedi.lynnesbian.space/@OCRbot) i ma on możliwość rozpoznawania tekstów w wielu językach, również po polsku]
+Z myślą o obrazkach składających się w większości z tekstu (np. zrzut ekranu z innej strony), Mastodon posiada wbudowany mechanizm rozpoznawania tekstu (OCR) i możesz go użyć do opisania obrazka. Nie zapomnij jednak sprawdzić, czy wygenerowany opis jest poprawny.
 
-Tekst w opisie obrazka ma swój własny limit 1500 znaków; **nie wlicza się on** w limit znaków dla treści Twojego wpisu!
+Jeżeli z jakiegoś powodu OCR na Twojej instancji nie działa, możesz wykorzystać narzędzie online takie jak [Online OCR](https://www.onlineocr.net) do wygenerowania opisu (transkrypcji) Twojego obrazka. A jeśli i to zawiedzie, w fediwersum znajdziesz roboty, które wygenerują opis obrazka, gdy je zawołasz po nazwie użytkownika. Jednym z nich jest [OCR Bot - @OCRbot@fedi.lynnesbian.space](https://fedi.lynnesbian.space/@OCRbot) i ma on możliwość rozpoznawania tekstów w wielu językach, również po polsku.
 
-## Dlaczego powinnam opisywać moje obrazki?
+Tekst w opisie obrazka ma swój własny limit 1500 znaków; **nie wlicza się on** w limit znaków dla treści Twojego wpisu
+
+## Dlaczego opisywanie obrazków jest takie ważne?
 
 Jedno słowo: dostępność.
 
-Wśród użytkowników Mastodona są ludzie, którzy mają problemy ze wzrokiem i używają czytników głosowych. Są też ludzie, którzy mają wyłączone wyświetlanie obrazków żeby ograniczyć zużycie danych. Zdarzają się czasem problemy z dyskami i serwerami. A czasem administrator Twojej instancji może zdecydować o usunięciu starych plików, i wtedy Twój obrazek już się nie wyświetli. Dodawanie opisów do obrazków umożliwia ludziom interakcję z Twoimi wpisami wraz z ich pełnym kontekstem.
+Na Mastodonie są ludzie mający problemy ze wzrokiem i używają oni czytników ekranu. Są też ludzie, którzy wyłączają wyświetlanie obrazków, żeby ograniczyć zużycie danych. Zdarzają się czasem problemy z dyskami i serwerami. Administracja Twojej instancji może również zdecydować o usunięciu starych plików, a wtedy Twój obrazek już się nie wyświetli. Dodawanie opisów do obrazków umożliwia ludziom interakcję z Twoimi wpisami wraz z ich pełnym kontekstem.
 
-Możesz także wykorzystywać opisy do obrazków jako nośniki dodatkowego humoru (tak jak często robią to autorzy komiksów w internecie). Nie krępuj się czerpać korzyści z faktu, że opisy obrazków mają swój osobny limit znaków i wstawiaj tam cokolwiek chcesz. Możliwości są nieograniczone.
+Możesz także wykorzystywać opisy do obrazków jako nośniki dodatkowego humoru (tak jak często robią to autorzy komiksów internetowych). Nie krępuj się czerpać korzyści z faktu, że opisy obrazków mają swój osobny limit znaków i wstawiaj tam cokolwiek chcesz. Możliwości są nieograniczone.
 
 ## Dlaczego moja znajoma na innej instancji może używać tej emotki, a ja nie?
 
