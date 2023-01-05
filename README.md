@@ -237,7 +237,7 @@ Jeśli wspominasz o kimś z Twojej instancji, wystarczy wpisać tylko pierwszy c
 
 To zależy od instancji. Każda instancja Mastodona posiada stronę pod adresem https://<span>_adres_instancji_</span>/about, która powinna zawierać informacje o instancji oraz definiować zasady społeczności. Dla przykładu, zasady instancji mastodon.social znajdują się na https://mastodon.social/about.
 
-Miej na uwadze, że są to zazwyczaj wskazówki, a nie sztywne reguły. Każda instancja jest obsługiwana przez osobny zespół moderatorski - często w składzie jednej osoby! - i ma on zawsze ostatnie słowo w kwestii tego, co na instancji jest dozwolone, a co nie. Administracja Twojej instancji może nawet posunąć się do całkowitego blokowania innych instancji, jeżeli ich użytkownicy wchodzą w kurs kolizyjny z wartościami promowanymi przez Twoją instancję, a moderacja tamtej instancji nie wykazuje chęci współpracy.
+Miej na uwadze, że są to zazwyczaj wskazówki, a nie sztywne reguły. Każda instancja jest obsługiwana przez osobny zespół moderatorski - często w składzie jednej osoby! - i ma on zawsze ostatnie słowo w kwestii tego, co na instancji jest dozwolone, a co nie. Administracja Twojej instancji może nawet posunąć się do całkowitego blokowania innych instancji, jeżeli osoby stamtąd wchodzą w kurs kolizyjny z wartościami promowanymi przez Twoją instancję, a moderacja tamtej instancji nie wykazuje chęci współpracy.
 
 ## Co zrobić, gdy zobaczę, że ktoś łamie zasady?
 
@@ -279,19 +279,21 @@ Masz do dyspozycji następujące ustawienia:
 
 - **Niewidoczny (ang. Unlisted)** oznacza, że każdy może zobaczyć Twój wpis, ale nie pojawi się on na lokalnych i globalnych osiach czasu. Poza tą różnicą wpisy oznaczone jako niewidoczne działają dokładnie tak samo, jak wpisy publiczne.
 
-- **Tylko obserwujący (ang. Followers only)** oznacza, że tylko ludzie, którzy Cię obserwują, oraz ludzie, których wspomnisz w treści wpisu mogą go zobaczyć w swoich osiach czasu lub na stronie Twojego profilu. Gdy ktoś spoza Twoich obserwujących otworzy Twój profil, nie zobaczy tych wpisów. _Z perspektywy Twoich obserwujących_, wpisy tylko dla obserwujących działają dokładnie tak samo jako wpisy niewidczne. **Twoje wpisy tylko dla obserwujących, w których wspominasz innego użytkownika, pojawią się we wspomnieniach u tego użytkownika, nawet jeżeli ten użytkownik nie obserwuje Cię!**
+- **Tylko obserwujący (ang. Followers only)** oznacza, że tylko ludzie, którzy Cię obserwują, oraz ludzie, których wspomnisz w treści wpisu mogą go zobaczyć w swoich osiach czasu lub na stronie Twojego profilu. Gdy ktoś spoza Twoich obserwujących otworzy Twój profil, nie zobaczy tych wpisów. _Z perspektywy Twoich obserwujących_, wpisy tylko dla obserwujących działają dokładnie tak samo jako wpisy niewidczne. **Twoje wpisy tylko dla obserwujących, w których wspominasz innego użytkownika, pojawią się we wspomnieniach u tego użytkownika, nawet jeżeli ta osoba nie obserwuje Cię!**
 
 - :bangbang: **Tylko wspomniane osoby (ang. Mentioned people only)** - jak sama nazwa wskazuje: tylko ci ludzie, których wspomnisz w treści wpisu, zobaczą go i będzie on widoczny dla **wszystkich** osób, które zostały wspomniane (o ile Cię nie zablokowały lub wyciszyły). Pojawi się on na liście ich wspomnień oraz, na serwerach Mastodona od wersji 3.0 wzwyż, w kolumnie Wiadomości bezpośrednie.
 
-Miej na uwadze, że serwery używające oprogramowania kompatybilnego z Mastodonem, ale innym niż Mastodon, mogą zignorować powyższe ustawienia prywatności przy dostarczaniu wiadomości do ich użytkowników. Używaj tej opcji z rozwagą!
+Miej na uwadze, że serwery używające oprogramowania kompatybilnego z Mastodonem, ale innym niż Mastodon, mogą zignorować powyższe ustawienia prywatności przy dostarczaniu wiadomości do używających ich osób. Używaj tej opcji z rozwagą!
 
 ## Jak bardzo prywatne jest "Prywatne"?
 
-Chcę to podkreślić z całą powagą: **Wpisy widoczne tylko dla wspomnianych ("Wiadomości bezpośrednie") nie są szyfrowane ani zabezpieczone.**
+Chcemy to podkreślić z całą powagą: **Wpisy widoczne tylko dla wspomnianych ("Wiadomości bezpośrednie") nie są szyfrowane ani zabezpieczone.**
 
-Adminitracja Twojego serwera ma możliwość odczytania _wszystkich_ wpisów opublikowanych na tym serwerze, jak również _wszystkich_ wpisów wysłanych do ludzi korzystających z tego serwera. **Jednakże** proces ten jest upierdliwy.
+Administracja Twojego serwera ma możliwość odczytania _wszystkich_ wpisów opublikowanych na tym serwerze, jak również _wszystkich_ wpisów wysłanych do ludzi korzystających z tego serwera. **Jednakże** proces ten jest upierdliwy.
 
-Twoje prywatne wpisy nie pojawią się panelu administracyjnym serwera. Aby się do nich dostać, Twój administrator musi się zalogować do bazy danych - zazwyczaj za pomocą linii komend serwera. Administracja ma zazwyczaj inne rzeczy na głowie i nie będzie robić tego dla przyjemności. Czasem jednak musi i jest ku temu ważny powód: **jest to niezbędny środek bezpieczeństwa.**
+Twoje prywatne wpisy nie pojawią się panelu administracyjnym serwera. Aby się do nich dostać, Twój administrator musi się zalogować do bazy danych - zazwyczaj za pomocą linii komend serwera. Administracja ma zazwyczaj inne rzeczy na głowie i nie będzie robić tego dla przyjemności. Czasem jednak musi i jest ku temu ważny powód:
+
+**Jest to niezbędny środek bezpieczeństwa.**
 
 Administracja _nie chce_ czytać Twoich prywatnych wpisów. Muszą jednak mieć taką możliwość, ponieważ prywatne wpisy mogą być wykorzystywane do potajemnego nękania ludzi lub innych nielegalnych działań. W wielu systemach prawnych administracja serwera może być pociągnięta do odpowiedzialności karnej _nawet jeżeli nie wiedziała, że nielegalny czyn miał miejsce_.
 
