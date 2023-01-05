@@ -142,7 +142,8 @@ Jeżeli Twoja instancja na to pozwala, instrukcję dodania linku do weryfikacji 
 
 Jeżeli nie posiadasz własnej strony, możesz również skorzystać z innych sposobów:
 
-1. Publikując link do Twojego profilu Mastodona w widocznym miejscu każdego innego serwisu, z którego ludzie mogą Cię kojarzyć,
+1. Publikując link do Twojego profilu Mastodona w widocznym miejscu w każdym innym serwisie społęcznościowym, gdzie ludzie Cię kojarzą,
+
 2. Jeżeli masz konto na Twitterze - możesz skorzystać z zewnętrznego serwisu do weryfikacji takiego jak [Twittodon](https://twittodon.com/).
 
 ## Chcę rozmawiać z ludźmi po polsku. Jak wybrać instancję?
