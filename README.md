@@ -379,7 +379,7 @@ Nie przesadzaj z ilością hasztagów. Co do zasady hasztagi raczej nie powinny 
 
 ## Co oznacza "CW"?
 
-:bangbang: CW to skrót od anglojęzycznego 'Content Warning' i oznacza ostrzeżenie o zawartości. Ukrywa ono Twój wpis za jakimś tekstem (który możesz samodzielnie ustawić). Działa on trochę jak link "Czytaj dalej".
+:bangbang: CW to skrót od anglojęzycznego 'Content Warning' i oznacza ostrzeżenie o zawartości. Ukrywa ono Twój wpis za jakimś tekstem (który możesz samodzielnie ustawić), co pozwala osobie czytającej podjąć decyzję, czy chce rozwinąć i przeczytać wpis, czy też go pominąć. Działa on trochę jak link "Czytaj dalej".
 
 Możesz używać ostrzeżeń o zawartości do oznaczania takich tematów jak:
 
