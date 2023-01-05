@@ -162,7 +162,7 @@ Niektóre instancje posiadają dość ścisłe zasady co do używanego języka i
 
 Tym razem celowo wielkimi literami.
 
-Jeżeli interesuje Cię szersza (głównie anglojęzyczna) część fediwersum, masz szerszy wybór - ale jest on także nieco trudniejszy. Wiele instancji posiada specyficzny profil: `mastodon.lol` jest bezpieczną przestrzenią dla osób queerowych, `hackers.town` jest przystanią dla maniaków komputerów, `wandering.shop` powstał z myślą o fanach science fiction i fantasy, a `botsin.space` pozwala na utrzymywanie i rozwój kont automatycznych (botów). Na `oulipo.social` niedozwolone jak dodawanie wpisów zawierających choćby jedną literę "e".
+Jeżeli interesuje Cię szersza (głównie anglojęzyczna) część fediwersum, masz większy wybór - ale jest on także nieco trudniejszy. Wiele instancji posiada specyficzny profil: `mastodon.lol` jest bezpieczną przestrzenią dla osób queerowych, `hackers.town` jest przystanią dla maniaków komputerów, `wandering.shop` powstał z myślą o fanach science fiction i fantasy, a `botsin.space` pozwala na utrzymywanie i rozwój kont automatycznych (botów). Na `oulipo.social` niedozwolone jak dodawanie wpisów zawierających choćby jedną literę "e".
 
 Jeżeli nie masz jeszcze konta na Mastodonie, dobrym pomysłem może być użycie jednej z większych instancji, takich jak `mastodon.online` - jednej z flagowych instancji - czy też `mstdn.social`, `mas.to` czy . Te instancje posiadają liczne, z reguły przyjazne społeczności, którzy chętnie pomogą Ci znaleźć bardziej wyspecjalizowaną instancję, jeżeli zechcesz takiej poszukać. Przestrzegam jednak, że z uwagi na rozmiar tych instancji, ich lokalne osie czasu potrafią odświeżać się bardzo szybko.
 
