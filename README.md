@@ -25,8 +25,8 @@ Autor tłumaczenia robi to w dobrej wierze i bez większych oczekiwań wobec ś
 - [Jak mogę uzyskać weryfikację na Mastodonie?](#jak-mogę-uzyskać-weryfikację-na-mastodonie)
 - [No dobrze, to jak przekonać ludzi, że jestem osobą, za którą się podaję?](#no-dobrze-to-jak-przekonać-ludzi-że-jestem-osobą-za-którą-się-podaję)
 - [Chcę rozmawiać z ludźmi po polsku. Jak wybrać instancję?](#chcę-rozmawiać-z-ludźmi-po-polsku-jak-wybrać-instancję)
-- [Chcę pisać w innych językach - JAK WYBRAĆ INSTANCJĘ?](#chcę-pisać-w-innych-językach-JAK-WYBRAĆ-INSTANCJĘ)
-- [Znalazłam inną instancję, która bardziej mi odpowiada. Czy mogę przenieść moje konto?](#znalazłam-inną-instancję-która-bardziej-mi-odpowiada-czy-mogę-przenieść-moje-konto)
+- [Chcę pisać w innych językach. JAK WYBRAĆ INSTANCJĘ?](#chcę-pisać-w-innych-językach-JAK-WYBRAĆ-INSTANCJĘ)
+- [Wpadła mi w oko inna, ciekawsza instancja. Czy mogę przenieść moje konto?](#wpadła-mi-w-oko-inna-ciekawsza-instancja-czy-mogę-przenieść-moje-konto)
 - [Jak zmienić nazwę użytkownika?](#jak-zmienić-nazwę-użytkownika)
 - [Jak wspomnieć kogoś, kto nie jest na mojej instancji?](#jak-wspomnieć-kogoś-kto-nie-jest-na-mojej-instancji)
 - [Jakie są zasady?](#jakie-są-zasady)
@@ -165,13 +165,13 @@ Jeżeli interesuje Cię szersza (głównie anglojęzyczna) część fediwersum, 
 
 Jeżeli nie masz jeszcze konta na Mastodonie, dobrym pomysłem może być użycie jednej z większych instancji, takich jak `mastodon.online` - jednej z flagowych instancji - czy też `mstdn.social`, `mas.to` czy . Te instancje posiadają liczne, z reguły przyjazne społeczności, którzy chętnie pomogą Ci znaleźć bardziej wyspecjalizowaną instancję, jeżeli zechcesz takiej poszukać. Przestrzegam jednak, że z uwagi na rozmiar tych instancji, ich lokalne osie czasu potrafią odświeżać się bardzo szybko.
 
-(_Uwaga na marginesie odnośnie mastodon.social: to **jest** największa ogólnodostępna instancja (największa ogólnie jest instancja japońskojęzyczna [mstdn.jp](https://mstdn.jp)). Wielu ludzi zakłada tam konta i nigdy nie interesuje się innymi instancjami. Jeśli masz już konto na mastodon.social, dobrym pomysłem jest traktowanie go jak tymczasowego przystanku zanim znajdziesz instancję lepiej odpowiadającą Twoim potrzebom i zainteresowaniom. Gdy już taką znajdziesz, możesz wyeksportować wszystkich ludzi, których obserwujesz, masz wyciszonych i zablokowanych na mastodon.social i zaimportować je na nowym koncie, dzięki czemu nie musisz szukać wszystkich drugi raz._)
+`mastodon.social` i `mastodon.online` to dwie oficjalne instancje finansowane przez firmę non-profit stojącą za projektem. Wielu ludzi zakłada tam konta i nigdy nie interesuje się innymi instancjami. Jeśli masz już konto na mastodon.social, dobrym pomysłem może być traktowanie go jak tymczasowego przystanku zanim znajdziesz instancję lepiej dopasowaną do Twoich potrzeb i zainteresowań. Gdy już taką znajdziesz, możesz wyeksportować z `mastodon.social` wszystkich ludzi obserwowanych, wyciszonych i zablokowanych, a następnie zaimportować ich na nowym koncie. Dzięki temu nie musisz robić tego wszystkiego drugi raz.
 
-Jeżeli masz już konto na jakiejś instancji, ale masz wątpliwości czy jest ona dobrym miejscem dla Ciebie, poproś o sugestie instancji, które mogłyby bardziej Ci odpowiadać tematycznie. Ponadto, wyszukaj treści według #hasztaga, który Cię interesuje. Jeżeli znajdziesz większą grupę ludzi z jednej instancji, która rozmawia na dany temat - być może warto się tą instancją zainteresować.
+Jeżeli masz już konto na jakiejś instancji, ale masz wątpliwości czy jest ona dobrym miejscem dla Ciebie, poproś o sugestie instancji, które mogłyby bardziej Ci odpowiadać tematycznie. Ponadto, wyszukaj wpisów zawierających #hasztag, który Cię interesuje. Jeżeli znajdziesz większą grupę ludzi z jednej instancji, która rozmawia na dany temat - być może warto się tą instancją zainteresować.
 
 Możesz także skorzystać z narzędzia do wyboru instancji na [joinmastodon.org](https://joinmastodon.org/communities) czy też formularza na [instances.social](https://instances.social/), jednak ich listy zawierają _mnóstwo_ instancji i może to być dla Ciebie przytłaczające. Spokojnie, nie spiesz się.
 
-## Znalazłam inną instancję, która bardziej mi odpowiada. Czy mogę przenieść moje konto?
+## Wpadła mi w oko inna, ciekawsza instancja. Czy mogę przenieść moje konto?
 
 Tak i nie.
 
