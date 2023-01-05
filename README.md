@@ -388,6 +388,7 @@ Możesz używać ostrzeżeń o zawartości do oznaczania takich tematów jak:
 - tematy wzbudzające obrzydzenie
 - częste fobie, takie jak pająki czy krew
 - rozmowy o zdrowiu
+- rozmowy o wojnach i konfliktach zbrojnych
 - długie wpisy, które zajęłyby sporo miejsca na osiach czasu innych użytkowników
 - komentarze do dyskusji trwających gdzieś indziej w fediwersum, często oznaczone jako "meta" czy "dyskusja" (ang. "discourse")
 
@@ -481,7 +482,7 @@ Kilka popularnych motywów i hasztagów znanych w polskojęzycznych Mastodona:
 
 - `#giereczkowo` - hasztag do rozmów o grach, głównie video, ale nie tylko. W odróżnieniu od nieco poważniej brzmiącego `#gry` chodzi to o gry jako przyjemną, niezobowiązującą formę rozrywki dla wszystkich.
 
-- John Mastodon - w grudniu 2022 r. pewien amerykański serwis opublikował artykuł o Twitterze. Jego autor wspomniał, że John Mastodon - twórca platformy nazwanej od jego imienia - stracił konto na Twitterze. Wiadomość była prawdą, jednak twórca Mastodona nazywa się Eugen "Gargron" Rochko. Wywołało to falę wesołości i krąży jako żart również w polskiej społeczności. Ktoś nawet zarejestrował domenę [JohnMastodon.org](https://johnmastodon.org/) i przekierował ją na wpis Eugena.
+- John Mastodon - w grudniu 2022 r. pewien amerykański serwis opublikował artykuł o Twitterze. Jego autor wspomniał, że John Mastodon - twórca platformy nazwanej od jego imienia - stracił konto na Twitterze. Wiadomość była prawdą na zasadzie Radia Erewań - twórca Mastodona nazywa się Eugen "Gargron" Rochko, usunięte konto na Twitterze nazywało się "joinMastodon" (ang. "dołącz do Mastodona"), a nazwa Mastodon... to już wcześniej wyjaśnialiśmy. W każdym razie wywołało to falę wesołości i krąży jako żart również w polskiej społeczności. Ktoś nawet zarejestrował domenę [JohnMastodon.org](https://johnmastodon.org/) i przekierował ją na wpis Eugena. Zaś na potrzeby [sesji pytań i odpowiedzi na Reddicie](https://old.reddit.com/r/Mastodon/comments/zqfr4h/ama_with_eugen_rochko_founder_and_lead_developer/) Eugen założył konto o nazwie "NotJohnMastodon".
 
 - popularne na polskim Mastodonie stają się też tzw. grupy Guppe Groups - podobne nieco do dawnych grup dyskusyjnych. Więcej na ten temat znajdziesz w [artykule Sebastiana](https://zb3.org/m0bi13/przekluwacz-baniek-w-fediversum-guppe-groups).
 
