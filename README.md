@@ -152,7 +152,7 @@ Jeżeli chcesz posługiwać się językiem polskim i niespecjalnie interesuje Ci
 
 Istnieją także (wciąż nieliczne, ale jednak) instancje tematyczne: [social.puczat.pl](https://social.puczat.pl/) dla osób po kryzysach psychicznych, czy [lewacki.space](https://lewacki.space/) dla osób o szeroko rozumianych poglądach lewicowych.
 
-Nie musisz ograniczać się do instancji polskojęzycznych. Mają one jednak jedną istotnę zaletę - Polacy już tam są, jest z kim rozmawiać już od pierwszych minut na serwerze i łatwo dotrzeć do nowych ludzi choćby z poziomu lokalnej osi czasu. Posiadając konto na ogólnodostępnej instancji Twoje wpisy mogą ginąć w wielojęzycznym tłumie, a znalezienie rodaków nie będzie takie proste.
+Nie musisz ograniczać się do instancji polskojęzycznych. Mają one jednak jedną istotną zaletę - Polacy już tam są, jest z kim rozmawiać już od pierwszych minut na serwerze i łatwo dotrzeć do nowych ludzi choćby z poziomu lokalnej osi czasu. Posiadając konto na ogólnodostępnej instancji Twoje wpisy mogą ginąć w wielojęzycznym tłumie, a znalezienie rodaków nie będzie takie proste.
 
 Jeżeli chcesz korzystać z obcojęzycznej instancji i pisać na niej po polsku, sprawdź jej zasady. Upewnij się, czy ta instancja zezwala na używanie języków innych niż natywny dla moderacji tej instancji. Zrób to także w przypadku, gdy chcesz korzystać z polskojęzycznej instancji, ale zamierzasz pisać po polsku oraz w innych językach.
 
