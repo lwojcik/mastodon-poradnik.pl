@@ -29,7 +29,7 @@ Autor tłumaczenia robi to w dobrej wierze i bez większych oczekiwań wobec ś
 - [Wpadła mi w oko inna, ciekawsza instancja. Czy mogę przenieść moje konto?](#wpadła-mi-w-oko-inna-ciekawsza-instancja-czy-mogę-przenieść-moje-konto)
 - [Jak zmienić nazwę użytkownika?](#jak-zmienić-nazwę-użytkownika)
 - [Jak wspomnieć kogoś, kto nie jest na mojej instancji?](#jak-wspomnieć-kogoś-kto-nie-jest-na-mojej-instancji)
-- [Jakie są zasady?](#jakie-są-zasady)
+- [Jakie panują zasady?](#jakie-panują-zasady)
 - [Co zrobić, gdy zobaczę, że ktoś łamie zasady?](#co-zrobić-gdy-zobaczę-że-ktoś-łamie-zasady)
 - [Jakie są rodzaje wpisów?](#jakie-są-rodzaje-wpisów)
 - [Jak działają ustawienia prywatności?](#jak-działają-ustawienia-prywatności)
@@ -175,117 +175,138 @@ Możesz także skorzystać z narzędzia do wyboru instancji na [joinmastodon.org
 
 Tak i nie.
 
-Są dwa sposoby aby to osiągnąć: możesz **przekierować** albo **zmigrować** swoje konto.
+Możesz tego dokonać na jeden z dwóch sposobów: poprzez **przekierowanie** albo **migrację** konta.
 
-Jeżeli wybierzesz **przekierowanie** konta, Twoje stare konto będzie wyświetlać informacje o przeniesieniu i stracisz możliwość korzystania z niego (czyli przede wszystkim stracisz możliwość publikowania na nim). Wciąż będziesz mieć możliwość wyeksportowania danych z tego konta oraz reaktywowania go w dowolnym momencie. Użytkownicy, którzy wejdą na Twoje stare konto, zobaczą informację, że mogą Cię znaleźć pod nowym adresem. Nic więcej nie zostanie przeniesione automatycznie. Aby ustawić przekierowanie konta przejdź na stronę `[adres Twojego serwera]/settings/migration/redirect/new` (na przykład elekk.xyz/settings/migration/redirect/new). Link te znajdziesz na stronie poświeconej migracji konta. Wystarczy, że wpiszesz nazwę konta, do którego chcesz ustawić przekierowanie, a Mastodon zajmie się resztą.
+Jeżeli wybierzesz **przekierowanie** konta, Twoje stare konto będzie wyświetlać komunikat o przeniesieniu i stracisz możliwość korzystania z niego (nie będzie się dało nic z niego opublikować). Zachowasz jednak możliwość wyeksportowania danych z tego konta oraz reaktywowania go w dowolnym momencie. Ludzie, którzy wejdą na Twoje stare konto, zobaczą informację, że można Cię znaleźć pod nowym adresem. Nic więcej nie zostanie przeniesione automatycznie.
 
-(Przy przekierowaniu konta masz możliwość ręcznego przeniesienia części swoich danych. Zobacz kroki 4-6 poniżej.)
+Aby ustawić przekierowanie konta przejdź na stronę `[adres Twojego serwera]/settings/migration/redirect/new` (na przykład elekk.xyz/settings/migration/redirect/new). Link ten znajdziesz na stronie poświeconej migracji konta. Wystarczy, że wpiszesz nazwę konta, do którego chcesz ustawić przekierowanie, a Mastodon zajmie się resztą.
 
-Jeżeli wybierzesz **migrację** swojego konta, stanie się dokładnie to samo, co przy przekierowaniu konta. **Ale oprócz tego**, wszyscy, którzy Cię obserwują, automatycznie zaobserwują Twoje nowe konto (dzięki czemu nikt nie będzie musiał drugi raz szukać i dodawać Cię do obserwowanych). Ponadto, _możesz_ przenieść swoich obserwowanych, listy, zablokowanych, wyciszonych, zablokowane domeny i zakładki - system nie zrobi tego automatycznie za Ciebie.
+Przy przekierowaniu konta możesz przenieść część swoich danych ręcznie. Zobacz kroki 4-6 poniżej.
 
-**W żadnym z powyższych przypadków Twoje wpisy nie zostaną przeniesione. Na nowym koncie zaczynasz z pustą historią wpisów.**
+Jeżeli wybierzesz **migrację** konta, stanie się dokładnie to samo, co przy przekierowaniu konta. **Oprócz tego jednak**, wszyscy, którzy Cię obserwują, automatycznie zaobserwują Twoje nowe konto (dzięki czemu nikt nie będzie musiał drugi raz szukać i dodawać Cię do obserwowanych). _Możesz_ także przenieść swoich obserwowanych, listy, zablokowanych, wyciszonych, zablokowane domeny i zakładki - system nie zrobi tego automatycznie za Ciebie.
 
-Poniżej znajdziesz listę kroków do przejścia, aby **zmigrować** Twoje konto, wraz z kilkoma krokami opcjonalnymi (tak, wygląda jakby było ich sporo, ale dla ułatwienia pewne kwestie są rozdzielone).
+**W żadnym z powyższych przypadków Twoje wpisy nie zostaną przeniesione. Na nowym koncie zawsze zaczynasz z pustą historią wpisów.**
 
-1. Stwórz **nowe** konto. Możesz je założyć na instancji, na której teraz jesteś, albo na innej.
-2. Na Twoim **nowym** koncie kliknij `Preferencje`, a następnie przejdź do sekcji `Profil > Wygląd`. Poniżej Twojego awatara i nagłówka znajdziesz opcję **Ustaw konto jako prywatne** - upewnij się, że jest ona _odznaczona_ (gdyby była zaznaczona, musiał(a)być zatwierdzić wszystkich obserwujących przeniesionych automatycznie w trakcie migracji). Jeżeli w tym kroku musiałeś(aś) odznaczyć to pole, kliknij przycisk **Zapisz zmiany** na górze lub na dole strony.
+Poniżej znajdziesz listę kroków do przejścia, aby **zmigrować** Twoje konto, wraz z kilkoma krokami opcjonalnymi (wiemy, że tych kroków jest dużo, ale dla ułatwienia pewne kwestie są rozdzielone).
+
+1. Stwórz **nowe** konto. Możesz je założyć na instancji, na której teraz jesteś, albo dowolnej innej.
+
+2. Na Twoim **nowym** koncie kliknij `Preferencje`, a następnie przejdź do sekcji `Profil > Wygląd`. Poniżej Twojego awatara i nagłówka znajdziesz opcję **Ustaw konto jako prywatne** - upewnij się, że jest ona _odznaczona_ (gdyby była zaznaczona, istniałaby konieczność zatwierdzenia wszystkich obserwujących przeniesionych automatycznie w trakcie migracji). Jeżeli pole to zostało przez Ciebie odznaczone w tym kroku, kliknij przycisk **Zapisz zmiany** na górze lub na dole strony.
+
 3. Na Twoim **nowym** koncie, pozostając w ustawieniach, przejdź do `Konto > Ustawienia konta`. Na dole strony, pod nagłówkiem **Przenoszenie z innego konta**, kliknij **utworzyć alias konta**.
+
 4. Wpisz adres Twojego **starego** konta w formacie `uzytkownik@instancja` (na przykład `noelle@elekk.xyz`) i kliknij `Utwórz alias`.
+
 5. (opcjonalnie) Na Twoim **starym** koncie wejdź w Ustawienia i przejdź do `Import i eksport > Eksportowanie danych`.
-6. (opcjonalnie) Ujrzysz listę... hmmm... statystyk Twojego konta? Obok "Obserwowanych", "List", "Zablokowanych", "Wyciszonych", "Blokad domen" i "Zakładek", znajdziesz opcję :arrow_down:`CSV`. Kliknij w nią przy każdej rzeczy, którą chcesz przenieść na swoje nowe konto; spowoduje to pobranie plików z listami tych rzeczy w ustandaryzowanym formacie. Zapamiętaj, gdzie wylądowały pobrane pliki.
+
+6. (opcjonalnie) Zobaczysz listę... hmmm... statystyk Twojego konta? Obok "Obserwowanych", "List", "Zablokowanych", "Wyciszonych", "Blokad domen" i "Zakładek", znajdziesz opcję :arrow_down:`CSV`. Kliknij w nią przy każdej rzeczy, którą chcesz przenieść na swoje nowe konto; spowoduje to pobranie plików z listami tych rzeczy w ustandaryzowanym formacie. Zapamiętaj, gdzie pobrane pliki zostały zapisane na Twoim urządzeniu.
+
 7. (opcjonalnie) Na Twoim **nowym** koncie, w Ustawieniach, przejdź do `Import i eksport > Importowanie danych`. Dla każdego pobranego wcześniej pliku (z wyjątkiem List, których nie da się jeszcze importować):
 
 - Użyj rozwijanego menu (pod `Importowane dane`) aby wybrać właściwą rzecz do zaimportowania.
-- Pod nagłówkiem `Dane`, kliknij przycisk "**Przeglądaj...**". Wyświetli się okno wyboru pliku. Wybierz plik CSV, który pobrałeś(aś) wcześniej.
+- Pod nagłówkiem `Dane`, kliknij przycisk "**Przeglądaj...**". Wyświetli się okno wyboru pliku. Wybierz jeden odpowiedni plik CSV spośród pobranych w punkcie 6.
 - Zaznacz "**Nadpisz**", jeżeli ta opcja nie jest już zaznaczona.
 - Kliknij "**Załaduj**".
 
 8. Na Twoim **starym** koncie przejdź do Preferencji, a następnie do `Konto > Ustawienia konta`. Na dole tej strony, pod nagłówkiem `Przenieś konto` kliknij "**zrobić to tutaj**".
+
 9. Wpisz adres Twojego **nowego** konta w formacie `uzytkownik@instancja` oraz hasło do Twojego **starego konta**. W ten sposób Mastodon weryfikuje, że to Ty jesteś właścicielem konta (na wypadek, gdybyś zapomniał(a) się wylogować i ktoś inny używał Twojego komputera). Następnie kliknij "**Przenieś obserwujących**".
 
-I gotowe! Miej na uwadze, że cała migracja oraz zaimportowanie wszystkiego, co załadowałeś(aś), może potrwać dłuższą chwilę, szczególnie jeśli przenosisz się z wielkiej lub starej instancji.
+I gotowe! Miej na uwadze, że cała migracja oraz zaimportowanie Twoich danych może potrwać dłuższą chwilę - szczególnie jeśli przenosisz się z wielkiej lub długo istniejącej instancji.
 
-:bangbang: **Ważne**: Powyższy proces jest najbliższą rzeczą, jaką Mastodon ma do zaoferowania w kwestii zmiany nazwy użytkownika.
+:bangbang: **Ważne**: Powyższy proces to najbliższa rzecz, jaką Mastodon ma do zaoferowania w kwestii zmiany nazwy użytkownika.
 
-Specjalne podziękowania dla [Teda](https://peoplemaking.games/@esdin) i arachnomyrmex'a za pomoc przy tworzeniu tych kroków!
+Specjalne podziękowania dla [Teda](https://peoplemaking.games/@esdin) i arachnomyrmex'a za pomoc przy weryfikacji tej instrukcji!
 
 ## Jak zmienić nazwę użytkownika?
 
-:bangbang: W skrócie: nie da się. Gdy już wybierz nazwę użytkownika dla swojego konta, nie da się jej zmienić, więc wybieraj z rozwagą.
+:bangbang: W skrócie: nie da się. Gdy już wybierz nazwę użytkownika dla swojego konta, nie da się jej zmienić. Wybieraj z rozwagą.
 
-Rozwijając odpowiedź: jedyną możliwością zmiany nazwy użytkownika jest migracja konta (zobacz wyżej), jednakże nie zabierzesz ze sobą historii swoich wpisów.
+Rozwijając odpowiedź: jedyną możliwością zmiany nazwy użytkownika jest migracja konta (zobacz wyżej), ale nie zabierzesz ze sobą historii swoich wpisów.
 
-Niektórzy bardziej ambitni administratorzy próbowali zmieniać nazwy użytkowników bezpośrednio w bazie danych (na prośbę samych zainteresowanych), ale z jakiegoś powodu federacja na takich kontach przestawała działać; ludzie zgłaszali problemy z dostarczaniem wiadomości i widocznością wzmianek na innych instancjach.
+Nadgorliwa administracja serwera mogłaby pokusić się o zmianę nazwy użytkownika bezpośrednio w bazie danych. Takie próby - na prośbę samych zainteresowanych - miały miejsce. Jednak zmiany te zaburzały federację na takich kontach. Ludzie zgłaszali problemy z dostarczaniem wiadomości i widocznością wzmianek na innych instancjach.
 
 ## Jak wspomnieć kogoś, kto nie jest na mojej instancji?
 
-:bangbang: Nazwy użytkownika na Mastodonie przyjmują postać @_nazwa_uzytkownika_@_adres_instancji_. Moje konto na mastodon.social to @<span>noelle</span>@mastodon.social; moje konto na elekk.xyz to @<span>noelle</span>@elekk.xyz. Gdy wspominasz kogoś na innej instancji, musisz wpisać całą nazwą wraz z instancją (jednakże formularz dodawania wpisu zasugeruje Ci nazwę użytkownika jeżeli Twoja instancja wie o jej istnieniu).
+:bangbang: Nazwy użytkownika na Mastodonie przyjmują postać @_nazwa_uzytkownika_@_adres_instancji_. Moje konto na mastodon.social to @<span>noelle</span>@mastodon.social; moje konto na elekk.xyz to @<span>noelle</span>@elekk.xyz. Gdy wspominasz kogoś na innej instancji, musisz wpisać całą nazwę wraz z instancją (jednakże formularz dodawania wpisu zasugeruje Ci nazwę użytkownika jeżeli Twoja instancja wie o jej istnieniu).
 
-Jeśli wspominasz o kimś z Twojej instancji, wystarczy wpisać tylko pierwszy człon. Jeśli jesteś ne elekk.xyz, samo @noelle zadziała tak samo, jak @<span>noelle</span>@elekk.xyz. Pomijając "@_adres_instancji_" dajesz Mastodonowi do zrozumienia, że chcesz rozmawiać z użytkownikiem z tej samej instancji co Twoja.
+Jeśli wspominasz o kimś z Twojej instancji, wystarczy wpisać tylko pierwszy człon. Jeśli jesteś ne elekk.xyz, samo @noelle zadziała tak samo, jak @<span>noelle</span>@elekk.xyz. Pomijając "@_adres_instancji_" dajesz Mastodonowi do zrozumienia, że chcesz wspomnieć użytkownika z tej samej instancji co Twoja.
 
-## Jakie są zasady?
+## Jakie panują zasady?
 
-Zasady zależą od instancji. Każda instancja posiada stronę pod adresem https://<span>_adres_instancji_</span>/about, która zazwyczaj zawiera informacje o instancji oraz określa zasady społeczności. Dla przykładu, zasady instancji mastodon.social znajdują się na https://mastodon.social/about.
+To zależy od instancji. Każda instancja Mastodona posiada stronę pod adresem https://<span>_adres_instancji_</span>/about, która powinna zawierać informacje o instancji oraz definiować zasady społeczności. Dla przykładu, zasady instancji mastodon.social znajdują się na https://mastodon.social/about.
 
-Miej na uwadze, że są to zazwyczaj wskazówki, a nie sztywne reguły. Jako że każda instancja jest obsługiwana przez osobny zespół moderatorski - często w składzie jednej osoby! - ma on ostatnie słowo w kwestii tego, co na jego instancji jest dozwolone, a co nie. Administracja Twojej instancji może nawet posunąć się do blokowania innych instancji w całości, jeżeli ich użytkownicy okażą się niekompatiblni z wartościami wyznawanymi przez Twoją instancję, a moderacja tamtej instancji nie wykazuje chęci współpracy.
+Miej na uwadze, że są to zazwyczaj wskazówki, a nie sztywne reguły. Każda instancja jest obsługiwana przez osobny zespół moderatorski - często w składzie jednej osoby! - i ma on zawsze ostatnie słowo w kwestii tego, co na instancji jest dozwolone, a co nie. Administracja Twojej instancji może nawet posunąć się do całkowitego blokowania innych instancji, jeżeli ich użytkownicy wchodzą w kurs kolizyjny z wartościami promowanymi przez Twoją instancję, a moderacja tamtej instancji nie wykazuje chęci współpracy.
 
 ## Co zrobić, gdy zobaczę, że ktoś łamie zasady?
 
-Jeżeli zauważysz łamanie zasad, możesz je zgłosić. Kliknij na `...` pod wpisem naruszającym zasady i wybierz `Zgłoś @nazwa_uzytkownika` (opcja ta znajduje się zazwyczaj gdzieś na dole menu). Otworzy się okno, w którym możesz zaznaczyć inne wpisy zgłaszanego użytkownika, jak również wpisać _powód_ zgłoszenia, aby ułatwić moderacji zrozumienie, dlaczego wysyłasz zgłoszenie.
+Jeżeli zauważysz łamanie zasad, możesz to zgłosić. Kliknij na `...` pod wpisem naruszającym zasady i wybierz `Zgłoś @nazwa_uzytkownika` (opcja ta znajduje się zazwyczaj gdzieś na dole menu). Otworzy się okno, w którym możesz zaznaczyć inne wpisy zgłaszanego użytkownika, jak również wpisać _powód_ zgłoszenia, aby ułatwić moderacji zrozumienie, dlaczego wysyłasz zgłoszenie.
 
-Jeżeli użytkownik jest na innej instancji, to obok powodu zgłoszenia znajdziesz także przełącznik umożliwiający przekazanie zgłoszenia do instancji użytkownika. W ten sposób zgłoszenie trafi nie tylko do moderacji Twojej instancji, ale również do moderacji instancji tego użytkownika. Zanim jednak to zrobisz, **sprawdź reguły instancji tamtego użytkownika**. Może się okazać, że wcale nie łamie on reguł swojej instancji.
+Jeżeli osoba naruszająca zasady jest na innej instancji, to obok powodu zgłoszenia znajdziesz także przełącznik umożliwiający przekazanie zgłoszenia do instancji tej osoby. W ten sposób zgłoszenie trafi nie tylko do moderacji Twojej instancji, ale również do moderacji tamtejszej instancji. Zanim jednak to zrobisz, **sprawdź reguły instancji, której używa zgłaszana przez Ciebie osoba**. Może się bowiem okazać, że z perspektywy tamtej instancji nie dochodzi do złamania reguł.
 
-**Moderatorzy i administratorzy _Twojej_ instancji będą widzieli, że zgłoszenie zostało wysłane od Ciebie. Jeżeli wybierzesz opcję przekazania zgłoszenia do instancji danego użytkownika, moderatorzy i administratorzy tamtej instancji _nie zobaczą_, kto przysłał zgłoszenie - dowiedzą się tylko, że zgłoszenie przyszło z Twojej instancji.**
+**Moderacja i administracja _Twojej_ instancji będzie widziała, że zgłoszenie zostało wysłane od Ciebie. Jeżeli wybierzesz opcję przekazania zgłoszenia do instancji danej osoby, moderacja i administracja tamtej instancji _nie zobaczy_, kto wysłał zgłoszenie. Dowiedzą się tylko, że zgłoszenie przyszło z Twojej instancji.**
 
-Co do zasady nie otrzymasz powiadomienia o akcjach podjętych przez moderatorów lub administratorów w odpowiedzi na Twoje zgłoszenia. Możesz ich o to zapytać, ale przygotuj się na odpowiedź w rodzaju "nie komentujemy naszych reakcji na zgłoszenia".
+Raczej nie otrzymasz powiadomienia o akcjach podjętych przez moderatorów lub administratorów w odpowiedzi na Twoje zgłoszenia. Możesz zapytać ich o to, ale przygotuj się na odpowiedź w rodzaju "nie komentujemy naszych reakcji na zgłoszenia". Zdarzają się sytuacje, gdy naruszenia są na tyle rażące, że administracje serwerów same z siebie zajmują oficjalne stanowisko i informują publicznie o podjętych krokach.
 
 ## Jakie są rodzaje wpisów?
 
-:bangbang: Wpisy na Mastodonie (podobnie jak w całym fediwersum) mogą być połączone ze sobą na różne sposoby. Używam trzech terminów na określenie różnych rodzajów wpisów. Niekoniecznie są to określenia używane przez innych ludzi.
+:bangbang: Wpisy na Mastodonie (podobnie jak w całym fediwersum) mogą być połączone ze sobą na różne sposoby. Wykorzystuję trzy terminy na określenie różnych rodzajów wpisów. Nie zawsze są to te same określenia, co używane przez innych ludzi.
 
-- **Samodzielne wpisy** to takie wpisy, które nie są odpowiedziami na inne wpisy. (Tzn. żeby stworzyć taki wpis nie musiałeś(aś) klikać "Odpowiedz"). Są one na samej górze w sekwencji. W samodzielnych wpisach możesz dodawać nazwy użytkownika innych ludzi, aby ich oznaczyć; takie wpisy nie stają się odpowiedziami. **Przykład:** Możesz użyć standardowego formularza dodawania wpisu ("Co Ci chodzi po głowie" albo "What's on your mind?" przy standardowych ustawieniach Mastodona) aby dodać nowy wpis.
+- **Samodzielne wpisy** - wpisy, które nie stanowią odpowiedzi na inny wpis, tj. do ich opublikowania nie trzeba kliknąć przycisku "Odpowiedz". Są one na samej górze w sekwencji. W samodzielnych wpisach możesz dodawać nazwy użytkownika innych ludzi, aby ich oznaczyć - wpisy te nie stają się odpowiedziami.
 
-- **Odpowiedzi na własne wpisy** są, jak sama nazwa wskazuje, bezpośrednimi odpowiedziami na jeden z Twoich samodzilnych wpisów albo na inną odpowiedź na własny wpis. W nich również możesz oznaczać innych ludzi. Możesz dodawać tyle odpowiedzi do swoich wpisów, ile chcesz i _dopóki żaden wpis innego użytkownika nie pojawi się powyżej tego, których już dodałeś(aś) do sekwencji_, staną się one sekwencją odpowiedzi. **Przykład:** Możesz kliknąć na ikonkę odpowiedzi przy własnym wpisie, aby dodać odpowiedź na niego, a następnie kliknąć na ikonkę odpowiedzi przy już dodanej odpowiedzi na wpis, aby dodać kolejną.
+**Przykład:** Możesz użyć standardowego formularza dodawania wpisu ("Co Ci chodzi po głowie" albo "What's on your mind?" przy standardowych ustawieniach Mastodona) aby dodać nowy wpis.
 
-- **Odpowiedzi** to wpisy, które są reakcjami na cudzy wpis, _lub cudzą odpowiedź_ na cudzy wpis. **Przykład**: Możesz kliknąć na ikonkę odpowiedzi przy cudzym wpisie, aby na niego odpowiedzieć, **albo** kliknąć ikonkę odpowiedzi przy cudzym wpisie, aby dodać do niego odpowiedź, **albo** kliknąć ikonkę odpowiedzi przy swojej odpowiedzi na cudzy wpis.
+- **Odpowiedzi na własne wpisy** - Twoje bezpośrednie odpowiedzi do Twojego własnego wpisu albo do innej odpowiedzi do Twojego wpisu. W nich również da się oznaczać innych ludzi. Możesz dodać dowolną liczbę odpowiedzi do swoich wpisów i _dopóki żaden wpis innego użytkownika nie pojawi się powyżej tego, który już istnieje w sekwencji_, staną się one ciągiem odpowiedzi jedna pod drugą.
 
-Załączam diagram [tutaj](replies.png) (jako link, bo jest dość duży). Zwróć uwagę, że gdy tylko czyjś wpis zostanie dodane do sekwencji, Twoje odpowiedzi przestają działać jako odpowiedzi na Twoje własne wpisy. Jest to istotne, ponieważ odpowiedzi na własne wpisy i odpowiedzi innych ludzi na Twoje wpisy są wyświetlane inaczej na osiach czasu Twoich obserwujących.
+**Przykład:** Możesz kliknąć na ikonkę odpowiedzi przy własnym wpisie, aby dodać odpowiedź na niego, a następnie kliknąć na ikonkę odpowiedzi przy już dodanej odpowiedzi na wpis, aby dodać kolejną.
+
+- **Odpowiedzi** - Twoje wpisy dodawane jako odpowiedź na cudzy wpis, _albo cudza odpowiedź_ do cudzego wpisu.
+
+**Przykład**: Możesz kliknąć na ikonkę odpowiedzi przy cudzym wpisie, aby na niego odpowiedzieć, **albo** kliknąć ikonkę odpowiedzi przy cudzym wpisie, aby dodać do niego odpowiedź, **albo** kliknąć ikonkę odpowiedzi przy swojej odpowiedzi na cudzy wpis.
+
+Załączam diagram [tutaj](replies.png) (jako link, bo jest dość duży). Zwróć uwagę, że gdy tylko czyjś wpis zostanie dodany do sekwencji, Twoje odpowiedzi przestaną działać jako odpowiedzi do Twoich własnych wpisów. Jest to istotne, ponieważ odpowiedzi na własne wpisy i odpowiedzi innych ludzi na Twoje wpisy są różnie wyświetlane na osiach czasu Twoich obserwujących.
 
 ## Jak działają ustawienia prywatności?
 
-Pod każdym wpisem znajdziesz kilka ikonek: m.in. spinacza, kuli ziemskiej albo kłódki, litery "CW" i dwuliterowego kodu kraju oznaczającego język Twojego wpisu. Kliknij na ikonkę kuli ziemskiej lub kłódki aby wybrać ustawienia prywatności dla Twojego wpisu. _Możesz ustawić domyślny poziom prywatności dla Twoich wpisów w sekcji **Preferencje > Pozostałe > Widoczność postów**._
+Pod każdym wpisem znajdziesz kilka ikonek. Interesuje nas ikonka kuli ziemskiej lub kłódki. Kliknij ją, aby wybrać ustawienia prywatności dla wpisu, który właśnie dodajesz.
 
-- **Publiczny (ang. Public)** oznacza, że wszyscy mogą zobaczyć Twój wpis. Pojawi się on na liście Twoich wpisów oraz na osiach czasu Twoich obserwujących. Twoje _samodzielne wpisy_ i _odpowiedzi na własne wpisy_ ustawione jako publiczne pojawią się: na liście Twoich wpisów, w osiach czasu Twoich obserwujących, w lokalnych i globalnych osiach czasu, a także na liście wspomnień u każdego, kogo oznaczysz za pomocą nazwy użytkownika. Twoje publiczne _odpowiedzi_ pojawią się na liście Twoich _wpisów i odpowiedzi_ (ale nie na liście Twoich wpisów - to osobna lista!), w osiach czasu każdego z Twoich obserwujących, którzy _także_ obserwują osobę, której odpowiadasz, a także na liście wspomnień u każdego, kogo oznaczysz za pomocą nazwy użytkownika.
+_Możesz ustawić domyślny poziom prywatności dla wszystkich Twoich przyszłych wpisów w sekcji **Preferencje > Pozostałe > Widoczność postów**._
 
-- **Niewidoczny (ang. Unlisted)** oznacza, że każdy może zobaczyć Twój wpis, ale nie pojawi się on na publicznych osiach czasu - ani lokalnych, ani globalnych. Poza tym, wpisy oznaczone jako niewidoczne działają dokładnie tak samo, jak wpisy publiczne.
+Masz do dyspozycji następujące ustawienia:
 
-- **Tylko obserwujący (ang. Followers only)** oznacza, że tylko ludzie, którzy Cię obserwują, oraz ludzie, których wspomnisz w treści wpisu mogą go zobaczyć w swoich osiach czasu lub na stronie Twojego profilu. Gdy ktoś, kto Cię nie obserwuje, otworzy Twój profil, nie zobaczy wpisów tylko dla obserwujących. _Z perspektywy Twoich obserwujących_, wpisy tylko dla obserwujących działają dokładnie tak samo jako wpisy niewidczne. **Twoje wpisy tylko dla obserwujących, w których wspominasz innego użytkownika, pojawią się we wspomnieniach u tego użytkownika, nawet jeżeli ten użytkownik nie obserwuje Cię!**
+- **Publiczny (ang. Public)** oznacza, że wszyscy zobaczą Twój wpis. Pojawi się on na liście Twoich wpisów oraz na osiach czasu Twoich obserwujących. Twoje _samodzielne wpisy_ i _odpowiedzi na własne wpisy_ ustawione jako publiczne pojawią się: na liście Twoich wpisów, w osiach czasu Twoich obserwujących, w lokalnych i globalnych osiach czasu, a także na liście wspomnień u każdego, kogo oznaczysz za pomocą nazwy użytkownika. Twoje publiczne _odpowiedzi_ pojawią się na liście Twoich _wpisów i odpowiedzi_ (ale nie na liście Twoich wpisów - to osobna lista!), w osiach czasu każdego z Twoich obserwujących, którzy _także_ obserwują osobę, której odpowiadasz, a także na liście wspomnień u każdego, kogo oznaczysz za pomocą nazwy użytkownika.
 
-- :bangbang: **Tylko wspomniane osoby (ang. Mentioned people only)** oznacza dokładnie to: tylko ci ludzie, których wspomnisz w treści wpisu, zobaczą go i będzie on widoczny dla **wszystkich** osób, które zostały wspomniane (o ile Cię nie zablokowały lub wyciszyły). Pojawi się on na liście ich wspomnień oraz, na serwerach Mastodona od wersji 3.0 wzwyż, w kolumnie Wiadomości bezpośrednie.
+- **Niewidoczny (ang. Unlisted)** oznacza, że każdy może zobaczyć Twój wpis, ale nie pojawi się on na lokalnych i globalnych osiach czasu. Poza tą różnicą wpisy oznaczone jako niewidoczne działają dokładnie tak samo, jak wpisy publiczne.
 
-Miej na uwadze, że serwery, które używają oprogramowania kompatybilnego z Mastodonem, ale nie tym samym co Mastodon, mogą zignorować powyższe ustawienia prywatności przy wysyłce wiadomości do ich użytkowników - używaj tej opcji z rozwagą!
+- **Tylko obserwujący (ang. Followers only)** oznacza, że tylko ludzie, którzy Cię obserwują, oraz ludzie, których wspomnisz w treści wpisu mogą go zobaczyć w swoich osiach czasu lub na stronie Twojego profilu. Gdy ktoś spoza Twoich obserwujących otworzy Twój profil, nie zobaczy tych wpisów. _Z perspektywy Twoich obserwujących_, wpisy tylko dla obserwujących działają dokładnie tak samo jako wpisy niewidczne. **Twoje wpisy tylko dla obserwujących, w których wspominasz innego użytkownika, pojawią się we wspomnieniach u tego użytkownika, nawet jeżeli ten użytkownik nie obserwuje Cię!**
+
+- :bangbang: **Tylko wspomniane osoby (ang. Mentioned people only)** - jak sama nazwa wskazuje: tylko ci ludzie, których wspomnisz w treści wpisu, zobaczą go i będzie on widoczny dla **wszystkich** osób, które zostały wspomniane (o ile Cię nie zablokowały lub wyciszyły). Pojawi się on na liście ich wspomnień oraz, na serwerach Mastodona od wersji 3.0 wzwyż, w kolumnie Wiadomości bezpośrednie.
+
+Miej na uwadze, że serwery używające oprogramowania kompatybilnego z Mastodonem, ale innym niż Mastodon, mogą zignorować powyższe ustawienia prywatności przy dostarczaniu wiadomości do ich użytkowników. Używaj tej opcji z rozwagą!
 
 ## Jak bardzo prywatne jest "Prywatne"?
 
-Chcę to podkreślić z całą mocą: **Wpisy widoczne tylko dla wspomnianych ("Wiadomości bezpośrednie") nie są szyfrowane ani zabezpieczone.**
+Chcę to podkreślić z całą powagą: **Wpisy widoczne tylko dla wspomnianych ("Wiadomości bezpośrednie") nie są szyfrowane ani zabezpieczone.**
 
-Administrator Twojego serwera ma możliwość odczytania _wszystkich_ wpisów opublikowanych na jego serwerze, jak również _wszystkich_ wpisów wysłanych do użytkownika na jego serwerze. **Jednakże** proces ten jest upierdliwy. Twoje prywatne wpisy nie pojawią się w panelu administracyjnym serwera; aby się do nich dostać, Twój administrator musi się własnoręcznie zalogować do bazy danych - zazwyczaj za pomocą linii komend serwera. To _nie jest_ coś, co administratorzy robią dla kaprysu. Robią to tylko wtedy, kiedy muszą i jest ku temu ważny powód:
+Adminitracja Twojego serwera ma możliwość odczytania _wszystkich_ wpisów opublikowanych na tym serwerze, jak również _wszystkich_ wpisów wysłanych do ludzi korzystających z tego serwera. **Jednakże** proces ten jest upierdliwy.
 
-Jest to konieczny środek bezpieczeństwa. Administratorzy _nie chcą_ czytać Twoich prywatnych wpisów, ale muszą mieć taką możliwość, ponieważ prywatne wpisy mogą być wykorzystywane do cichego nękania innych ludzi lub innych nielegalnych działań bez wiedzy administratora. W wielu systemach prawnych administrator może być pociągnięty do odpowiedzialności _nawet jeżeli nie wiedział, że nadużycia miały miejsce_.
+Twoje prywatne wpisy nie pojawią się panelu administracyjnym serwera. Aby się do nich dostać, Twój administrator musi się zalogować do bazy danych - zazwyczaj za pomocą linii komend serwera. Administracja ma zazwyczaj inne rzeczy na głowie i nie będzie robić tego dla przyjemności. Czasem jednak musi i jest ku temu ważny powód: **jest to niezbędny środek bezpieczeństwa.**
 
-To powiedziawszy, Twój administrator przejrzy Twoje wpisy oznaczone jako prywatne tylko wtedy, gdy będzie podejrzewał, że dochodzi do nękania albo nielegalnych działań. Upewnij się, że ufasz swojemu administratorowi na tyle, aby Ci to nie przeszkadzało. Jeżeli nie, to może warto rozejrzeć się za inną instancją.
+Administracja _nie chce_ czytać Twoich prywatnych wpisów. Muszą jednak mieć taką możliwość, ponieważ prywatne wpisy mogą być wykorzystywane do potajemnego nękania ludzi lub innych nielegalnych działań. W wielu systemach prawnych administracja serwera może być pociągnięta do odpowiedzialności karnej _nawet jeżeli nie wiedziała, że nielegalny czyn miał miejsce_.
 
-Skoro już przy tym jesteśmy, warto odnotować, że tak samo jest na większości platform społecznościowych. Administratorzy Twittera mogą czytać Twoje prywatne wiadomości. Administratorzy forum również mogą czytać Twoje wiadomości. Mastodon nie jest w tym aspekcie nowatorski ani nadzwyczajny - upewniam się tylko, że masz tego świadomość.
+A zatem - administracja serwera przejrzy Twoje wpisy oznaczone jako prywatne tylko wtedy, gdy będzie podejrzewać, że dopuszczasz się nękania albo nielegalnych działań. Upewnij się, że masz wystarczająco dużo zaufania do administracji, aby ten fakt nie stanowił dla Ciebie problemu. Jeżeli nie, to może warto rozejrzeć się za inną instancją.
 
-**Ogólna zasada jest taka: jeżeli aplikacja, której używasz, nie posiada [szyfrowania end to end](https://pl.wikipedia.org/wiki/Szyfrowanie_od_ko%C5%84ca_do_ko%C5%84ca), to informacja, którą przez nią przesyłasz, nie jest zabezpieczona, chyba że wykorzystasz [dodatkowe zewnętrzne narzędzia](https://pl.wikipedia.org/wiki/Pretty_Good_Privacy) do jej zabezpieczenia.**
+Skoro już przy tym jesteśmy, warto odnotować, że tak samo jest na większości serwisów społecznościowych. Administratorzy Twittera mogą czytać Twoje prywatne wiadomości. Administratorzy forum również mogą czytać Twoje wiadomości. Mastodon nie jest w tym aspekcie nowatorski ani nadzwyczajny. Chcieliśmy się tylko upewnić, że jest to dla Ciebie wiadome.
+
+**Ogólna zasada jest taka: jeżeli aplikacja, której używasz, nie posiada [szyfrowania end to end](https://pl.wikipedia.org/wiki/Szyfrowanie_od_ko%C5%84ca_do_ko%C5%84ca), to informacja, którą przez nią przesyłasz, nie jest zabezpieczona o ile nie użyjesz [dodatkowych narzędzi](https://pl.wikipedia.org/wiki/Pretty_Good_Privacy) do jej zabezpieczenia.**
 
 ## Co się dzieje, gdy ktoś dodaje mnie do obserwowanych?
 
-~~Gdy ktoś dodaje Cię do obserwowanych, zaciągasz u tej osoby dług na całe życie. Będziesz musiał(a) porzucić swoje dotychczasowe życie dla tej osoby gdy tylko o to poprosi. A gdy już to zrobisz, ta osoba usunie Cię z obserwowanych. Jeśli sobie z tym poradzisz, będziesz mógł(a) wrócić do swojego normalnego życia.~~
+~~Gdy ktoś dodaje Cię do obserwowanych, zaciągasz u tej osoby kredyt na całe życie. Gdy tylko Cię poprosi, będziesz mieć przymus porzucenia swojego dotychczasowego życia dla niej. A gdy już to nastąpi, ta osoba usunie Cię z obserwowanych. Jeśli sobie z tym poradzisz, nie będzie problemu z powrotem do normalnego życia.~~
 
-Żartuję.
+Okej, to był tylko żart.
 
-Gdy ktoś dodaje Cię do obserwowanych, osoba ta będzie widzieć Twoje wpisy na swojej stronie głównej, włączając w to wpisy widoczne tylko dla obserwujących. Jeżeli chcesz, możesz ograniczyć liczbę obserwujących Cię osób klikając **Edytuj profil** i wybierając **Ustaw konto jako prywatne**, dzięki czemu będziesz mieć możliwość ręcznego akceptowania i odrzucania ludzi, którzy chcą Cię obserwować.
+Gdy ktoś doda Cię do obserwowanych, ta osoba będzie od tej pory widzieć Twoje wpisy na swojej stronie głównej - łącznie z wpisy widocznymi tylko dla obserwujących. Jeżeli chcesz, możesz ograniczyć liczbę obserwujących Cię osób poprzez kliknięcie **Edytuj profil** i wybranie **Ustaw konto jako prywatne**. Dzięki temu zyskasz możliwość własnoręcznego akceptowania i odrzucania ludzi, którzy chcą Cię dodać do obserwowanych.
 
 ## Więc jeśli ustawię konto jako prywatne, tylko zaakceptowani obserwujący będą widzieć moje wpisy?
 
@@ -295,87 +316,100 @@ Na prywatnym koncie akceptujesz prośby o obserwowanie _poprzez interfejs Mastod
 
 **Ale...**
 
-:bangbang: Każde konto na Mastodonie (na serwerze nieużywającym modyfikacji) udostępnia również kanał RSS zawierający wszystkie publiczne i niewidoczne wpisy - to znaczy te wpisy, które są widoczne na stronie profilu danego konta. Nie trafiają tam wpisy tylko dla obserwujących ani wiadomości bezpośrednie, a jeśli [dodasz ostrzeżenie o zawartości (CW)](#co-oznacza-cw), na kanale RSS będzie widoczna będzie tylko treść CW bez rozwinięcia.
+:bangbang: Każde konto na Mastodonie (na serwerze bez modyfikacji) udostępnia także kanał RSS zawierający wszystkie publiczne i niewidoczne wpisy - to znaczy te wpisy, które są widoczne na stronie profilu danego konta. Nie trafiają tam wpisy tylko dla obserwujących ani wiadomości bezpośrednie. Jeśli [dodasz ostrzeżenie o zawartości (CW)](#co-oznacza-cw), na kanale RSS będzie widoczna będzie tylko treść CW bez rozwinięcia.
 
-Twój kanał RSS jest dostępny pod adresem `https://<adres-twojego-serwera>/users/<twoja-nazwa-użytkownika>.rss`; na przykład, w przypadku mojego konta `https://elekk.xyz/@noelle` kanał RSS znajduje się pod adresem `https://elekk.xyz/users/noelle.rss` (pamiętaj aby pominąć `@`!)
+Twój kanał RSS jest dostępny pod adresem `https://<adres-twojego-serwera>/users/<twoja-nazwa-użytkownika>.rss`. Na przykład, w przypadku mojego konta `https://elekk.xyz/@noelle` kanał RSS znajduje się pod adresem `https://elekk.xyz/users/noelle.rss` (pamiętaj aby pominąć `@`!)
 
-**Każdy może zasubskrybować Twój kanał RSS za pomocą specjalnego czytnika, aby śledzić na bieżąco Twoje publiczne i niewidoczne wpisy.** Nie da się wpłynąć na to, kto może wyświetlić Twój kanał RSS, a kto nie. Jednak konstrukcja kanału RSS wyklucza możliwość wyświetlenia w nim wpisów tylko dla obserwowanych lub wspomnianych osób. _Jeżeli wszystkie Twoje wpisy są widoczne tylko dla obserwujących, Twój kanał RSS będzie pusty._
+**Każdy może zasubskrybować Twój kanał RSS za pomocą specjalnego czytnika, aby śledzić na bieżąco Twoje publiczne i niewidoczne wpisy.** Nie da się kontrolować, kto może wyświetlić Twój kanał RSS, a kto nie. Jednak konstrukcja kanału RSS wyklucza możliwość wyświetlenia w nim wpisów tylko dla obserwowanych lub wspomnianych osób. _Jeżeli wszystkie Twoje wpisy są widoczne tylko dla obserwujących, Twój kanał RSS będzie pusty._
 
-Pamiętaj, że zawsze możesz zmienić domyślne ustawienie widoczności Twoich wpisów w sekcji **Preferencje > Pozostałe > Widoczność wpisów**. Jeżeli Twoje konto jest ustawione jako prywatne, sensownym pomysłem może być ustawienie domyślnej widoczności wpisów jako 'Tylko obserwujący', dzięki czemu nie będziesz mieć możliwości dodania wpisu publicznego lub niewidocznego przez przypadek.
+Pamiętaj, że zawsze możesz zmienić domyślne ustawienie widoczności Twoich wpisów w sekcji **Preferencje > Pozostałe > Widoczność wpisów**. Jeżeli Twoje konto jest ustawione jako prywatne, sensownym pomysłem może być ustawienie domyślnej widoczności wpisów jako 'Tylko obserwujący'. Dzięki temu nie będziesz mieć możliwości dodania wpisu publicznego lub niewidocznego przez przypadek.
 
 ## Co jeżeli ktoś mnie obserwuje albo pisze do mnie, a ja sobie tego nie życzę?
 
 Masz kilka możliwości.
 
-- **Jeśli nie chcesz widzieć wpisów tej osoby**, możesz ją _wyciszyć_. Zablokuje to wyświetlanie wpisów od tej osoby we wszystkich Twoich osiach czasu. Opcjonalnie możesz również zablokować powiadomienia od nich (dodawanie do ulubionych, podbicia i wzmianki). Zatem jeżeli nie chcesz widzieć wpisów danej osoby, ale chcesz widzieć, kiedy ta osoba wchodzi z Tobą interakcje - jest to możliwe.
+- **Jeśli nie chcesz widzieć wpisów tej osoby**, możesz ją _wyciszyć_. Zablokuje to wyświetlanie wpisów od tej osoby we wszystkich Twoich osiach czasu. Opcjonalnie możesz również zablokować powiadomienia od niej (dodawanie do ulubionych, podbicia i wzmianki). Zatem jeżeli chcesz ukryć wpisy danej osoby, ale nie chcesz przegapić, kiedy ta osoba wchodzi z Tobą interakcje - da się tak zrobić.
 
-- **Jeśli nie chcesz widzieć tej osoby oraz nie chcesz, aby ta osoba widziała Ciebie**, możesz ją _zablokować_. Zablokowana osoba zostanie również automatycznie wyciszona. Jeżeli ta osoba Cię obserwowała i (lub) Ty obserwowałeś(aś) ją, to nie będzie już możliwe. Osoba ta nie będzie miała możliwości dodania Cię do obserwowanych i nie zobaczysz jej w żadnej z osi czasu dopóki jej nie odblokujesz (ale zobacz niżej).
+- **Jeśli nie chcesz widzieć tej osoby ani nie chcesz, aby ta osoba widziała Ciebie**, możesz ją _zablokować_. Zablokowana osoba zostanie automatycznie wyciszona. Jeżeli wcześnie obserwowaliście siebie nawzajem, to już nie będzie to możliwe. Osoba ta nie będzie mogła dodać Cię do obserwowanych i nie zobaczysz jej w żadnej z osi czasu, chyba że ją odblokujesz (jednak czytaj dalej!).
 
-- **Jeśli ta osoba nęka Cię albo łamie zasady w inny sposób**, możesz [ją zgłosić](#co-zrobić-gdy-zobaczę-że-ktoś-łamie-zasady) i, miejmy nadzieję, Twój moderator zajmie się tym.
+- **Jeśli ta osoba nęka Cię albo łamie zasady**, możesz [ją zgłosić](#co-zrobić-gdy-zobaczę-że-ktoś-łamie-zasady) i Twój moderator powinien się tym zająć.
 
-Wszystkie trzy opcje są dostępne po kliknięciu `...` przy jednym z wpisów dego użytkownika lub na jego profilu wewnątrz interfejsu webowego Mastodona.
+Wszystkie trzy opcje są dostępne po kliknięciu `...` przy jednym z wpisów lub na profilu tej osoby w interfejsie WWW Mastodona.
 
-**Ale.**
+**Jest jednak małe ale.**
 
-Podobnie jak w przypadku [prywatnego konta](#więc-jeśli-ustawię-konto-jako-prywatne-tylko-zaakceptowani-obserwujący-będą-widzieć-moje-wpisy), każdy użytkownik - nawet zablokowany lub zawieszony przez moderatora - może otworzyć Twoją publiczą stronę lub kanał RSS i zobaczyć Twoje publiczne i niewidoczne wpisy. Niestety nie ma na to dobrego rozwiązania, może z wyjątkiem ustawienia wszystkich wpisów jako widoczne tylko dla obserwujących.
+Podobnie jak w przypadku [prywatnego konta](#więc-jeśli-ustawię-konto-jako-prywatne-tylko-zaakceptowani-obserwujący-będą-widzieć-moje-wpisy), każda osoba - nawet zablokowana lub zawieszona przez moderatora - może otworzyć Twoją publiczną stronę lub kanał RSS i zobaczyć Twoje wpisy oznaczone jako publiczne i niewidoczne. Niestety nie ma na to rady. Pomóc może ustawienie wszystkich wpisów jako widoczne tylko dla obserwujących.
 
-## Jak sprawdzić, czy ktoś mnie wyciszył lub zablokował?
+## Jak sprawdzić, czy dana osoba mnie wyciszyła lub zablokowała?
 
-Nie dostaniesz powiadomienia o tym, że ktoś Cię wyciszył lub zablokował.
+Nie da się. Nie dostaniesz powiadomienia o tym fakcie.
 
-Jeśli ktoś Cię wyciszył, nie będziesz wiedzieć tego na pewno. Jeśli ta osoba uparcie nie odpisuje gdy wspominasz jej nazwę użytkownika, jest to oczywiście powód do podejrzeń, ale Mastodon specjalnie utrudnia rozpoznanie, czy zostałeś(aś) wyciszony(a) (pomijając inne powody, ma to na celu zapobiegnięcie sytuacji, w której ktoś nęka Cię z wielu kont celem obejścia wyciszenia).
+Jeśli dana osoba Cię wyciszyła, nie będziesz mieć stuprocentowej pewności. Brak reakcji na Twoje wzmianki może być powodem do podejrzeń, ale Mastodon celowo utrudnia rozpoznanie, czy tak się dzieje. Ma to na celu na celu zapobiegnięcie sytuacji, w której ktoś nęka Cię z wielu kont aby obejść wyciszenie.
 
-Jeśli ktoś Cię zablokował, nie będziesz już obserwować tej osoby, jej wpisy nie pojawią się w Twojej osi czasu, i gdy otworzysz jej profil _wewnątrz inferfejsu webowego Mastodona_, żaden z wpisów tej osoby nie będzie widoczny (warto zaznaczyć, że jeżeli otworzysz profil kogoś, kogo _nie obserwujesz_, a wpisy tej osoby się nie załadują, to prawdopodobnie dlatego, że serwer działa wolno, a nie dlatego że ta osoba Cię zablokowała, więc nie wyciągaj pochopnych wniosków).
+Gdy ktoś Cię zablokuje, stracisz możliwość obserwowania tej osoby, a jej wpisy nie pojawią się w Twojej osi czasu. Gdy otworzysz profil tej osoby _wewnątrz inferfejsu WWW Mastodona_, żaden z jej wpisów nie będzie widoczny. Warto jednak zaznaczysz, że jeżeli otworzysz profil kogoś, kogo _nie obserwujesz_, a wpisy tej osoby się nie wyświetlą, to przyczyną nie musi być blokada, lecz problemy z serwerem. Nie wyciągaj pochopnych wniosków.
 
-Jeśli ktoś Cię zablokował, wciąż możesz otworzyć publiczną stronę tej osoby i zobaczyć jej publiczne i niewidoczne wpisy. Publiczne profile nie wymagają autentykacji (tzn. nie musisz się logować na żadnej instancji, aby je zobaczyć), więc nie ma możliwości rozpoznania, że Ty to Ty i że użytkownik Cię zablokował. _Mimo to bądźmy szczerzy:_ jeśli ktoś Cię zablokował, to znaczy że nie życzy sobie Twojej obecności w pobliżu. _Możesz_ czytać publiczne i niewidoczne wpisy tej osoby, ale może jednak przestań? W znaczący sposób naruszasz prywatność tej osoby i z premedytacją przekraczasz granice, które ta osoba wyznaczyła, a argument w stylu "oprogramowanie na to pozwala, czyli to jest w porządku" jest marnym wytłumaczeniem. Zostaw tę osobę w spokoju, proszę.
+Jeśli ktoś Cię zablokował, wciąż możesz otworzyć publiczną stronę tej osoby i zobaczyć jej publiczne i niewidoczne wpisy. Publiczne profile nie wymagają logowania, aby je zobaczyć, więc nie ma możliwości rozpoznania, że Ty to Ty i że dana osoba Cię blokuje. _Jednak bądźmy szczerzy:_ jeśli dana osoba Cię zablokowałą, to znaczy że nie życzy sobie Twojej obecności w pobliżu. _Masz techniczną możliwość_ czytania publicznych i niewidocznych wpisów tej osoby, ale może jednak przestań? Naruszasz w znaczący sposób prywatność tej osoby i z premedytacją przekraczasz wyznaczone granice. Argument w stylu "oprogramowanie na to pozwala, czyli to jest w porządku" jest żałosny. Poważnie - zostaw tę osobę w spokoju.
 
 ## Co się dzieje, gdy przekroczę limit znaków?
 
-Spokojnie. Po pierwsze, nie da się; Mastodon nie pozwoli Ci dodać wpisu dłuższego niż limit na Twojej instancji. Nie będziesz mieć żadnych nieprzyjemności z tego powodu.
+Spokojnie - nie da się. Mastodon nie pozwoli Ci dodać wpisu dłuższego niż limit na Twojej instancji. Nikt nie zrobi Ci żadnych nieprzyjemności z tego powodu.
 
-Jeśli masz poczucie, że to co co chcesz przekazać jest za długie na jeden wpis, albo przyszło Ci do głowy coś jeszcze już po opublikowaniu wpisu, możesz _odpowiedzieć na własny wpis_. Mastodon obsługuje wątkowanie wpisów, więc możesz dodać dowolną liczbę wpisu jako odpowiedzi jeden do drugiego, i cała seria wyświetli się każdemu, kto kliknie na którykolwiek z wpisów w Twoim wątku.
+Jeśli przeczujwasz, że Twoja wiadomość jest zbyt długa na jeden wpis, albo przyszło Ci do głowy coś jeszcze już po opublikowaniu wpisu, możesz _odpowiedzieć na własny wpis_. Mastodon obsługuje wątkowanie wpisów, więc możesz dodać dowolną liczbę wpisów jako odpowiedzi jedna na drugą, i cała seria wyświetli się po kliknięciu w którykolwiek z wpisów w Twoim wątku.
 
-A zatem - jeżeli Twój wpis jest zbyt długi, podziel go i dodaj drugą część jako odpowiedź do pierwszego. A jeśli później przypomnisz sobie o czymś jeszcze, to po prostu dodaj odpowiedź do Twojego pierwotnego wpisu i ta odpowiedź będzie widoczna zawsze, gdy ktoś kliknie na oryginalny wpis.
+A zatem - jeżeli Twój wpis jest zbyt długi, podziel go i dodaj drugą część jako odpowiedź do pierwszego. A gdy przypomnisz sobie o czymś jeszcze, to po prostu dodaj odpowiedź do Twojego pierwotnego wpisu i ta odpowiedź będzie widoczna, gdy ktoś kliknie na oryginalny wpis.
 
 ## Czym są hasztagi?
 
-Aby stworzyć hasztaga, wpisz "#" i dowolną sekwencję liter lub liczb. Znaki diakrytyczne mogą być używane; interpunkcja, spacje, symbole i emoji nie. #fotografia jest poprawnym hasztagiem. #PięknoNauki również. #Piekno-Nauki nie (jedynie #Piekno zostanie uwzględnione).
+Aby stworzyć hasztaga, wpisz "#" i dowolną sekwencję liter lub liczb. Możesz używać liter z ogonkami. Hasztagi nie obsługują interpunkcji, spacji, symboli ani emoji.
 
-Hasztag stanowi metadane o Twoim wpisie: dostarcza dodatkowych informacji, które niekoniecznie stanowią część wpisu, ale są przydatne dla lepszego zrozumienia jego treści. Jeśli jesteś programistą, to pomyśl o hasztagu jak o komentarzu w kodzie.
+`#fotografia` jest poprawnym hasztagiem. `#PięknoNauki` również.
 
-Dodatkowo†, hasztagi są śledzone przez każdą instancję. Kliknięcie w hasztag przenosi Cię do listy publicznych wpisów z tym hasztagiem. Możesz za ich pomocą czytać, co ciekawego przyniosła #polityka, znaleźć nowe osoby do obserwowania w tagu #FollowFriday, czy też zobaczyć prace artystyczne ludzi w tagu #mastoart. Mastodon od wersji 4.0.0 pozwala na obserwowanie wybranych hasztagów, dzięki czemu wpisy zawierające obserwowany hasztag wylądują na Twojej osi czasu.
+`#Piekno-Nauki` nie zadziała (hasztagiem stanie się jedynie `#Piekno`).
 
-Nie przesadzaj z ilością hasztagów. Co do zasady Twoje hasztagi raczej nie powinny przekraczać 10% całkowitej długości Twojego wpisu. Jeśli zdarza Ci się przekraczać ten pułap, być może za bardzo rozmieniasz się na drobne.
+Hasztag stanowi metadane Twoim wpisu, tj. dostarcza dodatkowych informacji, które nie są częścią wpisu, ale ułatwiają zrozumienie jego treści. Jeżeli masz styczność z programowaniem, pomyśl o hasztagu jak o komentarzu w kodzie.
 
-† _A właściwie taka idea przyświecała hasztagom na początku, ale ich faktyczne użycie wyewoluowało._
+Hasztagi są śledzone przez każdą instancję. Kliknięcie w hasztag przenosi Cię do listy publicznych wpisów z tym hasztagiem. Możesz za ich pomocą czytać, co ciekawego przyniosła #polityka, znaleźć nowe osoby do obserwowania w tagu #FollowFriday, czy też zobaczyć prace artystyczne ludzi w tagu #mastoArt. Mastodon od wersji 4.0.0 pozwala na obserwowanie wybranych hasztagów, dzięki czemu wpisy zawierające obserwowany hasztag 
+wylądują na Twojej osi czasu.
+
+Jeśli hasztag składa się z kilku słów, używaj wielkich liter - np. `#DepartamentWiedzyUżytecznej` zamiast `#departamentwiedzyużytecznej`. Dzięki temu czytniki ekranowe poprawnie odczytają pojedyncze słowa w hasztagu i ułatwią jego zrozumienie osobom niewidomym lub słabo widzącym.
+
+Nie przesadzaj z ilością hasztagów. Co do zasady hasztagi raczej nie powinny przekraczać 10% całkowitej długości Twojego wpisu. Jeśli zdarza Ci się przekraczać ten pułap, być może za bardzo rozmieniasz się na drobne.
 
 ## Co oznacza "CW"?
 
-:bangbang: CW to skrót od anglojęzycznego 'Content Warning' i oznacza ostrzeżenie o zawartości. Ukrywa ono Twój wpis za jakimś tekstem (który możesz samodzielnie ustawić); działa jak link "Czytaj dalej".
+:bangbang: CW to skrót od anglojęzycznego 'Content Warning' i oznacza ostrzeżenie o zawartości. Ukrywa ono Twój wpis za jakimś tekstem (który możesz samodzielnie ustawić). Działa on trochę jak link "Czytaj dalej".
 
-Możesz używać CW do oznaczania takich tematów jak:
+Możesz używać ostrzeżeń o zawartości do oznaczania takich tematów jak:
 
 - polityka
 - seks
 - tematy wzbudzające obrzydzenie
 - częste fobie, takie jak pająki czy krew
 - rozmowy o zdrowiu
-- długie wpisy które w innym razie zabrałyby sporo miejsca na osiach czasu innych użytkowników
+- długie wpisy, które zajęłyby sporo miejsca na osiach czasu innych użytkowników
 - komentarze do dyskusji trwających gdzieś indziej w fediwersum, często oznaczone jako "meta" czy "dyskusja" (ang. "discourse")
 
-Niektóre popularne skróty, które napotkasz w CW:
+Niektóre popularne skróty, które napotkasz w ostrzeżeniach u anglojęzycznych użytkowników:
 
 - mh: zdrowie psychiczne (od ang. mental health)
 - ph: zdrowie fizyczne (od ang. physical health)
 - alc: alkohol (od ang. alcohol)
-- pol: polityka, często w połączeniu z kodem kraju, np. "uspol" oznacza politykę w USA
+- pol: polityka, często w połączeniu z kodem kraju, np. "uspol" oznacza politykę USA
 - pda: publiczne okazywanie czułości (od ang. public display of affection)
 - nsfw: nie oglądać w miejscu pracy (od ang. not safe for work)
-- ec: kontakt wzrokowy (od ang. eye content) - zazwyczaj używany, gdy do wpisu dołączone jest zdjęcie
+- ec: kontakt wzrokowy (od ang. eye contact) - zazwyczaj używany, gdy do wpisu dołączone jest zdjęcie
 
-Ogólnie mówiąc, kieruj się swoim najlepszym osądem. Pomyśl: "czy jest jakiś powód, dla którego ktoś nie chciałby tego zobaczyć?". Masz możliwość, aby poświęcić zaledwie chwilkę czasu i uczynić fediwersum lepszym miejscem. Czemu z tego nie skorzystać?
+Oprócz tego w ostrzeżeniach mogą znaleźć się dodatkowe informacje:
 
-**Ważna uwaga:** Mastodon _ignoruje_ hasztagi w treści CW. Mastodon _widzi_ hasztagi, które znajdują się *pod* CW. Zawsze wstawiaj hasztagi w treści Twojego wpisu, nigdy w treści ostrzeżenia o zawartości.
+- `+` i `-` w połączeniu z innym skrótem (np. `mh+` albo `mh-`) - sygnalizuje czy informacja jest pozytywna czy negatywna
+- 'boosts ok' / 'boosts appreciated' - prośba albo zachęta do podbicia wpisu
+- 'no boosts' / 'no favs' - informuje, że dana osoba nie życzy sobie, aby jej wpis był podbijany / dodawany do ulubionych i warto to uszanować
+
+Jak formułować ostrzeżenia o zawartości? Ogólnie mówiąc, kieruj się swoim najlepszym osądem. Zadaj sobie pytanie: "czy jest jakiś powód, dla którego ktoś nie chciałby tego zobaczyć?". Masz możliwość, aby poświęcić zaledwie chwilkę czasu i uczynić fediwersum lepszym miejscem. Czemu z tego nie skorzystać?
+
+Ostrzeżenia o zawartości mogą być wymagane w zasadach serwera dla wpisów o określonej tematyce. Nie jest to cenzura, a raczej uprzejmość wobec ludzi, którzy w jakimś stopniu patrzą na świat inaczej, niż my. Dzięki ostrzeżeniom o zawartości osoby o różnej wrażliwości na pewne bodźce (np. osoby ze spektrum autyzmu, bojące się widoku pająków, cierpiące na depresję itp.) mogą pominąć pewne treści i nadal cieszyć się bezpieczną i zdrową platformą do rozmów i wymiany myśli.
+
+**Ważna uwaga:** Mastodon _ignoruje_ hasztagi w treści ostrzeżeń o zawartości. Mastodon _widzi_ hasztagi, które znajdują się *pod* ostrzeżeniami. Zawsze wstawiaj hasztagi w treści wpisu (np. na końcu), a nie wewnątrz samego ostrzeżenia.
 
 ## Załączyłam obrazek do mojego wpisu. Co to za ikonka z okiem?
 
