@@ -41,21 +41,21 @@ Autor tłumaczenia robi to w dobrej wierze i bez większych oczekiwań wobec ś
 - [Co się dzieje, gdy przekroczę limit znaków?](#co-się-dzieje-gdy-przekroczę-limit-znaków)
 - [Czym są hasztagi?](#czym-są-hasztagi)
 - [Co oznacza "CW"?](#co-oznacza-cw)
-- [Próbuje załączyć obrazek do wpisu. Co to za ikonka z okiem?](#próbuje-załączyć-obrazek-do-wpisu-co-to-za-ikonka-z-okiem)
-- [Próbuje załączyć obrazek do wpisu. Jak dodać do niego opis zawartości?](#próbuje-załączyć-obrazek-do-wpisu-jak-dodać-do-niego-opis-zawartości)
+- [Próbuje załączyć obrazek do wpisu. Co to za ikonka z okiem?](#próbuję-załączyć-obrazek-do-wpisu-co-to-za-ikonka-z-okiem)
+- [Próbuję załączyć obrazek do wpisu. Jak dodać do niego opis zawartości?](#próbuję-załączyć-obrazek-do-wpisu-jak-dodać-do-niego-opis-zawartości)
 - [Dlaczego opisywanie obrazków jest takie ważne?](#dlaczego-opisywanie-obrazków-jest-takie-ważne)
-- [Dlaczego moja znajoma na innej instancji może używać tej emotki, a ja nie?](#dlaczego-moja-znajoma-na-innej-instancji-może-używać-tej-emotki-a-ja-nie)
+- [Dlaczego ktoś na innej instancji może używać tej emoji, a ja nie?](#dlaczego-ktoś-na-innej-instancji-może-używać-tej-emoji-a-ja-nie)
 - [Dlaczego nie mogę wyszukać konkretnego słowa lub frazy?](#dlaczego-nie-mogę-wyszukać-konkretnego-słowa-lub-frazy)
 - [Dlaczego nie mogę zacytować czyjegoś wpisu jak na Twitterze?](#dlaczego-nie-mogę-zacytować-czyjegoś-wpisu-jak-na-twitterze)
 - [Kultura na Mastodonie jest jakaś taka... dziwna?](#kultura-na-mastodonie-jest-jakaś-taka-dziwna)
 - [Co oznacza ![:red_candle:](red_candle_sm.png)?](#co-oznacza-)
 - [Jaka jest ogólnie przyjęta etykieta na Mastodonie?](#jaka-jest-ogólnie-przyjęta-etykieta-na-mastodonie)
 - [Mastodon jest spoko, ale Twitter wygląda lepiej.](#mastodon-jest-spoko-ale-twitter-wygląda-lepiej)
-- [Mastodon jest spoko, ale chciałabym go używać w telefonie.](#mastodon-jest-spoko-ale-chciałabym-go-używać-w-telefonie)
+- [Mastodon jest spoko, ale chcę go używać w telefonie.](#mastodon-jest-spoko-ale-chcę-go-używać-w-telefonie)
 - [Jak stworzyć kopię zapasową mojego konta na Mastodonie?](#jak-stworzyć-kopię-zapasową-mojego-konta-na-mastodonie)
-- [Czy da się nawigować po Mastodonie za pomocą klawiatury?](#czy-da-się-nawigować-po-mastodonie-za-pomocą-klawiatury)
-- [Jak działają polubenia na innych typach serwerów?](#jak-działają-polubenia-na-innych-typach-serwerów)
-- [Dziwne, mój serwer nie ma kilku funkcji.](#dziwne-mój-serwer-nie-ma-kilku-funkcji)
+- [Czy da się używać Mastodona za pomocą klawiatury?](#czy-da-się-używać-mastodona-za-pomocą-klawiatury)
+- [Jak działają polubienia na innych typach serwerów?](#jak-działają-polubienia-na-innych-typach-serwerów)
+- [Dziwne, na moim serwerze brakuje kilku funkcji.](#dziwne-na-moim-serwerze-brakuje-kilku-funkcji)
 - [Dziwne, mój serwer ma dodatkowe funkcje.](#dziwne-mój-serwer-ma-dodatkowe-funkcje)
 - [Mam jeszcze inne pytania.](#mam-jeszcze-inne-pytania)
 - [Jak mogę zaangażować się w rozwój tego poradnika?](#jak-mogę-zaangażować-się-w-rozwój-tego-poradnika)
@@ -417,7 +417,7 @@ Jak formułować ostrzeżenia o zawartości? Ogólnie mówiąc, kieruj się swoi
 
 Być może zauważysz, że jeżeli do wpisu załączysz obrazek i użyjesz CW, nakładka "wrażliwa zawartość" pojawi się automatycznie i nie da się jej wyłączyć. To zamierzony efekt.
 
-## Próbuje załączyć obrazek do wpisu. Jak dodać do niego opis zawartości?
+## Próbuję załączyć obrazek do wpisu. Jak dodać do niego opis zawartości?
 
 :interrobang: Gdy załączysz obrazek do wpisu, zobaczysz link "Edytuj" (z ikoną ołówka) w jego górnym prawym rogu. Kliknij w niego. Otworzy się okienko, w którym będziesz mieć możliwość zdecydowania, która część obrazka powinna być widoczna w podglądzie. Znajdziesz tam także możliwość ustawienia opisu zawartości obrazka, który będzie widoczny dla czytających Twój wpis przy najechaniu myszą oraz zostanie przeczytany przez czytniki ekranu (używane przez osoby z problemami ze wzrokiem) zamiast zwykłego "załączony obrazek".
 
@@ -431,35 +431,65 @@ Tekst w opisie obrazka ma swój własny limit 1500 znaków; **nie wlicza się o
 
 Jedno słowo: dostępność.
 
-Na Mastodonie są ludzie mający problemy ze wzrokiem i używają oni czytników ekranu. Są też ludzie, którzy wyłączają wyświetlanie obrazków, żeby ograniczyć zużycie danych. Zdarzają się czasem problemy z dyskami i serwerami. Administracja Twojej instancji może również zdecydować o usunięciu starych plików, a wtedy Twój obrazek już się nie wyświetli. Dodawanie opisów do obrazków umożliwia ludziom interakcję z Twoimi wpisami wraz z ich pełnym kontekstem.
+Z Mastodona korzystają różni ludzie. Są tacy, którzy mają problemy ze wzrokiem i używają czytników ekranu. Są też tacy, którzy wyłączają wyświetlanie obrazków, żeby ograniczyć zużycie danych. Zdarzają się czasem problemy z dyskami i serwerami. Administracja Twojej instancji może również zdecydować o usunięciu starych plików, a wtedy Twój obrazek już się nie wyświetli.
+
+Dzięki opisom do obrazków szeroka grupa ludzi może wchodzić w interakcję z Twoimi wpisami znając ich pełen kontekst.
 
 Możesz także wykorzystywać opisy do obrazków jako nośniki dodatkowego humoru (tak jak często robią to autorzy komiksów internetowych). Nie krępuj się czerpać korzyści z faktu, że opisy obrazków mają swój osobny limit znaków i wstawiaj tam cokolwiek chcesz. Możliwości są nieograniczone.
 
-## Dlaczego moja znajoma na innej instancji może używać tej emotki, a ja nie?
+## Dlaczego ktoś na innej instancji może używać tej emoji, a ja nie?
 
-:bangbang: :bangbang: Każda instancja może dodać własne emoji dostępne dla swoich użytkowników i wiele z nich z tego korzysta. Administrator Twojej instancji może skopiować z innej instancji każdą emoji, która mu przypadła do gustu. Jeżeli zauważysz emoji, która Ci się podoba i nie jest dostępna na Twojej instancji, poproś swojego administratora o skopiowanie jej.
+:bangbang: :bangbang: Na każdej instancji administracja może dodawać własne emoji i wiele z nich z tego korzysta.
+
+Administracja Twojej instancji posiada opcję skopiowania dowolnej emoji z innej instancji. Jeżeli zauważysz emoji, która Ci się podoba a nie jest dostępna na Twojej instancji, poproś administrację Twojego serwera o skopiowanie jej.
 
 ## Dlaczego nie mogę wyszukać konkretnego słowa lub frazy?
 
-To funkcja zapobiegająca nękaniu. Prześladowcy często wyszukują konkretne słowa lub frazy (np. "TERF", "homofobia" czy "biała supremacja") aby atakować i dręczyć ludzi, z którymi się nie zgadzają. Ograniczając wyszukiwanie do nazw użytkowników i hasztagów, Mastodon pozwala użytkownikom decydować o tym, jak chcą prezentować swoje treści w wynikach wyszukiwania u innych (niektóre instancje Mastodona umożliwiają pełnotekstowe wyszukiwanie, jednak zazwyczaj znajdziesz w ten sposób tylko swoje własne wpisy. Dzięki temu łatwiej znaleźć coś, co opublikowałeś dawno temu bez wystawiania się na ryzyko nękania).
+To funkcja zapobiegająca nękaniu. Prześladowcy często wyszukują konkretne słowa lub frazy (np. "TERF", "homofobia" czy "biała supremacja") aby atakować i dręczyć ludzi, z którymi się nie zgadzają. Ograniczając wyszukiwanie do nazw użytkowników i hasztagów, Mastodon pozwala użytkownikom decydować o tym, jak chcą prezentować swoje treści w wynikach wyszukiwania u innych.
+
+Niektóre instancje Mastodona umożliwiają pełnotekstowe wyszukiwanie, jednak zazwyczaj znajdziesz tam tylko swoje własne wpisy. Dzięki temu łatwiej Ci będzie znaleźć jakiś starszy wpis bez ryzyka wystawienia się na ryzyko nękania.
 
 ## Dlaczego nie mogę zacytować czyjegoś wpisu jak na Twitterze?
 
-:bangbang: Podobnie jak z wyszukiwaniem, jest to funkcja zapobiegająca nękaniu. Jeżeli chcesz odpowiedzieć na czyjś wpis, no to zrób dokładnie to - dodaj odpowiedz do tego wpisu. Nie możesz tak po prostu rzucić go swoim obserwującym i dołączyć złośliwy komentarz.
+:bangbang: Podobnie jak z wyszukiwaniem, jest to funkcja zapobiegająca nękaniu. Jeżeli chcesz odpowiedzieć na czyjś wpis, to zrób dokładnie to - dodaj odpowiedz do tego wpisu. Nie możesz tak po prostu rzucić go swoim obserwującym i dołączyć do tego złośliwy komentarz.
 
-_(Daruj sobie robienie zrzutów ekranu wpisów i dołączanie ich jako obrazki. **Da się**, ale społeczność Mastodona nie pochwala tego. Jeżeli będziesz to robić nagminnie, szybko wyrobisz sobie złą reputację.)_
+Daruj sobie robienie zrzutów ekranu wpisów i dołączanie ich jako obrazki. **Da się**, ale społeczność Mastodona nie pochwala tego. Jeżeli będziesz tego nadużywać, szybko wyrobisz sobie złą reputację.
+
+Funkcja cytowania wpisów wzbudza kontrowersje i jest przedmiotem licznych dyskusji. W styczniu 2023 r. twórca Mastodona Eugen Rochko potwierdził, że z niechęcią, ale jednak [rozważa jej wprowadzenie](https://mastodon.social/@Gargron/109623891328707089).
 
 ## Kultura na Mastodonie jest jakaś taka... dziwna?
 
 To prawda! Ale z czasem ta dziwność staje się bardzo przyjemna.
 
-Poniżej kilka popularnych dziwactw:
+Ale najpierw o nas, polskojęzycznej społeczności internetu.
+
+Jest nas, osób mówiących po polsku, stosunkowo niewielka liczba w skali świata. Mieliśmy nieco inną historię  internetu niż USA czy kraje zachodniej Europy. Dla ludzi z tych krajów Twitter czy Facebook mogły być pierwszymi krokami w internecie. U nas Facebook i Twitter pojawiły się oficjalnie już po kilku latach istnienia i zajęły miejsce licznych projektów lokalnych: Grono, Nasza-klasa, Blip.pl i wielu, wielu innych.
+
+Na polskim Mastodonie spotkasz szeroki przekrój ludzi. Niektórzy mogą pamiętać każdy z serwisów wymienionych w paragrafie powyżej. Niektórzy nigdy nie korzystali z Twittera i nie chcą być na Facebooku. Inni przenieśli się na Mastodona, bo namówili ich znajomi. Dostrzegalna różnorodność tej grupy wynika również z jej (na razie) niskiej liczebności - łatwiej się nawzajem zauważyć, gdy wokoło nie ma tłumów.
+
+Polskojęzyczna kultura na Mastodonie jest mieszanką motywów znanych już z innych stron społecznościowych, jak i czymś zupełnie nowym i świeżym. Dołączając do Mastodona dokładacz cegiełkę do jej rozwoju.
+
+Kilka popularnych motywów i hasztagów znanych w polskojęzycznych Mastodona:
+
+- `#ExiTT` - hasztag używany przez osoby przenoszące się na Mastodona z Twittera w celu łatwiejszego odnalezienia się nazwajem na nowej platformie. Zajrzyj tam, jeżeli chcesz znaleźć nowe osoby do obserwowania.
+
+- `#FediPomoc` i `#FediTipsPL` - tutaj warto zajrzeć lub poprosić o pomoc w sprawie Mastodona, zwłąszcza jeśli używasz go od niedawna. Są tam ludzie, którzy chętnie odpowiedzą na Twoje pytania.
+
+- "Dzień dobry, smacznej kawusi" - nieco żartobliwa tradycja witania się na początku dnia, popularna też na Facebooku czy Twitterze. Czasem ludzie załączają do tego link do jakiegoś artykułu istotnego w danej chwili czy śmieszny obrazek lub mem.
+
+- `#giereczkowo` - hasztag do rozmów o grach, głównie video, ale nie tylko. W odróżnieniu od nieco poważniej brzmiącego `#gry` chodzi to o gry jako przyjemną, niezobowiązującą formę rozrywki dla wszystkich.
+
+- John Mastodon - w grudniu 2022 r. pewien amerykański serwis opublikował artykuł o Twitterze. Jego autor wspomniał, że John Mastodon - twórca platformy nazwanej od jego imienia - stracił konto na Twitterze. Wiadomość była prawdą, jednak twórca Mastodona nazywa się Eugen "Gargron" Rochko. Wywołało to falę wesołości i krąży jako żart również w polskiej społeczności. Ktoś nawet zarejestrował domenę [JohnMastodon.org](https://johnmastodon.org/) i przekierował ją na wpis Eugena.
+
+- popularne na polskim Mastodonie stają się też tzw. grupy Guppe Groups - podobne nieco do dawnych grup dyskusyjnych. Więcej na ten temat znajdziesz w [artykule Sebastiana](https://zb3.org/m0bi13/przekluwacz-baniek-w-fediversum-guppe-groups).
+
+Zagraniczne fediwersum jest o wiele większe i dzieje się tu znacznie więcej. Poniżej kilka popularnych motywów z anglojęzycznej części Mastodona:
 
 - :pineapple:: - nikt tak naprawdę nie wie. [acw](https://cybre.space/@acw) wrzucił jako pierwszy, ktoś inny podchwycił, i tak to to trwa do dziś. Takie tam głupoty. Nie wiesz co napisać? Wrzuć :pineapple:.
 
-- AWOO: [Awoo.Space](https://awoo.space) to jedna z pierwszych instancji Mastodona. "Awoo" to dźwięk wyjącego wilka. Śmiesznie to brzmi. Awoo! (Pawoo.net nie ma z tym nic wspólnego; w języku japońskim "pawoo" jest oznacza trąbienie słonia.). Ktoś się wkurzył na te wszystkie "awoo" i ustanowił karę 350 dolarów za każde "awoo". Spokojnie, nikt jej nigdy nie zapłacił.
+- AWOO - [Awoo.Space](https://awoo.space) to jedna z pierwszych instancji Mastodona. "Awoo" to dźwięk wyjącego wilka. Śmiesznie to brzmi. Awoo! (Pawoo.net nie ma z tym nic wspólnego; w języku japońskim "pawoo" jest oznacza trąbienie słonia.). Ktoś się wkurzył na te wszystkie "awoo" i ustanowił karę 350 dolarów za każde "awoo". Spokojnie, nikt jej nigdy nie zapłacił.
 
-- #gameing: Swego czasu istniało (i wciąż istnieje) przekonanie, że granie w gry określane hasztagiem #gaming jest "hardkorowe" i elitarne. Istniały też obawy, że pewne grupy graczy zawłaszczą hasztag #gaming. #gameing powstał jako środek zapobiegawczy; chodzi w nim o przyjemne, luźne i bezstresowe podejście do gier, czy to video czy innych _[ przyp. tłum.: w polskiej społeczności Mastodona istnieje podobny hasztag #giereczkowo ]_.
+- `#gameing` - podobne nieco do naszego `#giereczkowo`. Swego czasu istniało (i wciąż istnieje) przekonanie, że granie w gry określane hasztagiem #gaming jest "hardkorowe" i elitarne. Istniały też obawy, że pewne grupy graczy zawłaszczą hasztag #gaming. #gameing powstał jako środek zapobiegawczy; chodzi w nim o przyjemne, luźne i bezstresowe podejście do gier, czy to video czy innych.
 
 Przyzwyczaisz się.
 
@@ -469,63 +499,65 @@ Na początku listopada 2017 roku w wyniku samobójstwa odeszła od nas znana i l
 
 ## Jaka jest ogólnie przyjęta etykieta na Mastodonie?
 
-Nie ma jednego sztywnego zestawu reguł dla wszystkich. Jak wspomniałam wyżej, różne instancje mają różne zasady. Mimo to, wielu ludzi kieruje się kilkoma prostymi zasadami, których celem jest uczynienie Mastodona miejscem bardziej przyjaznym dla wszystkich.
+Nie ma jednego sztywnego zestawu reguł dla wszystkich. Jak wspomnieliśmy wyżej, różne instancje mają różne zasady. Mimo to, wielu ludzi kieruje się kilkoma prostymi regułami, których celem jest uczynienie Mastodona miejscem bardziej przyjaznym dla wszystkich.
 
-- Jeśli załączasz obrazek do swojego wpisu, ale nie opisujesz go w treści, dodaj opis jego zawartości, aby ułatwić zrozumienie go przez osoby używające czytników ekranu.
+- Jeśli załączasz obrazek do swojego wpisu, ale nie opisujesz go w treści, dodaj opis jego zawartości, aby ułatwić zrozumienie go przez osoby używające czytników ekranu. Wielu ludzi odmawia podbijania obrazków, jeżeli nie są one opisane.
 
-- Jeśli załączasz obrazek, który zawiera **nagość, pornografię lub treści sugestywne seksualnie, krew, przemoc, lub politykę**, lub którykolwiek z popularnych czynników wywołujących PTSD / niepokój (np. jedzenie, pająki), [oznacz go jako treść wrażliwą](#załączyłam-obrazek-do-mojego-wpisu-co-to-za-ikonka-z-okiem).
+- Jeśli załączasz obrazek, który zawiera **nagość, pornografię lub treści sugestywne seksualnie, krew, przemoc, politykę**, lub którykolwiek z popularnych czynników wywołujących zespół stresu pourazowego lub niepokój (np. jedzenie, pająki), [oznacz go jako treść wrażliwą](#próbuję-załączyć-obrazek-do-wpisu-co-to-za-ikonka-z-okiem).
 
 - Jeżeli _treść_ Twojego wpisu porusza którykolwiek z powyższych tematów, [wstaw ostrzeżenie o zawartości (CW)](#co-oznacza-cw)
 
-- Niepotrzebny Ci skracacz linków. Mastodon zakłada, że wszystkie adresy URL mają dokładnie 20 znaków. Pozwól ludziom zobaczyć, gdzie naprawdę prowadzi Twój link.
+- Nie potrzebujesz skracacza linków. Mastodon zakłada, że wszystkie adresy URL mają dokładnie 20 znaków. Pozwól ludziom zobaczyć, gdzie naprawdę prowadzi Twój link.
 
-- Jeżeli tworzysz bota, który publikuje treści automatycznie, ustaw go tak, aby [publikował wpisy jako niewidoczne](#jak-działają-ustawienia-prywatności). W ten sposób zminiejszysz ryzyko, że Twój bot zostanie oznaczony jako spam.
+- Jeżeli tworzysz bota, który publikuje treści automatycznie, ustaw go tak, aby [publikował wpisy jako niewidoczne](#jak-działają-ustawienia-prywatności). W ten sposób zminiejszysz ryzyko, że Twój bot zostanie oflagowany jako spam.
 
 - Jeżeli używasz skryptu, który przesyła Twoje wpisy z Twittera na Twoje konto na Mastodonie, ustaw go tak, aby wpisy zawierały ostrzeżenie o zawartości (CW). W ten sposób nawet wpisy na wrażliwe tematy będą poprawnie oznaczone na Mastodonie.
 
 - Jeżeli widzisz konwersację i chciałbyś dodać w niej coś od siebie:
   - Przejrzyj całą konwersację i upewnij się, że ktoś już wcześniej nie napisał tego samego, co Ty
   - Upewnij się, że ton Twojego komentarza pasuje do tej konwersacji, jest uprzejmy i pozwala rozstrzygać wątpliwości na korzyść innych rozmówców w konwersacji.
-  - Słowo "noadvice", jako hasztag albo treść CW, oznacza, że autor wpisu chce się tylko wyżalić i nie oczekuje pomocy ani porad. Wyrazy współczucia są jednak bardzo na miejscu.
-- Pamiętaj, że jeżeli ktoś nie odpowiada na Twoją wiadomość, to nie oznacza że Cię ignoruje. Może tej osoby akurat nie ma na Mastodonie. Może ma już tyle powiadomień, że przeoczyła Twój wpis. Może wyciszyła konwersację, a wtedy Twoja odpowiedź nie będzie u niej widoczna! Ludzie mogą przegapić wpisy z wielu powodów, nawet jeśli są one skierowane bezpośrednio do nich; nie bierz tego do siebie.
+  - Angielskie słowo "noadvice", jako hasztag albo treść CW, oznacza, że autor wpisu chce się tylko wyżalić i nie oczekuje pomocy ani porad. Miłe słowa i wyrazy współczucia są jednak bardzo na miejscu.
+- Pamiętaj, że jeżeli ktoś nie odpowiada na Twoją wiadomość, to nie oznacza że Cię ignoruje. Może tej osoby akurat nie ma na Mastodonie. Może ma już tyle powiadomień, że przeoczyła Twój wpis. Może ta osoba całkiem wyciszyła konwersację, a wtedy Twoja odpowiedź nie będzie u niej widoczna! Ludzie mogą przegapić wpisy z wielu powodów, nawet jeśli są one skierowane bezpośrednio do nich. Nie bierz tego do siebie.
 
 ## Mastodon jest spoko, ale Twitter wygląda lepiej.
 
 Być może spodoba Ci się [Pinafore](https://pinafore.social/) - interfejs dla Mastodona, którego autorem jest [Nolan Lawson](https://toot.cafe/@nolan).
 
-[Halcyon](https://notabug.org/halcyon-suite/halcyon) jest klientem webowym dla Mastodona, który imituje interfejs Twittera. Jako że Halcyon jest oprogramowaniem open-source, istnieją [liczne serwery oferujące dostęp do niego](https://notabug.org/halcyon-suite/halcyon#instances); wybierz ten, który Ci najbardziej odpowiada. Użyj swoich istniejących danych do Mastodona przy logowaniu do Halcyona; na przykład, jeżeli masz konto na elekk.xyz, Twoim loginem byłoby `twoje-konto@elekk.xyz` oraz Twoje hasło.
+[Halcyon](https://notabug.org/halcyon-suite/halcyon) jest klientem WWW dla Mastodona, który imituje interfejs Twittera. Jest oprogramowaniem open-source i istnieją [liczne serwery oferujące dostęp do niego](https://notabug.org/halcyon-suite/halcyon#instances) - wybierz ten, który Ci najbardziej odpowiada. Użyj swoich istniejących danych do Mastodona przy logowaniu do Halcyona. Na przykład, jeżeli masz konto na elekk.xyz, Twoim loginem byłoby `twoje-konto@elekk.xyz` oraz Twoje hasło.
 
-Pamiętaj, że Pinafore i Halcyon są zewnętrznymi klientami. Upewnij się, że masz do nich wystarczająco dużo zaufania, aby powierzyć im swoje dane logowania!
+Pamiętaj, że Pinafore i Halcyon są zewnętrznymi klientami, należącymi do kogoś innego niż administracja Twojej instancji. Upewnij się, że masz do nich wystarczająco dużo zaufania, aby powierzyć im swoje dane logowania!
 
-## Mastodon jest spoko, ale chciałabym go używać w telefonie.
+## Mastodon jest spoko, ale chcę go używać w telefonie.
 
-Interfejs Mastodona jest responsywny, więc możesz używać go w przeglądarce w Twoim telefonie. Alternatywą są liczne aplikacje dostępne dla Mastodona, wliczając w to [oficjalną aplikację dla iPhone'a](https://apps.apple.com/us/app/mastodon-for-iphone-and-ipad/id1571998974) wydaną w sierpniu 2021 r. Na iOS wypróbuj [Toot!](https://apps.apple.com/app/toot/id1229021451?ls=1). Na Androida dobrym wyborem jest [Tusky](https://tusky.app/).
+Interfejs Mastodona jest responsywny, więc możesz używać go w przeglądarce w Twoim telefonie. Alternatywą są liczne aplikacje, wliczając w to oficjalne aplikacje [dla iPhone'a](https://apps.apple.com/us/app/mastodon-for-iphone-and-ipad/id1571998974) i [dla Androida](https://play.google.com/store/apps/details?id=org.joinmastodon.android).
 
-_(NB: Doszły mnie słuchy, że "Tootdon po cichu przekazuje kopie wpisów, z którymi wchodzisz w interakcje, oraz tokeny autoryzacyjne do Twojego konta, na swoje serwery". Nie wiem, czy to nadal aktualne. Jak zawsze, zachowaj ostrożność przy przekazywaniu aplikacjom swoich danych.)_
+Na iOS wypróbuj także [Toot!](https://apps.apple.com/app/toot/id1229021451?ls=1) lub [Metatext](https://apps.apple.com/us/app/metatext/id1523996615).
+
+Na Androidzie świetnym wyborem jest [Tusky](https://tusky.app/), ale istnieje także [Fedilab](https://play.google.com/store/apps/details?id=app.fedilab.android).
 
 ## Jak stworzyć kopię zapasową mojego konta na Mastodonie?
 
 [Alex Schroeder](https://octodon.social/@kensanata) stworzył doskonałe [narzędzie do archiwizowania Mastodona](https://github.com/kensanata/mastodon-backup/), dzięki któremu stworzysz kopię zapasową swojego konta i wiele więcej.
 
-## Czy da się nawigować po Mastodonie za pomocą klawiatury?
+## Czy da się używać Mastodona za pomocą klawiatury?
 
-W interfejse webowym - tak. Listę dostępnych skrótów klawiszowych na Mastodonie znajdziesz pod adresem `https://<adres-twojej-instancji>/keyboard-shortcuts`. Link ten znajdziesz także w stopce strony, podpisany jako "Skróty klawiszowe".
+W przeglądarce - tak. Listę dostępnych skrótów klawiszowych na Mastodonie znajdziesz pod adresem `https://<adres-twojej-instancji>/keyboard-shortcuts`. Link ten znajdziesz także w stopce strony, podpisany jako "Skróty klawiszowe".
 
-## Jak działają polubenia na innych typach serwerów?
+## Jak działają polubienia na innych typach serwerów?
 
-Zazwyczaj jest tak:
+Na Mastodonie mamy dodanie do ulubionych i nic poza tym. Na innych serwerach (Misskey, Pleroma, GNU Social itp.) możemy mieć dostęp do różnych typów reakcji, zazwyczaj oznaczanych różnymi emoji, jak na LinkedIn czy Discordzie. I zazwyczaj z tymi polubieniami jest tak:
 
-- Jeżeli dodasz do ulubionych wpis dodany na serwerze innego typu (Misskey, Pleroma, GNU Social itp.), informacja o tym zostanie przekazana poprawnie. Niektóre z tych serwerów pozwalają na używanie wielu emoji jako reakcji; każdy z nich implementuje generyczną emoji dla "polubienia", która będzie widoczna dla autora przy treści jego wpisu.
+- Jeżeli dodasz do ulubionych wpis dodany z serwera innego typu, informacja o tym trafi na tamten serwer i zostanie wyświetlona poprawnie. Niektóre z tych serwerów pozwalają na używanie wielu różnych emoji jako reakcji. Każdy z nich implementuje generyczną emoji dla "polubienia", która będzie widoczna przy treści wpisu.
 
-- Jeśli ktoś z serwera innego typu zareaguje na Twój wpis wybraną emoji, zostanie ona zinterpretowana prez Twoją instancję Mastodona jako dodanie do ulubionych _bez względu na to jaka emoji została użyta_.
+- Jeśli ktoś z serwera innego typu zareaguje na Twój wpis wybraną emoji, zostanie ona zinterpretowana prez Twoją instancję Mastodona jako dodanie do ulubionych - nie ma znaczenie, jaka emoji zostanie użyta.
 
-## Dziwne, mój serwer nie ma kilku funkcji.
+## Dziwne, na moim serwerze brakuje kilku funkcji.
 
 Możliwe, że nie jesteś na Mastodonie! Fediwersum - wielki zbiór serwerów połączonych protokołem ActivityPub/OStatus - oferuje wiele różnych rodzajów serwerów. Na Twoim serwerze może działać Pleroma, Misskey, GNU Social, lub coś jeszcze innego! Niestety, niewiele wiem na ich temat, więc musisz zapytać ich użytkowników czy istnieje poradnik taki jak ten.
 
 ## Dziwne, mój serwer ma dodatkowe funkcje.
 
-Jako że [kod źródłowy Mastodona jest dostępny publicznie](https://github.com/mastodon/mastodon), możesz go skopiować i dowolnie modyfikować. Niektórzy ludzie publikują swoje modyfikacje w sieci; jedną z najpopularniejszych modyfikacji Mastodona jest [Mastodon Glitch Edition](https://glitch-soc.github.io/docs/), znany też jako "glitch-soc" (jeśli dobrze pamiętam, nazywa się tak od instancji na której został uruchomiony - [glitch.social](https://glitch.social)). Glitch-soc posiada szereg dodatkowych funkcji docenianych przez użytkowników, takich jak formatowanie wpisów przy pomocy Markdown czy możliwość dodania wpisu, który zostanie opublikowany tylko w ramach instancji i nie zostanie rozpowszechniony na inne serwery.
+Jako że [kod źródłowy Mastodona jest dostępny publicznie](https://github.com/mastodon/mastodon), możesz go skopiować i dowolnie modyfikować. Niektórzy ludzie publikują swoje modyfikacje w sieci; jedną z najpopularniejszych modyfikacji Mastodona jest [Mastodon Glitch Edition](https://glitch-soc.github.io/docs/), znany też jako "glitch-soc" (jeśli dobrze pamiętam, nazywa się tak od instancji na której został uruchomiony - [glitch.social](https://glitch.social)). Glitch-soc posiada szereg dodatkowych funkcji docenianych przez użytkowników, takich jak formatowanie wpisów przy pomocy Markdown czy możliwość dodania wpisu, który zostanie opublikowany tylko w ramach instancji i nie będzie wyświetlany na innych serwerach.
 
 ## Mam jeszcze inne pytania.
 
