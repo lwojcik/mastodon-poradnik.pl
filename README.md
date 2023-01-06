@@ -154,7 +154,7 @@ Istnieją także (wciąż nieliczne, ale jednak) instancje tematyczne: [social.p
 
 Nie musisz ograniczać się do instancji polskojęzycznych. Mają one jednak jedną istotną zaletę - Polacy już tam są, jest z kim rozmawiać już od pierwszych minut na serwerze i łatwo dotrzeć do nowych ludzi piszących po polsku z poziomu lokalnej i globalnej osi czasu. Posiadając konto na ogólnodostępnej instancji Twoje wpisy mogą ginąć w wielojęzycznym tłumie, a znalezienie rodaków nie będzie takie proste.
 
-Jeżeli chcesz korzystać z obcojęzycznej instancji i pisać na niej po polsku, sprawdź jej zasady. Upewnij się, czy ta instancja zezwala na używanie języków innych niż natywny dla moderacji tej instancji. Zrób to także w przypadku, gdy chcesz korzystać z polskojęzycznej instancji, ale zamierzasz pisać po polsku oraz w innych językach.
+Jeżeli chcesz korzystać z obcojęzycznej instancji i pisać na niej po polsku, sprawdź jej zasady. Upewnij się, czy ta instancja zezwala na używanie języków innych niż natywny dla moderacji tej instancji. Zrób to także w przypadku, gdy chcesz korzystać z polskojęzycznej instancji, ale zamierzasz pisać po polsku _oraz_ w innych językach.
 
 Niektóre instancje posiadają dość ścisłe zasady co do używanego języka i zabraniają używania języków innych niż np. angielski. Jest to z reguły podyktowane względami praktycznymi. Moderowanie wpisów w obcych językach zabiera więcej czasu i zwiększa ryzyko krzywdzących decyzji przy rozpatrywaniu zgłoszeń.
 
@@ -434,7 +434,7 @@ Tekst w opisie obrazka ma swój własny limit 1500 znaków; **nie wlicza się o
 
 Jedno słowo: dostępność.
 
-Z Mastodona korzystają różni ludzie. Są tacy, którzy mają problemy ze wzrokiem i używają czytników ekranu. Są też tacy, którzy wyłączają wyświetlanie obrazków, żeby ograniczyć zużycie danych. Zdarzają się czasem problemy z dyskami i serwerami. Administracja Twojej instancji może również zdecydować o usunięciu starych plików, a wtedy Twój obrazek już się nie wyświetli.
+Z Mastodona korzystają różni ludzie. Są tacy, którzy mają problemy ze wzrokiem i używają czytników ekranu. Są też tacy, którzy wyłączają wyświetlanie obrazków, żeby ograniczyć zużycie danych. Zdarzają się czasem problemy z dyskami i serwerami. Administracja Twojej instancji może również zdecydować o usunięciu starych plików, a wtedy Twój obrazek już się nie wyświetli. A czasem może się zdarzyć, że to, co chcesz pokazać na obrazku, jest mało czytelne albo zbyt abstrakcyjne - nawet dla osób z doskonałym wzrokiem i nielimitowanym dostępem do sieci.
 
 Dzięki opisom do obrazków szeroka grupa ludzi może wchodzić w interakcję z Twoimi wpisami znając ich pełen kontekst.
 
