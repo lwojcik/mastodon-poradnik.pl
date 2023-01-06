@@ -472,7 +472,7 @@ Na polskim Mastodonie spotkasz szeroki przekrój ludzi. Niektórzy mogą pamięt
 
 Polskojęzyczna kultura na Mastodonie jest mieszanką motywów znanych już z innych stron społecznościowych, jak i czymś zupełnie nowym i świeżym. Dołączając do Mastodona dokładacz cegiełkę do jej rozwoju.
 
-Kilka popularnych motywów i hasztagów znanych w polskojęzycznych Mastodona:
+Poniżej wybór popularnych motywów i hasztagów znanych na polskojęzycznym Mastodonie:
 
 - `#ExiTT` - hasztag używany przez osoby przenoszące się na Mastodona z Twittera w celu łatwiejszego odnalezienia się nazwajem na nowej platformie. Zajrzyj tam, jeżeli chcesz znaleźć nowe osoby do obserwowania.
 
@@ -488,7 +488,7 @@ Kilka popularnych motywów i hasztagów znanych w polskojęzycznych Mastodona:
 
 - zdjęcia zwierząt domowych są zawsze mile widziane. Koty, psy, skrzydlate. Każde.  
 
-Zagraniczne fediwersum jest o wiele większe i dzieje się tu znacznie więcej. Poniżej kilka popularnych motywów z anglojęzycznej części Mastodona:
+Zagraniczne fediwersum jest nieco większe i tu również dużo się dzieje. Poniżej kilka popularnych motywów z anglojęzycznej części Mastodona:
 
 - :pineapple:: - nikt tak naprawdę nie wie. [acw](https://cybre.space/@acw) wrzucił jako pierwszy, ktoś inny podchwycił, i tak to to trwa do dziś. Takie tam głupoty. Nie wiesz co napisać? Wrzuć :pineapple:.
 
