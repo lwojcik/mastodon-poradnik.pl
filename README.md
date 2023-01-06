@@ -150,9 +150,9 @@ Jeżeli nie posiadasz własnej strony, możesz również skorzystać z innych sp
 
 Jeżeli chcesz posługiwać się językiem polskim i niespecjalnie interesuje Cię obcojęzyczna część fediwersum, Twoim najlepszym wyborem będzie jedna z instancji dedykowanych polskojęzycznej społeczności. Najstarszą polską instancją jest [101010.pl](https://101010.pl). Są też inne, takie jak [pol.social](https://pol.social/), [mastodon.pl](https://mastodon.pl/) czy [dadalo.pl](https://dadalo.pl/).
 
-Istnieją także (wciąż nieliczne, ale jednak) instancje tematyczne: [social.puczat.pl](https://social.puczat.pl/) dla osób po kryzysach psychicznych, czy [lewacki.space](https://lewacki.space/) dla osób o szeroko rozumianych poglądach lewicowych.
+Istnieją także (wciąż nieliczne, ale jednak) instancje tematyczne: [social.puczat.pl](https://social.puczat.pl/) dla osób po kryzysach psychicznych. Dla osób o szeroko rozumianych poglądach lewicowych istnieje [lewacki.space](https://lewacki.space/) oraz [spojnik.works](https://spojnik.works).
 
-Nie musisz ograniczać się do instancji polskojęzycznych. Mają one jednak jedną istotną zaletę - Polacy już tam są, jest z kim rozmawiać już od pierwszych minut na serwerze i łatwo dotrzeć do nowych ludzi choćby z poziomu lokalnej osi czasu. Posiadając konto na ogólnodostępnej instancji Twoje wpisy mogą ginąć w wielojęzycznym tłumie, a znalezienie rodaków nie będzie takie proste.
+Nie musisz ograniczać się do instancji polskojęzycznych. Mają one jednak jedną istotną zaletę - Polacy już tam są, jest z kim rozmawiać już od pierwszych minut na serwerze i łatwo dotrzeć do nowych ludzi piszących po polsku z poziomu lokalnej i globalnej osi czasu. Posiadając konto na ogólnodostępnej instancji Twoje wpisy mogą ginąć w wielojęzycznym tłumie, a znalezienie rodaków nie będzie takie proste.
 
 Jeżeli chcesz korzystać z obcojęzycznej instancji i pisać na niej po polsku, sprawdź jej zasady. Upewnij się, czy ta instancja zezwala na używanie języków innych niż natywny dla moderacji tej instancji. Zrób to także w przypadku, gdy chcesz korzystać z polskojęzycznej instancji, ale zamierzasz pisać po polsku oraz w innych językach.
 
@@ -485,6 +485,8 @@ Kilka popularnych motywów i hasztagów znanych w polskojęzycznych Mastodona:
 - John Mastodon - w grudniu 2022 r. pewien amerykański serwis opublikował artykuł o Twitterze. Jego autor wspomniał, że John Mastodon - twórca platformy nazwanej od jego imienia - stracił konto na Twitterze. Wiadomość była prawdą na zasadzie Radia Erewań - twórca Mastodona nazywa się Eugen "Gargron" Rochko, usunięte konto na Twitterze nazywało się "joinMastodon" (ang. "dołącz do Mastodona"), a nazwa Mastodon... to już wcześniej wyjaśnialiśmy. W każdym razie wywołało to falę wesołości i krąży jako żart również w polskiej społeczności. Ktoś nawet zarejestrował domenę [JohnMastodon.org](https://johnmastodon.org/) i przekierował ją na wpis Eugena. Zaś na potrzeby [sesji pytań i odpowiedzi na Reddicie](https://old.reddit.com/r/Mastodon/comments/zqfr4h/ama_with_eugen_rochko_founder_and_lead_developer/) Eugen założył konto o nazwie "NotJohnMastodon".
 
 - popularne na polskim Mastodonie stają się też tzw. grupy Guppe Groups - podobne nieco do dawnych grup dyskusyjnych. Więcej na ten temat znajdziesz w [artykule Sebastiana](https://zb3.org/m0bi13/przekluwacz-baniek-w-fediversum-guppe-groups).
+
+- zdjęcia zwierząt domowych są zawsze mile widziane. Koty, psy, skrzydlate. Każde.  
 
 Zagraniczne fediwersum jest o wiele większe i dzieje się tu znacznie więcej. Poniżej kilka popularnych motywów z anglojęzycznej części Mastodona:
 
