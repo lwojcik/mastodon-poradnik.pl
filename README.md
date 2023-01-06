@@ -24,6 +24,7 @@ Autor tłumaczenia robi to w dobrej wierze i bez większych oczekiwań wobec ś
 - [Jak mogę zbudować obecność marki na Mastodonie?](#jak-mogę-zbudować-obecność-marki-na-mastodonie)
 - [Jak mogę uzyskać weryfikację na Mastodonie?](#jak-mogę-uzyskać-weryfikację-na-mastodonie)
 - [No dobrze, to jak przekonać ludzi, że jestem osobą, za którą się podaję?](#no-dobrze-to-jak-przekonać-ludzi-że-jestem-osobą-za-którą-się-podaję)
+- [JAK WYBRAĆ INSTANCJĘ?](#jak-wybrać-instancję)
 - [Chcę rozmawiać z ludźmi po polsku. Jak wybrać instancję?](#chcę-rozmawiać-z-ludźmi-po-polsku-jak-wybrać-instancję)
 - [Chcę pisać w innych językach. JAK WYBRAĆ INSTANCJĘ?](#chcę-pisać-w-innych-językach-JAK-WYBRAĆ-INSTANCJĘ)
 - [Wpadła mi w oko inna, ciekawsza instancja. Czy mogę przenieść moje konto?](#wpadła-mi-w-oko-inna-ciekawsza-instancja-czy-mogę-przenieść-moje-konto)
@@ -146,9 +147,17 @@ Jeżeli nie posiadasz własnej strony, możesz również skorzystać z innych sp
 
 2. Jeżeli masz konto na Twitterze - możesz skorzystać z zewnętrznego serwisu do weryfikacji takiego jak [Twittodon](https://twittodon.com/).
 
+## JAK WYBRAĆ INSTANCJĘ?
+
+Celowo wielkimi literami.
+
+~~Nie ma znaczenia~~
+
+Wybór instancji w dużej mierze zależy od oczekiwań i nie ma jednej właściwej drogi. Masz do wyboru serwery z polskojęzyczną społecznością oraz dziesiątki, jeśli nie setki serwerów zagranicznych (głównie anglojęzycznych). Jeżeli kluczem wyboru jest dla Ciebie łatwy dostęp do społeczności posługującej się konkretnym językiem, masz dwie drogi do wyboru - czytaj dalej.
+
 ## Chcę rozmawiać z ludźmi po polsku. Jak wybrać instancję?
 
-Jeżeli chcesz posługiwać się językiem polskim i niespecjalnie interesuje Cię obcojęzyczna część fediwersum, Twoim najlepszym wyborem będzie jedna z instancji dedykowanych polskojęzycznej społeczności. Najstarszą polską instancją jest [101010.pl](https://101010.pl). Są też inne, takie jak [pol.social](https://pol.social/), [mastodon.pl](https://mastodon.pl/) czy [dadalo.pl](https://dadalo.pl/).
+Jeżeli niezbyt interesuje Cię obcojęzyczna część fediwersum, Twoim najlepszym wyborem będzie jedna z instancji dedykowanych polskojęzycznej społeczności. Najstarszą polską instancją jest [101010.pl](https://101010.pl). Są też inne, takie jak [pol.social](https://pol.social/), [mastodon.pl](https://mastodon.pl/) czy [dadalo.pl](https://dadalo.pl/).
 
 Istnieją także (wciąż nieliczne, ale jednak) instancje tematyczne: [social.puczat.pl](https://social.puczat.pl/) dla osób po kryzysach psychicznych. Dla osób o szeroko rozumianych poglądach lewicowych istnieje [lewacki.space](https://lewacki.space/) oraz [spojnik.works](https://spojnik.works).
 
@@ -158,9 +167,7 @@ Jeżeli chcesz korzystać z obcojęzycznej instancji i pisać na niej po polsku,
 
 Niektóre instancje posiadają dość ścisłe zasady co do używanego języka i zabraniają używania języków innych niż np. angielski. Jest to z reguły podyktowane względami praktycznymi. Moderowanie wpisów w obcych językach zabiera więcej czasu i zwiększa ryzyko krzywdzących decyzji przy rozpatrywaniu zgłoszeń.
 
-## Chcę pisać w innych językach. JAK WYBRAĆ INSTANCJĘ?
-
-Tym razem celowo wielkimi literami.
+## Chcę pisać w innych językach. Jak wybrać instancję?
 
 Jeżeli interesuje Cię szersza (głównie anglojęzyczna) część fediwersum, masz większy wybór - ale jest on także nieco trudniejszy. Wiele instancji posiada specyficzny profil: `mastodon.lol` jest bezpieczną przestrzenią dla osób queerowych, `hackers.town` jest przystanią dla maniaków komputerów, `wandering.shop` powstał z myślą o fanach science fiction i fantasy, a `botsin.space` pozwala na utrzymywanie i rozwój kont automatycznych (botów). Na `oulipo.social` niedozwolone jak dodawanie wpisów zawierających choćby jedną literę "e".
 
