@@ -550,7 +550,7 @@ W przeglądarce - tak. Listę dostępnych skrótów klawiszowych na Mastodonie z
 
 ## Jak działają polubienia na innych typach serwerów?
 
-Na Mastodonie mamy dodanie do ulubionych i nic poza tym. Na innych serwerach (Misskey, Pleroma, GNU Social itp.) możemy mieć dostęp do różnych typów reakcji, zazwyczaj oznaczanych różnymi emoji, jak na LinkedIn czy Discordzie. I zazwyczaj z tymi polubieniami jest tak:
+Na Mastodonie mamy dodanie do ulubionych i nic poza tym. Na innych serwerach (Misskey, Pleroma, GNU Social itp.) możemy mieć dostęp do innych typów reakcji, zazwyczaj oznaczanych różnymi emoji - jak na LinkedIn czy Discordzie. I zazwyczaj z tymi polubieniami jest tak:
 
 - Jeżeli dodasz do ulubionych wpis dodany z serwera innego typu, informacja o tym trafi na tamten serwer i zostanie wyświetlona poprawnie. Niektóre z tych serwerów pozwalają na używanie wielu różnych emoji jako reakcji. Każdy z nich implementuje generyczną emoji dla "polubienia", która będzie widoczna przy treści wpisu.
 
@@ -558,21 +558,34 @@ Na Mastodonie mamy dodanie do ulubionych i nic poza tym. Na innych serwerach (Mi
 
 ## Dziwne, na moim serwerze brakuje kilku funkcji.
 
-Możliwe, że nie jesteś na Mastodonie! Fediwersum - wielki zbiór serwerów połączonych protokołem ActivityPub/OStatus - oferuje wiele różnych rodzajów serwerów. Na Twoim serwerze może działać Pleroma, Misskey, GNU Social, lub coś jeszcze innego! Niestety, niewiele wiem na ich temat, więc musisz zapytać ich użytkowników czy istnieje poradnik taki jak ten.
+Możliwe, że nie jesteś na Mastodonie! Fediwersum - wielki zbiór serwerów połączonych protokołem ActivityPub/OStatus - oferuje wiele różnych rodzajów serwerów. Na Twoim serwerze może działać Pleroma, Misskey, GNU Social, lub coś jeszcze innego! Niestety, niewiele wiemy na ich temat, więc musisz zapytać ich użytkowników czy istnieje poradnik taki jak ten.
 
 ## Dziwne, mój serwer ma dodatkowe funkcje.
 
-Jako że [kod źródłowy Mastodona jest dostępny publicznie](https://github.com/mastodon/mastodon), możesz go skopiować i dowolnie modyfikować. Niektórzy ludzie publikują swoje modyfikacje w sieci; jedną z najpopularniejszych modyfikacji Mastodona jest [Mastodon Glitch Edition](https://glitch-soc.github.io/docs/), znany też jako "glitch-soc" (jeśli dobrze pamiętam, nazywa się tak od instancji na której został uruchomiony - [glitch.social](https://glitch.social)). Glitch-soc posiada szereg dodatkowych funkcji docenianych przez użytkowników, takich jak formatowanie wpisów przy pomocy Markdown czy możliwość dodania wpisu, który zostanie opublikowany tylko w ramach instancji i nie będzie wyświetlany na innych serwerach.
+Jako że [kod źródłowy Mastodona jest dostępny publicznie](https://github.com/mastodon/mastodon), możesz go skopiować i dowolnie modyfikować. Niektórzy ludzie publikują swoje modyfikacje w sieci. Jedną z najpopularniejszych modyfikacji Mastodona jest [Mastodon Glitch Edition](https://glitch-soc.github.io/docs/), znana też jako "glitch-soc" (jeśli dobrze pamiętam, nazywa się tak od instancji na której została uruchomiona - [glitch.social](https://glitch.social)). Glitch-soc posiada szereg dodatkowych funkcji docenianych przez użytkowników, takich jak formatowanie wpisów za pomocą Markdown czy możliwość dodania wpisu, który zostanie opublikowany tylko w ramach instancji i nie będzie wyświetlany na innych serwerach.
 
 ## Mam jeszcze inne pytania.
 
-Nie wahaj się ich zadać! Ludzie zazwyczaj chętnie odpowiadają na pytania i udzielają pomocy. Ponadto, możesz skorzystać z innych poradników, które prezentują nieco inną perspektywę:
+Pytaj śmiało! Ludzie zazwyczaj chętnie odpowiadają na pytania i udzielają pomocy.
 
-- [FediThing](https://tech.lgbt/@FediThing) posiada [świetny przewodnik](https://fedi.tips/).
-- [Ted](https://peoplemaking.games/esdin) prowadzi [dokument z poradami i FAQ](https://docs.google.com/document/d/1gln7Lg92Vz3TbIjz6qZkpdPOxDAe63jof5snpR4xAa0/).
+Hasztagi, które pomogą Ci szybciej uzyskać pomoc: `#FediPomoc`, `#FediPomocPL`, `#FediTipsPL`.
+
+Ponadto możesz skorzystać z poradników, które prezentują nieco inną perspektywę:
+
+- [Sebastian](https://mastodon.social/m0bi13) prowadzi [blog na temat Mastodona i fediwersum](https://zb3.org/m0bi13),
+- [Agnieszka R. Turczyńska](https://circumstances.run/@agturcz) napisała [Tutorial o zakładaniu i korzystaniu z konta w fediwersum na przykładzie Mastodona](https://zb3.org/agturcz/pl-jak-zalozyc-konto-na-fediverse-i-jak-z-niego-korzystac-tootorial),
+- [Jacek Zadrożny](https://101010.pl/@jaczad) napisał [poradnik do Mastodona dla osób niewidomych](https://informaton.blog/2021/10/17/poradnik-do-mastodona-dla-osob-niewidomych/).
+
+Istnieje też sporo materiałów anglojęzycznych:
+
+- [FediThing](https://tech.lgbt/@FediThing) posiada [świetny przewodnik](https://fedi.tips/),
+- [Ted](https://peoplemaking.games/esdin) prowadzi [dokument z poradami i FAQ](https://docs.google.com/document/d/1gln7Lg92Vz3TbIjz6qZkpdPOxDAe63jof5snpR4xAa0/),
 - [elilla](https://transmom.love/@elilla) napisała [futurystyczne wprowadzenie do Mastodona](https://wordsmith.social/elilla/a-futuristic-mastodon-introduction-for-2021).
 
-A jeśli nadal nie możesz znaleźć odpowiedzi na swoje pytanie, możesz skontaktować się z autorką oryginalnej wersji tego poradnika: https://elekk.xyz/@noelle.
+A jeśli nadal nie możesz znaleźć odpowiedzi na swoje pytanie, możesz także skontaktować się z:
+
+- autorem tłumaczenia: https://mastodon.pl/@lukaszwojcik
+- autorką oryginalnej wersji (anglojęzycznej) tego poradnika: https://elekk.xyz/@noelle
 
 ## Jak mogę zaangażować się w rozwój tego poradnika?
 
