@@ -523,7 +523,7 @@ Nie ma jednego sztywnego zestawu reguł dla wszystkich. Jak wspomnieliśmy wyże
 
 - Nie potrzebujesz skracacza linków. Mastodon zakłada, że wszystkie adresy URL mają dokładnie 20 znaków. Pozwól ludziom zobaczyć, gdzie naprawdę prowadzi Twój link.
 
-- Jeżeli tworzysz bota, który publikuje treści automatycznie, ustaw go tak, aby [publikował wpisy jako niewidoczne](#jak-działają-ustawienia-prywatności). W ten sposób zminiejszysz ryzyko, że Twój bot zostanie oflagowany jako spam.
+- Jeżeli tworzysz bota, który publikuje treści automatycznie, ustaw go tak, aby [publikował wpisy jako niewidoczne](#jak-działają-ustawienia-prywatności). W ten sposób zmniejszysz ryzyko, że Twój bot zostanie oflagowany jako spam.
 
 - Jeżeli używasz skryptu, który przesyła Twoje wpisy z Twittera na Twoje konto na Mastodonie, ustaw go tak, aby wpisy zawierały ostrzeżenie o zawartości (CW). W ten sposób nawet wpisy na wrażliwe tematy będą poprawnie oznaczone na Mastodonie.
 
