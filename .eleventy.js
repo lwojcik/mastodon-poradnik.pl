@@ -1,8 +1,6 @@
 const markdownIt = require("markdown-it");
-const htmlmin = require("html-minifier");
-const { minify } = require("terser");
-const markdownIt = require("markdown-it");
 const markdownItAnchor = require("markdown-it-anchor");
+const htmlmin = require("html-minifier");
 
 const MARKDOWN_OPTIONS = {
   html: true,
