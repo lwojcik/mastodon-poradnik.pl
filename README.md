@@ -26,7 +26,7 @@ Autor tłumaczenia robi to w dobrej wierze i bez większych oczekiwań wobec ś
 - [No dobrze, to jak przekonać ludzi, że jestem osobą, za którą się podaję?](#no-dobrze-to-jak-przekonać-ludzi-że-jestem-osobą-za-którą-się-podaję)
 - [JAK WYBRAĆ INSTANCJĘ?](#jak-wybrać-instancję)
 - [Chcę rozmawiać z ludźmi po polsku. Jak wybrać instancję?](#chcę-rozmawiać-z-ludźmi-po-polsku-jak-wybrać-instancję)
-- [Chcę pisać w innych językach. JAK WYBRAĆ INSTANCJĘ?](#chcę-pisać-w-innych-językach-JAK-WYBRAĆ-INSTANCJĘ)
+- [Chcę pisać w innych językach. Jak wybrać instancję?](#chcę-pisać-w-innych-językach-jak-wybrać-instancję)
 - [Wpadła mi w oko inna, ciekawsza instancja. Czy mogę przenieść moje konto?](#wpadła-mi-w-oko-inna-ciekawsza-instancja-czy-mogę-przenieść-moje-konto)
 - [Jak zmienić nazwę użytkownika?](#jak-zmienić-nazwę-użytkownika)
 - [Jak wspomnieć kogoś, kto nie jest na mojej instancji?](#jak-wspomnieć-kogoś-kto-nie-jest-na-mojej-instancji)
@@ -63,15 +63,15 @@ Autor tłumaczenia robi to w dobrej wierze i bez większych oczekiwań wobec ś
 
 ## Czym jest Mastodon?
 
-Mastodon to platforma do tworzenia sieci społecznościowych. Dzięki niej każda osoba może uruchomić własną stronę społecznościową oraz - jeżeli chce - udostępnić ją do użytku innym ludziom. Wszystkie strony na Mastodonie mogą komunikować się między sobą (jak również [wieloma innymi](https://en.wikipedia.org/wiki/ActivityPub)). To takie skrzyżowanie Twittera z e-mailem, ale różniące się nieco od nich obu.
+Mastodon to platforma do tworzenia sieci społecznościowych. Dzięki niej każda osoba może uruchomić własną stronę społecznościową oraz - jeżeli chce - udostępnić ją do użytku innym ludziom. Wszystkie strony na Mastodonie mogą komunikować się między sobą (jak również [wieloma innymi](https://pl.wikipedia.org/wiki/Fediwersum)). To takie skrzyżowanie Twittera z e-mailem, ale różniące się nieco od nich obu.
 
-Nazwa "Mastodon" pochodzi od [zespołu heavy-metalowego](https://www.mastodonrocks.com/), ale jego identyfikacja wizualna nawiązuje do [wymarłego zwierzęcia](https://pl.wikipedia.org/wiki/Mastodonty).
+Nazwa "Mastodon" pochodzi od [amerykańskiego zespołu heavy-metalowego](https://pl.wikipedia.org/wiki/Mastodon), ale jego identyfikacja wizualna nawiązuje do [wymarłego zwierzęcia](https://pl.wikipedia.org/wiki/Mastodonty).
 
 ## Co łączy go z Twitterem?
 
-Publikujesz krótkie wpisy i widzisz uaktualnianą na bieżąco listę wpisów Twoich znajomych. W osobnej kolumnie możesz sprawdzić powiadomienia (odpowiedzi, podbicia, polubienia i wiadomości bezpośrednie).
+Publikujesz krótkie wpisy i widzisz odświeżaną na bieżąco listę wpisów Twoich znajomych. W osobnej kolumnie możesz sprawdzić powiadomienia (odpowiedzi, podbicia, polubienia i wiadomości bezpośrednie).
 
-Wpisy na Mastodonie nazywane są czasem "tootami" albo "tootkami" (od ang. _"toot"_). Jeden "toot" może pomieścić do 500 znaków. Istnieją instancje Mastodona, które wyłamują się z tej reguły - np. najstarszy polski serwer Mastodona, [101010.pl](https://101010.pl/), posiada limit 2048 znaków.
+Wpisy na Mastodonie nazywane są "tootami" albo "tootkami" (od ang. _"toot"_ - trąbić). Jeden "toot" może pomieścić do 500 znaków. Istnieją instancje Mastodona, które wyłamują się z tej reguły - np. najstarszy polski serwer Mastodona, [101010.pl](https://101010.pl/), posiada limit 2048 znaków.
 
 Mastodon obsługuje też hasztagi, czyli słowa poprzedzone znakiem #, np. "#giereczkowo" czy "#fotografia". Klikając w hasztag zobaczysz inne wpisy zawierające ten tag.
 
@@ -89,7 +89,7 @@ Możesz mieć konta na wielu instancjach i używać każdego z nich do poruszani
 
 :bangbang: Mastodon posiada dwie dodatkowe osie czasu, które możesz przeglądać: lokalną oś czasu (ang. 'Local timeline') i globalną oś czasu (ang. 'Federated timeline').
 
-Lokalna oś czasu prezentuje wszystkie wpisy dodane przez ludzi na Twojej instancji z wyjątkiem reakcji. Reakcją jest każdy wpis wysłany przez nas _jako odpowiedź_ na wpis innego użytkownika - samo wspomnienie innego użytkownika nie powoduje, że wpis staje się od razu odpowiedzią!.
+Lokalna oś czasu prezentuje wszystkie wpisy dodane przez ludzi na Twojej instancji, z wyjątkiem reakcji. Reakcją jest każdy wpis wysłany przez nas _jako odpowiedź_ na wpis innego użytkownika - samo wspomnienie innego użytkownika nie powoduje, że wpis staje się od razu odpowiedzią!.
 
 Globalna oś czasu prezentuje publiczne wpisy wszystkich ludzi, o których istnieniu wie Twoja instancja - również tych, którzy używają innych instancji. Twoja instancja wie o osobie z innej instancji wtedy, kiedy przynajmniej jedna osoba z Twojej instancji (Ty lub ktoś inny) KIEDYKOLWIEK doda tę osobę do obserwowanych.
 
@@ -119,17 +119,17 @@ Jeżeli reprezentujesz firmę i Twój szef powiedział Ci, że Wasza firma musi 
 
 > Mastodon tak nie działa. Jeżeli mamy tam być obecni, to musimy wyznaczyć jedną osobę, która będzie mogła tam _być sobą_, a nie tylko robić za rzecznika firmy. To oznacza, że ta osoba niekonieczie będzie się przyjaźnić ze wszystkimi (chociaż oczywiście będzie się starać), ale zawsze będzie traktować swoich rozmówców jak ludzi, a nie cele marketingowe. Jeżeli Ci to pasuje, to chętnie się tym zajmę. Jeżeli nie, to obawiam się, że musisz poświęcić więcej czasu na zrozumienie, jak Mastodon działa, zanim zaczniesz myśleć o obecności naszej firmy na nim.
 
-I jeszcze jedno. Jeżeli pracujesz w dużej, powszechnie znanej firmie lub instytucji z liczną społecznością w innych serwisach - i wciąż chcecie być obecni na Mastodonie pod swoją marką - rozważcie uruchomienie własnej instancji Mastodona pod jednoznacznie kojarzącym się adresem, tak jak robią to [instytucje Unii Europejskiej](https://social.network.europa.eu/), [Raspberry Pi](https://raspberrypi.social/) czy [Medium](https://medium.social/) i [zweryfikujcie jego własność](#no-dobrze-to-jak-przekonać-ludzi-że-jestem-osobą-za-którą-się-podaję). Uzyskacie w ten sposób pełną kontrolę nad swoimi danymi, oraz swobodę w wyznaczaniu zasad na Waszej instancji i skalowaniu serwera pod swoje potrzeby.
+I jeszcze jedno. Jeżeli pracujesz w dużej, powszechnie znanej firmie lub instytucji z liczną społecznością w innych serwisach - i wciąż chcecie być obecni na Mastodonie pod swoją marką - rozważcie uruchomienie własnej instancji Mastodona, tak jak robią to [instytucje Unii Europejskiej](https://social.network.europa.eu/), [Raspberry Pi](https://raspberrypi.social/) czy [Medium](https://medium.social/). Uzyskacie w ten sposób pełną kontrolę nad swoimi danymi oraz swobodę w wyznaczaniu zasad na Waszej instancji i skalowaniu serwera pod swoje potrzeby.
 
-Jeśli mimo wszystko postanowicie - jako duży podmiot - ogłosić swoją obecność na jakimś ogólnodostępnym serwerze, jest duża szansa, że wzbudzicie zainteresowanie i przyciągnięcie za sobą wielu ze swoich dotychczasowych obserwujących. Efektem tego będzie również zwiększone obciążenie Waszego serwera, co może zmusić administrację do podniesienia jego parametrów, a co za tym idzie, poniesienia dodatkowyh kosztów. Pamiętajcie, że publiczne serwery są finansowane z prywatnych kieszeni ich właścicieli, a ci nie zawsze dysponują tak dużymi budżetami, jak Wasza firma. Jeżeli już koniecznie chcecie korzystać z ogólnodostępnej instancji, rozważcie jakąś formę regularnego i znaczącego wsparcia finansowego dla właścicieli serwera. Nie żerujcie jako firma na "darmowych" zasobach. To nie jest Facebook ani Twitter i ktoś za te serwery płaci.
+Jeśli mimo wszystko postanowicie - jako duży podmiot - ogłosić swoją obecność na jakimś ogólnodostępnym serwerze, jest duża szansa, że wzbudzicie zainteresowanie i przyciągnięcie za sobą wielu nowych obserwujących. Efektem tego będzie również zwiększone obciążenie serwera, co może zmusić administrację do podniesienia jego parametrów - a co za tym idzie, poniesienia dodatkowych kosztów. Pamiętajcie, że publiczne serwery są finansowane z prywatnych kieszeni ich właścicieli, a ci nie zawsze dysponują budżetami na ich swobodne skalowanie. Jeżeli już koniecznie chcecie korzystać z ogólnodostępnej instancji, rozważcie jakąś formę regularnego i znaczącego wsparcia finansowego dla właścicieli serwera. Nie żerujcie jako firma na "darmowych" zasobach. Ktoś za te serwery płaci.
 
-O tym, co może się zdarzyć, gdy ktoś popularny zaczyna korzystać z Mastodona, [pisze Aral Balkan w swoim artykule](https://ar.al/2022/11/09/is-the-fediverse-about-to-get-fryed-or-why-every-toot-is-also-a-potential-denial-of-service-attack/).
+O tym, co może się zdarzyć, gdy popularna osobistość zaczyna korzystać z Mastodona, [pisze Aral Balkan w swoim artykule](https://ar.al/2022/11/09/is-the-fediverse-about-to-get-fryed-or-why-every-toot-is-also-a-potential-denial-of-service-attack/).
 
 ## Jak mogę uzyskać weryfikację na Mastodonie?
 
 :bangbang: W przeciwieństwie do Twittera, Mastodon nie posiada wbudowanego mechanizmu weryfikacji. Jesteś tym, za kogo się podajesz, a my Ci wierzymy. Jeżeli widzisz kogoś ze znaczkiem wyglądającym jak ikonka weryfikacji na Twitterze (na przykład :white_check_mark:), to ta osoba po prostu dodała emoji do wyświetlanej nazwy.
 
-Na niektórych instancjach może być wymagane potwierdzenie tożsamości przed założeniem konta, konieczność rejestracji za pomocą innej sieci społecznościowej albo innej formy weryfikacji tożsamości, ale są to **wyjątki od reguły**.
+Na niektórych instancjach może być wymagane potwierdzenie tożsamości przed założeniem konta, rejestracja za pomocą innej sieci społecznościowej albo inna forma weryfikacji tożsamości. Są to jednak **wyjątki od reguły**.
 
 **Jeżeli ktoś podaje się za Ciebie, skontaktuj się z administracją instancji, z której korzysta ta osoba, aby rozwiązać ten problem.**
 
@@ -157,7 +157,7 @@ Wybór instancji w dużej mierze zależy od oczekiwań i nie ma jednej właściw
 
 ## Chcę rozmawiać z ludźmi po polsku. Jak wybrać instancję?
 
-Jeżeli niezbyt interesuje Cię obcojęzyczna część fediwersum, Twoim najlepszym wyborem będzie jedna z instancji dedykowanych polskojęzycznej społeczności. Najstarszą polską instancją jest [101010.pl](https://101010.pl). Są też inne, takie jak [pol.social](https://pol.social/), [mastodon.pl](https://mastodon.pl/) czy [dadalo.pl](https://dadalo.pl/).
+Jeżeli nie interesuje Cię obcojęzyczna część fediwersum, Twoim najlepszym wyborem będzie jedna z instancji dedykowanych polskojęzycznej społeczności. Najstarszą polską instancją jest [101010.pl](https://101010.pl). Są też inne, takie jak [pol.social](https://pol.social/), [mastodon.pl](https://mastodon.pl/) czy [dadalo.pl](https://dadalo.pl/).
 
 Istnieją także (wciąż nieliczne, ale jednak) instancje tematyczne: [social.puczat.pl](https://social.puczat.pl/) dla osób po kryzysach psychicznych. Dla osób o szeroko rozumianych poglądach lewicowych istnieje [lewacki.space](https://lewacki.space/) oraz [spojnik.works](https://spojnik.works).
 
@@ -169,11 +169,13 @@ Niektóre instancje posiadają dość ścisłe zasady co do używanego języka i
 
 ## Chcę pisać w innych językach. Jak wybrać instancję?
 
-Jeżeli interesuje Cię szersza (głównie anglojęzyczna) część fediwersum, masz większy wybór - ale jest on także nieco trudniejszy. Wiele instancji posiada specyficzny profil: `mastodon.lol` jest bezpieczną przestrzenią dla osób queerowych, `hackers.town` jest przystanią dla maniaków komputerów, `wandering.shop` powstał z myślą o fanach science fiction i fantasy, a `botsin.space` pozwala na utrzymywanie i rozwój kont automatycznych (botów). Na `oulipo.social` niedozwolone jak dodawanie wpisów zawierających choćby jedną literę "e".
+Jeżeli interesuje Cię szersza (głównie anglojęzyczna) część fediwersum, masz większy wybór - ale jest on także nieco trudniejszy.
+
+Wiele instancji posiada specyficzny profil: `mastodon.lol` jest bezpieczną przestrzenią dla osób queerowych, `hackers.town` jest przystanią dla maniaków komputerów, `wandering.shop` powstał z myślą o fanach science fiction i fantasy, a `botsin.space` pozwala na utrzymywanie i rozwój kont automatycznych (botów). Na `oulipo.social` niedozwolone jak dodawanie wpisów zawierających choćby jedną literę "e".
 
 Jeżeli nie masz jeszcze konta na Mastodonie, dobrym pomysłem może być użycie jednej z większych instancji, takich jak `mastodon.online` - jednej z flagowych instancji - czy też `mstdn.social` lub `mas.to`. Te instancje posiadają liczne, z reguły przyjazne społeczności, którzy chętnie pomogą Ci znaleźć bardziej wyspecjalizowaną instancję, jeżeli zechcesz takiej poszukać. Przestrzegam jednak, że z uwagi na rozmiar tych instancji, ich lokalne osie czasu potrafią odświeżać się bardzo szybko.
 
-`mastodon.social` i `mastodon.online` to dwie oficjalne instancje finansowane przez firmę non-profit stojącą za projektem. Wielu ludzi zakłada tam konta i nigdy nie interesuje się innymi instancjami. Jeśli masz już konto na mastodon.social, dobrym pomysłem może być traktowanie go jak tymczasowego przystanku zanim znajdziesz instancję lepiej dopasowaną do Twoich potrzeb i zainteresowań. Gdy już taką znajdziesz, możesz wyeksportować z `mastodon.social` wszystkich ludzi obserwowanych, wyciszonych i zablokowanych, a następnie zaimportować ich na nowym koncie. Dzięki temu nie musisz robić tego wszystkiego drugi raz.
+`mastodon.social` i `mastodon.online` to dwie oficjalne instancje finansowane przez podmiot non-profit finansujący rozwój projektu. Wielu ludzi zakłada tam konta i nigdy nie interesuje się innymi instancjami. Jeśli masz już konto na mastodon.social, dobrym pomysłem może być traktowanie go jak tymczasowego przystanku dopóki nie uda Ci się znaleźć instancji lepiej dopasowanej do Twoich potrzeb i zainteresowań. Gdy już taką znajdziesz, możesz wyeksportować z `mastodon.social` wszystkich ludzi obserwowanych, wyciszonych i zablokowanych, a następnie zaimportować ich na nowym koncie. Dzięki temu nie musisz robić tego wszystkiego drugi raz.
 
 Jeżeli masz już konto na jakiejś instancji, ale masz wątpliwości czy jest ona dobrym miejscem dla Ciebie, poproś o sugestie instancji, które mogłyby bardziej Ci odpowiadać tematycznie. Ponadto, wyszukaj wpisów zawierających #hasztag, który Cię interesuje. Jeżeli znajdziesz większą grupę ludzi z jednej instancji, która rozmawia na dany temat - być może warto się tą instancją zainteresować.
 
@@ -580,7 +582,7 @@ Hasztagi, które pomogą Ci szybciej uzyskać pomoc: `#FediPomoc`, `#FediPomocP
 Ponadto możesz skorzystać z poradników, które prezentują nieco inną perspektywę:
 
 - [Sebastian](https://mastodon.social/m0bi13) prowadzi [blog na temat Mastodona i fediwersum](https://zb3.org/m0bi13),
-- [Agnieszka R. Turczyńska](https://circumstances.run/@agturcz) napisała [Tutorial o zakładaniu i korzystaniu z konta w fediwersum na przykładzie Mastodona](https://zb3.org/agturcz/pl-jak-zalozyc-konto-na-fediverse-i-jak-z-niego-korzystac-tootorial),
+- [Agnieszka R. Turczyńska](https://circumstances.run/@agturcz) napisała ["tootorial" o zakładaniu i korzystaniu z konta w fediwersum na przykładzie Mastodona](https://zb3.org/agturcz/pl-jak-zalozyc-konto-na-fediverse-i-jak-z-niego-korzystac-tootorial),
 - [Jacek Zadrożny](https://101010.pl/@jaczad) napisał [poradnik do Mastodona dla osób niewidomych](https://informaton.blog/2021/10/17/poradnik-do-mastodona-dla-osob-niewidomych/).
 
 Istnieje też sporo materiałów anglojęzycznych:
