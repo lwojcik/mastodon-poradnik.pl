@@ -1,6 +1,6 @@
 ---
 title: Dlaczego opisywanie obrazków jest takie ważne?
-slug: dlaczego-opisywac-obrazki
+slug: dlaczego-warto-opisywac-obrazki
 ---
 
 Jedno słowo: dostępność.
