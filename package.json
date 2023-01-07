@@ -1,0 +1,27 @@
+{
+  "name": "mastodon-poradnik",
+  "version": "2.0.0",
+  "private": true,
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/lwojcik/Mastodon-Poradnik/issues"
+  },
+  "homepage": "https://mastodon-poradnik.pl",
+  "scripts": {
+    "build": "npm run clean; npx @11ty/eleventy",
+    "start": "npm run dev",
+    "clean": "rimraf _site",
+    "dev": "npm run clean; npx @11ty/eleventy --serve",
+    "watch": "eleventy --watch",
+    "debug": "DEBUG=* eleventy"
+  },
+  "devDependencies": {
+      "@11ty/eleventy": "^1.0.2",
+      "eslint": "^8.23.0",
+      "eslint-config-prettier": "^8.5.0",
+      "eslint-plugin-inclusive-language": "^2.2.0",
+      "markdownlint": "^0.26.2",
+      "markdownlint-cli2": "^0.5.1",
+      "prettier": "^2.7.1"
+  }
+}
