@@ -16,12 +16,14 @@
     "debug": "DEBUG=* eleventy"
   },
   "devDependencies": {
-      "@11ty/eleventy": "^1.0.2",
-      "eslint": "^8.23.0",
-      "eslint-config-prettier": "^8.5.0",
-      "eslint-plugin-inclusive-language": "^2.2.0",
-      "markdownlint": "^0.26.2",
-      "markdownlint-cli2": "^0.5.1",
-      "prettier": "^2.7.1"
+    "@11ty/eleventy": "^1.0.2",
+    "eslint": "^8.23.0",
+    "eslint-config-prettier": "^8.5.0",
+    "eslint-plugin-inclusive-language": "^2.2.0",
+    "markdown-it": "^13.0.1",
+    "markdown-it-anchor": "^8.6.6",
+    "markdownlint": "^0.26.2",
+    "markdownlint-cli2": "^0.5.1",
+    "prettier": "^2.7.1"
   }
 }
