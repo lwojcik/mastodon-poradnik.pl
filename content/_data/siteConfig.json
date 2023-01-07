@@ -1,0 +1,38 @@
+{
+  "original": {
+    "title": "An Increasingly Less-Brief Guide to Mastodon",
+    "url": "http://guidetomastodon.com",
+    "author": {
+      "name": "Noëlle Anthony",
+      "url": "https://github.com/joyeusenoelle",
+      "mail": "noelle AT noelle.codes",
+      "mastodon": {
+        "url": "https://elekk.xyz/@noelle",
+        "handle": "@Noelle@elekk.xyz"
+      }
+    },
+    "contributors": {
+      "url": "https://github.com/joyeusenoelle/GuideToMastodon/graphs/contributors"
+    }
+  },
+  "translation": {
+    "title": "Niezbyt zwięzłe wprowadzenie do Mastodona",
+    "url": "https://mastodon-poradnik.pl",
+    "repo": {
+      "issues": "https://github.com/lwojcik/Mastodon-Poradnik/issues"
+    },
+    "author": {
+      "name": "Łukasz Wójcik",
+      "mastodon": [
+        {
+          "url": "https://mastodon.pl/@lukaszwojcik",
+          "handle": "@lukaszwojcik@mastodon.pl"
+        },
+        {
+          "url": "https://masto.ai/@lukem",
+          "handle": "@lukem@masto.ai"
+        }
+      ]
+    }
+  }
+}
