@@ -48,6 +48,10 @@
     }
   },
   "search": {
+    "engine": {
+      "name": "DuckDuckGo",
+      "url": "https://duckduckgo.com/"
+    },
     "action": "https://duckduckgo.com",
     "domain": "mastodon-poradnik.pl",
     "placeholder": "Wyszukaj…",
