@@ -1,5 +1,5 @@
 ---
-title: Pełna treść
+title: Czytaj w całości - Mastodon Poradnik
 permalink: /czytaj/
 layout: base
 ---
@@ -20,10 +20,9 @@ layout: base
 </ul>
 
 {%- for questionSlug in orderedQuestionSlugs -%}
-  {% if questionSlug != 'wstep'  %}
+  {%- if questionSlug != 'wstep' -%}
   {%- set question = collections.questionDataObject[questionSlug] -%}
     <h2 id="{{ question.data.slug }}">{{ question.data.title }}</h2>
     {{ question.templateContent|safe }}
-    {{ question.date }}
-  {% endif %}
+  {%- endif -%}
 {%- endfor -%}
