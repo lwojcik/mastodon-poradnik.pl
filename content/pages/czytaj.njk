@@ -30,7 +30,7 @@ layout: base
     {%- for questionSlug in orderedQuestionSlugs -%}
       {%- if questionSlug != 'wstep' -%}
       {%- set question = collections.questionDataObject[questionSlug] -%}
-        <h1 id="{{ question.data.slug }}">{{ question.data.title }}</h1>
+        <h1 id="{{ question.data.slug }}"><a href="#{{ question.data.slug }}">{{ question.data.title }}</a></h1>
         {{ question.templateContent|safe }}
       {%- endif -%}
     {%- endfor -%}
