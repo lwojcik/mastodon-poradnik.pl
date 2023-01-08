@@ -21,4 +21,5 @@ layout: base
 {%- set question = collections.questionDataObject[questionSlug] -%}
     <h2 id="{{ question.data.slug }}">{{ question.data.title }}</h2>
     {{ question.templateContent|safe }}
+    {{ question.date }}
 {%- endfor -%}
