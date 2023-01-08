@@ -1,4 +1,21 @@
-<header class="header">
-  {% include "partials/top.njk" %}
-  {% include "partials/search.njk" %}
-</header>
+<nav class="container-fluid">
+  <ul>
+    <li>
+      <a href="/" aria-label="Powrót do strony głównej">
+        {% include "svg/logo.svg" %}
+        <strong>{{ siteConfig.translation.title }}</strong>
+      </a>
+    </li>
+    <li>
+      
+    </li>
+  </ul>
+  <ul>
+    <li>
+      <a href="https://github.com/lwojcik/mastodon-poradnik" aria-label="Repozytorium poradnika w serwisie GitHub">
+        {% include "svg/github.svg" %}
+        <span>GitHub</span>
+      </a>
+    </li>
+  </ul>
+</nav>

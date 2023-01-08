@@ -1,3 +1,7 @@
+// $primary-500: #e91e63;
+// $primary-600: #d81b60;
+// $primary-700: #c2185b;
+
 @import "vendors/pico/variables";
 @import "vendors/pico/themes/default";
 @import "vendors/pico/layout/document";
@@ -5,6 +9,8 @@
 @import "vendors/pico/layout/container";
 @import "vendors/pico/layout/section";
 @import "vendors/pico/layout/grid";
+@import "vendors/pico/components/nav";
+@import "vendors/pico/components/card";
 // @import "pico/layout/scroller"; // figure
 
 // // Content

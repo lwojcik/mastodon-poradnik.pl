@@ -21,5 +21,5 @@ Istnieje też sporo materiałów anglojęzycznych:
 
 A jeśli nadal nie możesz znaleźć odpowiedzi na swoje pytanie, możesz także skontaktować się z:
 
-- autorem tłumaczenia: https://mastodon.pl/@lukaszwojcik
-- autorką oryginalnej wersji (anglojęzycznej) tego poradnika: https://elekk.xyz/@noelle
+- autorem tłumaczenia: {{ siteConfig.translation.author.mastodon.pl.url }}
+- autorką oryginalnej wersji (anglojęzycznej) tego poradnika: {{ siteConfig.original.author.mastodon.url }}

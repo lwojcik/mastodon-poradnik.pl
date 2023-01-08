@@ -1,1 +1,15 @@
+:root {
+  --spacing: 1rem;
+}
+
+:root:not([data-theme="dark"]),
+[data-theme="light"] {
+  --nav-border-color: rgba(115, 130, 140, 0.2);
+  --h1-color: hsl(205deg, 30%, 15%);
+}
+
 @import "pico.custom";
+@import "partials/main";
+@import "partials/header";
+@import "partials/question";
+@import "partials/navigation";

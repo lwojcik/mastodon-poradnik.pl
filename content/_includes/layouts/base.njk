@@ -1,5 +1,5 @@
 <!doctype html>
-<html lang="pl">
+<html lang="pl" data-theme="light">
   <head>
     <meta charset="utf-8">
     <link rel="stylesheet" href="/css/style.css">
@@ -7,14 +7,10 @@
     <title>{%- if title -%}{{ title }} - {% endif -%}{{ siteConfig.meta.title }}</title>
   </head>
   <body>
-    <main class="container">
-      {% include "partials/header.njk" %}
+    {% include "partials/header.njk" %}
 
-      <section class="content">
-        {{ content|safe }}
-      </section>
+    {{ content|safe }}
 
-      {% include "partials/footer.njk" %}
-    </main>
+    {% include "partials/footer.njk" %}
   </body>
 </html>

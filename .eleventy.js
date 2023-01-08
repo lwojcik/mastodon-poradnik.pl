@@ -1,5 +1,7 @@
 const markdownIt = require("markdown-it");
 const htmlmin = require("html-minifier");
+const { format } = require("date-fns");
+const pl = require("date-fns/locale/pl");
 const orderedQuestionSlugs = require("./content/_data/orderedQuestionSlugs.json");
 
 const MARKDOWN_OPTIONS = {
@@ -71,6 +73,12 @@ module.exports = function (eleventyConfig) {
 
   eleventyConfig.addFilter("findIndexBySlug", (collection = [], value) =>
     collection.findIndex((item) => item.data.slug === value)
+  );
+
+  eleventyConfig.addFilter("readableDate", (date) =>
+    format(date, "dd MMMM yyyy, HH:mm", {
+      locale: pl
+    })
   );
 
   eleventyConfig.addFilter("getByIndex", (collection = [], value) => {

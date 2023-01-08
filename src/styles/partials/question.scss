@@ -1,0 +1,19 @@
+body article {
+  margin-bottom: 2rem;
+}
+
+body article h1 {
+  margin-bottom: 0;
+  font-size: 1.75rem;
+}
+
+.question-footer p {
+  font-size: 0.9rem;
+  margin-bottom: 0;
+}
+
+@media screen and (max-width: 576px) {
+  .question-footer p {
+    font-size: 1rem;
+  }
+}

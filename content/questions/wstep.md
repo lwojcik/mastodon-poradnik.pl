@@ -15,4 +15,4 @@ Oryginalna (anglojęzyczna) wersja tej strony znajduje się pod adresem {{ siteC
 
 Polskojęzyczną wersję tego poradnika (a więc tą, którą właśnie czytasz) znajdziesz zawsze pod adresem {{ siteConfig.translation.url }}. Propozycje zmian do tej wersji możesz [zgłaszać na GitHubie]({{ siteConfig.translation.repo.issues }}).
 
-Autor tłumaczenia robi to w dobrej wierze i bez większych oczekiwań wobec świata. Będzie mu jednak bardzo miło, jeśli przy linku do tłumaczenia znajdzie się jeden z linków do jego kont: [{{ siteConfig.translation.author.mastodon[0].handle }}]({{ siteConfig.translation.author.mastodon[0].url }}) albo [{{ siteConfig.translation.author.mastodon[1].handle }}]({{ siteConfig.translation.author.mastodon[1].url }}).
+Autor tłumaczenia robi to w dobrej wierze i bez większych oczekiwań wobec świata. Będzie mu jednak bardzo miło, jeśli przy linku do tłumaczenia znajdzie się jeden z linków do jego kont: [{{ siteConfig.translation.author.mastodon.en.handle }}]({{ siteConfig.translation.author.mastodon.en.url }}) albo [{{ siteConfig.translation.author.mastodon.pl.handle }}]({{ siteConfig.translation.author.mastodon.pl.url }}).

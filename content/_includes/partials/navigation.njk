@@ -4,9 +4,7 @@
 {% set nextQuestion = questionDataArray|getByIndex(currentQuestionIndex + 1) %}
 
 
-<section class="navigation">
-  <p>-------</p>
-
+<div class="navigation">
 {% if previousQuestion %}
   <div class="previous">
     <a href="{{ previousQuestion.url }}">{{ previousQuestion.data.title }}</a>
@@ -22,4 +20,4 @@
     <a href="{{ nextQuestion.url }}">{{ nextQuestion.data.title }}</a>
   </div>
 {% endif %}
-</section>
+</div>

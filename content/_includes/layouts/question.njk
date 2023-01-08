@@ -4,9 +4,19 @@ layout: base
 date: git Last Modified
 ---
 
-<main class="content">
-  <h2>{{ title }}</h2>
-  {{ content | safe }}
-  {{ page.date }}
-  {% include "partials/navigation.njk" %}
+<main class="container">
+  <article>
+    <header>
+      <h1>{{ title }}</h1>
+    </header>
+    {{ content | safe }}
+    <footer>
+      {% include "partials/navigation.njk" %}
+
+      <div class="question-footer">
+        <p>Ostatnio zmodyfikowano: {{ page.date|readableDate }}</p>
+        <p><a href="#">Zaproponuj zmianę</a>
+      </div>
+    </footer>
+  </article>
 </main>

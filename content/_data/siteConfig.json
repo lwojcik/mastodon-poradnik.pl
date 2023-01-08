@@ -38,16 +38,16 @@
     "author": {
       "name": "Łukasz Wójcik",
       "url": "https://www.lukaszwojcik.net",
-      "mastodon": [
-        {
+      "mastodon": {
+        "en": {
           "url": "https://masto.ai/@lukem",
           "handle": "@lukem@masto.ai"
         },
-        {
+        "pl": {
           "url": "https://mastodon.pl/@lukaszwojcik",
           "handle": "@lukaszwojcik@mastodon.pl"
         }
-      ]
+      }
     }
   },
   "search": {
