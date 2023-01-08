@@ -7,6 +7,12 @@ layout: base
 {%- set intro = collections.questionDataObject["wstep"] -%}
 
 <main class="container">
+  <nav aria-label="breadcrumb">
+    <ul>
+      <li><a href="/">Strona główna</a></li>
+      <li>Niezbyt zwięzłe wprowadzenie do Mastodona</li>
+    </ul>
+  </nav>
   <article class="full_content">
     {{ intro.templateContent|safe }}
     <h1>Spis treści:</h1>
