@@ -55,7 +55,7 @@ module.exports = function (eleventyConfig) {
     return data;
   });
 
-  eleventyConfig.addCollection("questionDataArray", function (collectionApi) {
+  eleventyConfig.addCollection("questionDataArray", (collectionApi) => {
     const data = [];
     const targetCollection = collectionApi.getFilteredByTag("question");
 
@@ -72,6 +72,11 @@ module.exports = function (eleventyConfig) {
   eleventyConfig.addFilter("findIndexBySlug", (collection = [], value) =>
     collection.findIndex((item) => item.data.slug === value)
   );
+
+  eleventyConfig.addFilter("getByIndex", (collection = [], value) => {
+    if (value < 0) return null;
+    return collection[value];
+  });
 
   eleventyConfig.addShortcode("currentYear", () =>
     new Date().getFullYear().toString()
