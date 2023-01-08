@@ -1,6 +1,6 @@
 ---
 title: Pełna treść
-permalink: /full/
+permalink: /czytaj/
 layout: base
 ---
 
@@ -10,16 +10,20 @@ layout: base
 
 <ul>
 {%- for questionSlug in orderedQuestionSlugs -%}
-{%- set question = collections.questionDataObject[questionSlug] -%}
-  <li>
-    <a href="#{{ question.data.slug }}">{{ question.data.title }}</a>
-  </li>
+  {%- if questionSlug != 'wstep' -%}
+  {%- set question = collections.questionDataObject[questionSlug] -%}
+    <li>
+      <a href="#{{ question.data.slug }}">{{ question.data.title }}</a>
+    </li>
+  {%- endif -%}
 {%- endfor -%}
 </ul>
 
 {%- for questionSlug in orderedQuestionSlugs -%}
-{%- set question = collections.questionDataObject[questionSlug] -%}
+  {% if questionSlug != 'wstep'  %}
+  {%- set question = collections.questionDataObject[questionSlug] -%}
     <h2 id="{{ question.data.slug }}">{{ question.data.title }}</h2>
     {{ question.templateContent|safe }}
     {{ question.date }}
+  {% endif %}
 {%- endfor -%}

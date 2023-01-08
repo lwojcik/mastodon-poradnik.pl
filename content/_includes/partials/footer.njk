@@ -1,1 +1,8 @@
-<p>Footer.njk</p>
+{%- set original = siteConfig.original -%}
+{%- set translation = siteConfig.translation -%}
+<section class="footer">
+  <p>--------</p>
+  <p><a href="/">{{ siteConfig.translation.title }}</a></p>
+  <p>Oryginał: Copyright &copy; 2018-{% currentYear %} <a href="{{ original.url }}/">{{ original.author.name }}</a>, na <a href="{{ original.license.url }}">licencji {{ original.license.type }}</a></p>
+  <p>Tłumaczenie: Copyright &copy; 2022-{% currentYear %} <a href="{{ translation.author.url }}">{{ translation.author.name }}</a>, na <a href="{{ translation.license.url }}">licencji {{ original.license.type }}</a>
+</section>

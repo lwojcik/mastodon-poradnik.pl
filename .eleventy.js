@@ -1,5 +1,6 @@
 const markdownIt = require("markdown-it");
 const htmlmin = require("html-minifier");
+const orderedQuestionSlugs = require("./content/_data/orderedQuestionSlugs.json");
 
 const MARKDOWN_OPTIONS = {
   html: true,
@@ -53,6 +54,28 @@ module.exports = function (eleventyConfig) {
 
     return data;
   });
+
+  eleventyConfig.addCollection("questionDataArray", function (collectionApi) {
+    const data = [];
+    const targetCollection = collectionApi.getFilteredByTag("question");
+
+    orderedQuestionSlugs.forEach((questionSlug) => {
+      const element = targetCollection.find(
+        (item) => item.data.slug === questionSlug
+      );
+      data.push(element);
+    });
+
+    return data;
+  });
+
+  eleventyConfig.addFilter("findIndexBySlug", (collection = [], value) =>
+    collection.findIndex((item) => item.data.slug === value)
+  );
+
+  eleventyConfig.addShortcode("currentYear", () =>
+    new Date().getFullYear().toString()
+  );
 
   return {
     dir: {

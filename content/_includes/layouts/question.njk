@@ -5,14 +5,8 @@ date: Last Modified
 ---
 
 <main class="content">
-  <div class="container">
-    <div class="row">
-      <div class="column">
-        <h1>PYTANIE</h1>
-        <h2>{{ title }}</h2>
-        {{ content | safe }}
-        {{ page.date }}
-      </div>
-    </div>
-  </div>
+  <h2>{{ title }}</h2>
+  {{ content | safe }}
+  {{ page.date }}
+  {% include "partials/navigation.njk" %}
 </main>

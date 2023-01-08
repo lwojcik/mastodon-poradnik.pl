@@ -1,0 +1,12 @@
+{%- set search = siteConfig.search -%}
+<form method="get" id="ddgSearch" action="{{ search.action }}">
+  <input type="hidden" name="sites" value="{{ search.domain }}"/>
+  <input type="hidden" name="k7" value="#ffffff"/>
+  <input type="hidden" name="k8" value="#222222"/>
+  <input type="hidden" name="k9" value="#00278e"/>
+  <input type="hidden" name="kx" value="#20692b"/>
+  <input type="hidden" name="kj" value="#fafafa"/>
+  <input type="hidden" name="kt" value="p"/>
+  <input type="text" name="q" placeholder="{{ search.placeholder }}" aria-label="{{ search.label }}"/>
+  <button type="submit">{{ search.submit }}</button>
+</form>

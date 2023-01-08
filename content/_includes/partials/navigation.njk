@@ -1,0 +1,24 @@
+{% set questionDataArray = collections.questionDataArray %}	
+{% set currentQuestionSlug = slug %}
+{% set currentQuestionIndex = questionDataArray|findIndexBySlug(currentQuestionSlug) %}
+
+
+<section class="navigation">
+  <p>-------</p>
+
+  <div class="previous">
+    <a href="{{ previousQuestion.url }}">{{ previousQuestion.data.title }}</a>
+  </div>
+  
+  <div class="current">
+    <b>{{ currentQuestionIndex }}</b>
+  </div>
+
+
+  {# <div class="previous">
+    <a href="{{ previousQuestion.url }}">{{ previousQuestion.data.title }}</a>
+  </div>
+  <div class="next">
+    <a href="{{ nextQuestion.url }}">{{ nextQuestion.data.title }}</a>
+  </div> #}
+</section>
