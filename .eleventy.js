@@ -1,5 +1,4 @@
 const markdownIt = require("markdown-it");
-const markdownItAnchor = require("markdown-it-anchor");
 const htmlmin = require("html-minifier");
 
 const MARKDOWN_OPTIONS = {
@@ -15,11 +14,7 @@ module.exports = function (eleventyConfig) {
   eleventyConfig.addLayoutAlias("full", "layouts/full.njk");
   eleventyConfig.addLayoutAlias("question", "layouts/question.njk");
 
-  // Set Markdown library
-  eleventyConfig.setLibrary(
-    "md",
-    markdownIt(MARKDOWN_OPTIONS).use(markdownItAnchor)
-  );
+  eleventyConfig.setLibrary("md", markdownIt(MARKDOWN_OPTIONS));
 
   eleventyConfig.addFilter("toHTML", (str) => {
     return new markdownIt(MARKDOWN_OPTIONS).renderInline(str);
