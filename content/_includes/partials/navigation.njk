@@ -5,19 +5,19 @@
 
 
 <div class="navigation">
-{% if previousQuestion %}
   <div class="previous">
-    <a href="{{ previousQuestion.url }}">{{ previousQuestion.data.title }}</a>
+    {% if previousQuestion %}
+      <a href="{{ previousQuestion.url }}">&larr; {{ previousQuestion.data.title }}</a>
+    {% endif %}
   </div>
-{% endif %}
 
-<div class="contents">
-  <a href="/pytania/">Spis pytań</a>
-</div>
+  <div class="contents">
+    <a href="/pytania/">Spis treści</a>
+  </div>
 
-{% if nextQuestion %}
   <div class="next">
-    <a href="{{ nextQuestion.url }}">{{ nextQuestion.data.title }}</a>
+  {% if nextQuestion %}
+    <a href="{{ nextQuestion.url }}"">{{ nextQuestion.data.title }} &rarr;</a>
+  {% endif %}
   </div>
-{% endif %}
 </div>

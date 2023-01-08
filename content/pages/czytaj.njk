@@ -1,28 +1,33 @@
 ---
-title: Czytaj w całości - Mastodon Poradnik
+title: Niezbyt zwięzłe wprowadzenie do Mastodona
 permalink: /czytaj/
 layout: base
 ---
 
 {%- set intro = collections.questionDataObject["wstep"] -%}
-<h2 id="{{ intro.data.slug }}">{{ intro.data.title }}</h2>
-{{ intro.templateContent|safe }}
 
-<ul>
-{%- for questionSlug in orderedQuestionSlugs -%}
-  {%- if questionSlug != 'wstep' -%}
-  {%- set question = collections.questionDataObject[questionSlug] -%}
-    <li>
-      <a href="#{{ question.data.slug }}">{{ question.data.title }}</a>
-    </li>
-  {%- endif -%}
-{%- endfor -%}
-</ul>
+<main class="container">
+  <article class="full_content">
+    {{ intro.templateContent|safe }}
+    <h1>Spis treści:</h1>
+    <ul>
+    {%- for questionSlug in orderedQuestionSlugs -%}
+      {%- if questionSlug != 'wstep' -%}
+      {%- set question = collections.questionDataObject[questionSlug] -%}
+        <li>
+          <a href="#{{ question.data.slug }}">{{ question.data.title }}</a>
+        </li>
+      {%- endif -%}
+    {%- endfor -%}
+    </ul>
 
-{%- for questionSlug in orderedQuestionSlugs -%}
-  {%- if questionSlug != 'wstep' -%}
-  {%- set question = collections.questionDataObject[questionSlug] -%}
-    <h2 id="{{ question.data.slug }}">{{ question.data.title }}</h2>
-    {{ question.templateContent|safe }}
-  {%- endif -%}
-{%- endfor -%}
+    {%- for questionSlug in orderedQuestionSlugs -%}
+      {%- if questionSlug != 'wstep' -%}
+      {%- set question = collections.questionDataObject[questionSlug] -%}
+        <h1 id="{{ question.data.slug }}">{{ question.data.title }}</h1>
+        {{ question.templateContent|safe }}
+      {%- endif -%}
+    {%- endfor -%}
+
+  </article>
+</main>

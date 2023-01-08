@@ -1,0 +1,13 @@
+.search {
+  form {
+    margin-top: 2rem;
+  }
+  p {
+    margin-bottom: 0;
+    padding-bottom: 0;
+
+    &.disclaimer {
+      font-size: 0.9rem;
+    }
+  }
+}

@@ -4,3 +4,27 @@ body > main {
   margin-top: 0;
   margin-bottom: 0;
 }
+
+article {
+  & > header {
+    margin-bottom: 2rem;
+  }
+
+  & > footer {
+    margin-top: 2rem;
+  }
+}
+
+article.full_content {
+  padding-top: 2rem;
+  padding-bottom: 2rem;
+
+  h1 {
+    margin-bottom: 1rem;
+  }
+}
+
+.theme-switcher {
+  height: 100%;
+  padding: 0.5rem 1rem;
+}

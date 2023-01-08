@@ -1,7 +1,10 @@
 {%- set search = siteConfig.search -%}
-<form method="get" id="ddgSearch" action="{{ search.action }}">
-  <input type="hidden" name="sites" value="{{ search.domain }}"/>
-  <input type="text" name="q" placeholder="{{ search.placeholder }}" aria-label="{{ search.label }}"/>
-  <button type="submit">{{ search.submit }}</button>
-</form>
-<p>Obsługiwane przez <a rel="external noopener noreferrer" href="{{ search.engine.url }}" target="_blank">{{ search.engine.name }}</a>
+<div class="search">
+<p>Wyszukaj w poradniku:</p>
+  <form target="_blank" method="get" id="ddgSearch" action="{{ search.action }}">
+    <input type="hidden" name="sites" value="{{ search.domain }}"/>
+    <input type="text" name="q" placeholder="{{ search.placeholder }}" aria-label="{{ search.label }}"/>
+    <button type="submit">{{ search.submit }}</button>
+  </form>
+  <p class="disclaimer">Kliknięcie "Szukaj" przeniesie Cię do strony z wynikami <a rel="external noopener noreferrer" href="{{ search.engine.url }}" target="_blank">{{ search.engine.name }}</a>.
+</div>

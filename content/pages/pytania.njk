@@ -4,11 +4,24 @@ permalink: /pytania/
 layout: base
 ---
 
-<ul>
-{%- for questionSlug in orderedQuestionSlugs -%}
-{%- set question = collections.questionDataObject[questionSlug].data -%}
-  <li>
-    <a href="/{{ question.slug }}/">{{ question.title }}</a>
-  </li>
-{%- endfor -%}
-</ul>
+<main class="container">
+  <article>
+    <header>
+      <h1>{{ title }}</h1>
+    </header>
+    <ul>
+    {%- for questionSlug in orderedQuestionSlugs -%}
+    {%- set question = collections.questionDataObject[questionSlug].data -%}
+      <li>
+        <a href="/{{ question.slug }}/">{{ question.title }}</a>
+      </li>
+    {%- endfor -%}
+    </ul>
+    <footer>
+      <div class="question-footer">
+        <p>Ostatnio zmodyfikowano: {{ page.date|readableDate }}</p>
+        {# <p><a href="#">Zaproponuj zmianę</a> #}
+      </div>
+    </footer>
+  </article>
+</main>
