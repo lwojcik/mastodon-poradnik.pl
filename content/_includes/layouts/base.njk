@@ -1,18 +1,20 @@
 <!doctype html>
-<html lang="en">
+<html lang="pl">
   <head>
     <meta charset="utf-8">
+    <link rel="stylesheet" href="/css/style.css">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>{%- if title -%}{{ title }} - {% endif -%}{{ siteConfig.meta.title }}</title>
   </head>
   <body>
-    {% include "partials/header.njk" %}
+    <main class="container">
+      {% include "partials/header.njk" %}
 
-    <section class="content">
-      {{ content|safe }}
-    </section>
+      <section class="content">
+        {{ content|safe }}
+      </section>
 
-    {% include "partials/footer.njk" %}
-
+      {% include "partials/footer.njk" %}
+    </main>
   </body>
 </html>

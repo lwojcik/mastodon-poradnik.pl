@@ -1,0 +1,19 @@
+@import "vendors/pico/variables";
+@import "vendors/pico/themes/default";
+@import "vendors/pico/layout/document";
+@import "vendors/pico/layout/sectioning";
+@import "vendors/pico/layout/container";
+@import "vendors/pico/layout/section";
+@import "vendors/pico/layout/grid";
+// @import "pico/layout/scroller"; // figure
+
+// // Content
+@import "vendors/pico/content/typography"; // a, headings, p, ul, blockquote, ...
+// @import "content/embedded"; // audio, canvas, iframe, img, svg, video
+@import "vendors/pico/content/button"; // button, a[role=button], type=button, type=submit ...
+@import "vendors/pico/content/form"; // input, select, textarea, label, fieldset, legend
+// @import "content/table"; // table, tr, td, ...
+
+// // Utilities
+@import "vendors/pico/utilities/accessibility"; // -ms-touch-action, aria-*
+@import "vendors/pico/utilities/reduce-motion"; // prefers-reduced-motion
