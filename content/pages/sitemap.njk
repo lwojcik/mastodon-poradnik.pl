@@ -1,0 +1,18 @@
+---
+title: Strona główna
+permalink: /sitemap.xml
+---
+
+{% set url = siteConfig.translation.url %}
+
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>{{ url }}/</loc>
+  </url>
+{%- for questionSlug in orderedQuestionSlugs -%}
+  {%- set question = collections.questionDataObject[questionSlug].data -%}
+  <url>
+    <loc>{{ url }}/{{ question.slug }}/</loc>
+  </url>
+{%- endfor -%}
+</urlset>

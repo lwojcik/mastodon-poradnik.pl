@@ -1,0 +1,10 @@
+User-agent: *
+Allow: /
+Disallow: /pytania/
+Disallow: /full/
+Disallow: /epub
+Disallow: /pdf
+
+Host: https://mastodon-poradnik.pl/
+
+Sitemap: https://mastodon-poradnik.pl/sitemap.xml
