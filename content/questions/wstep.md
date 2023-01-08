@@ -1,9 +1,11 @@
 ---
-title: Spokojnie. Mastodon nie jest taki straszny!
+title: Wstęp
 slug: wstep
 ---
 
 Bazą wyjściową dla tego poradnika jest [An Increasingly Less-Brief Guide to Mastodon](http://guidetomastodon.com/) autorstwa [Noëlle Anthony](https://github.com/joyeusenoelle) oraz [współtwórców](https://github.com/joyeusenoelle/GuideToMastodon/graphs/contributors). Pierwotnie miało to być po prostu wierne tłumaczenie oryginału. Jednak długofalowym celem tego poradnika jest wyjście poza rolę przekładu językowego i nieco bardziej precyzyjne opisanie tego, jak działa Mastodon w Polsce. Jednak dopóki pewne koncepty i zjawiska nie zaistnieją na polskim Mastodonie, niniejszy poradnik posługuje się przykładami z oryginalnej wersji.
+
+### Spokojnie. Mastodon nie jest taki straszny!
 
 **Mastodon różni się dość znacznie od Twittera, ale da się do niego przyzwyczaić.** Wszystkie istotne różnice są oznaczone tym emoji :bangbang:; z góry przepraszamy, jeśli coś zostało pominięte. Dawno nas nie było na Twitterze!
 

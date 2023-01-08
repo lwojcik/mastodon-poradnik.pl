@@ -1,7 +1,6 @@
 const markdownIt = require("markdown-it");
 const markdownItAnchor = require("markdown-it-anchor");
 const htmlmin = require("html-minifier");
-const { get } = require("lodash");
 
 const MARKDOWN_OPTIONS = {
   html: true,
@@ -62,7 +61,6 @@ module.exports = function (eleventyConfig) {
 
   return {
     dir: {
-      // Consolidating everything below the `content` folder
       input: "content"
     }
   };

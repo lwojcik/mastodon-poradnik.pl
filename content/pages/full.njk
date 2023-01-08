@@ -5,7 +5,7 @@ layout: base
 ---
 
 {%- set intro = collections.questionDataObject["wstep"] -%}
-<h2 id="wstep">{{ intro.data.title }}</h2>
+<h2 id="{{ intro.data.slug }}">{{ intro.data.title }}</h2>
 {{ intro.templateContent|safe }}
 
 <ul>
