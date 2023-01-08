@@ -1,6 +1,6 @@
 ---
-title: Dlaczego ktoś na innej instancji może używać tej emoji, a ja nie?
-slug: emoji
+title: Jak mogę zaangażować się w rozwój tego poradnika?
+slug: rozwoj-poradnika
 ---
 
 Sprawdź [instrukcje dla współtwórców](https://github.com/lwojcik/Mastodon-Poradnik/blob/main/DLA_WSPOLTWORCOW.md)!

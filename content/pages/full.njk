@@ -1,0 +1,24 @@
+---
+title: Pełna treść
+permalink: /full/
+layout: base
+---
+
+{%- set intro = collections.questionDataObject["wstep"] -%}
+<h2 id="wstep">{{ intro.data.title }}</h2>
+{{ intro.templateContent|safe }}
+
+<ul>
+{%- for questionSlug in orderedQuestionSlugs -%}
+{%- set question = collections.questionDataObject[questionSlug] -%}
+  <li>
+    <a href="#{{ question.data.slug }}">{{ question.data.title }}</a>
+  </li>
+{%- endfor -%}
+</ul>
+
+{%- for questionSlug in orderedQuestionSlugs -%}
+{%- set question = collections.questionDataObject[questionSlug] -%}
+    <h2 id="{{ question.data.slug }}">{{ question.data.title }}</h2>
+    {{ question.templateContent|safe }}
+{%- endfor -%}

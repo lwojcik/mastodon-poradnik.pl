@@ -1,6 +1,7 @@
 const markdownIt = require("markdown-it");
 const markdownItAnchor = require("markdown-it-anchor");
 const htmlmin = require("html-minifier");
+const { get } = require("lodash");
 
 const MARKDOWN_OPTIONS = {
   html: true,
@@ -45,6 +46,18 @@ module.exports = function (eleventyConfig) {
       });
     }
     return content;
+  });
+
+  eleventyConfig.addCollection("questionDataObject", function (collectionApi) {
+    const data = {};
+    const targetCollection = collectionApi.getFilteredByTag("question");
+
+    targetCollection.forEach((el) => {
+      const slug = el.data.slug;
+      data[slug] = el;
+    });
+
+    return data;
   });
 
   return {
