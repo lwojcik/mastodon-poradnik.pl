@@ -2,6 +2,7 @@ const markdownIt = require("markdown-it");
 const htmlmin = require("html-minifier");
 const { format } = require("date-fns");
 const pl = require("date-fns/locale/pl");
+const externalLinks = require("eleventy-plugin-external-links");
 const orderedQuestionSlugs = require("./content/_data/orderedQuestionSlugs.json");
 
 const MARKDOWN_OPTIONS = {
@@ -21,6 +22,19 @@ module.exports = function (eleventyConfig) {
 
   eleventyConfig.addFilter("toHTML", (str) => {
     return new markdownIt(MARKDOWN_OPTIONS).renderInline(str);
+  });
+
+  eleventyConfig.addFilter("makeLinksLocal", (content) => {
+    return content;
+  });
+
+  eleventyConfig.addPlugin(externalLinks, {
+    name: "external-links", // Plugin name
+    regex: /^(([a-z]+:)|(\/\/))/i, // Regex that test if href is external
+    target: "_blank", // 'target' attribute for external links
+    rel: "external noopener noreferrer", // 'rel' attribute for external links
+    extensions: [".html"], // Extensions to apply transform to
+    includeDoctype: true // Default to include '<!DOCTYPE html>' at the beginning of the file
   });
 
   eleventyConfig.setDataDeepMerge(true);

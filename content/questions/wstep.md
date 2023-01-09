@@ -9,10 +9,12 @@ Bazą wyjściową dla tego poradnika jest [{{ siteConfig.original.title }}]({{ s
 
 **Mastodon różni się dość znacznie od Twittera, ale da się do niego przyzwyczaić.** Wszystkie istotne różnice są oznaczone tym emoji {% emoji "❗", "czerwony wykrzyknik" %}; z góry przepraszamy, jeśli coś zostało pominięte. Dawno nas nie było na Twitterze!
 
-Zarówno autorka oryginału, jak i autor tłumaczenia dołożyli wszelkich starań, aby brzmiało to przystępnie, ale sugestie zmian są mile widziane! Jeżeli masz konto na GitHubie i chcesz pomóc przy tworzeniu oryginalnej wersji tego poradnika, możesz przesłać propozycje zmian bezpośrednio. Możesz również skontaktować się z autorką poradnika [na Mastodonie]({{ siteConfig.original.author.mastodon.url }}) lub mailem: `{{ siteConfig.original.author.email.username }} AT {{ siteConfig.original.author.email.server }}`.
+Zarówno autorka oryginału, jak i autor tłumaczenia dołożyli wszelkich starań, aby brzmiało to przystępnie, ale sugestie zmian są mile widziane!
 
-Oryginalna (anglojęzyczna) wersja tej strony znajduje się pod adresem {{ siteConfig.original.url }}. Linkując do niej, podlinkuj również do [{{ siteConfig.original.author.mastodon.handle }}]({{ siteConfig.original.author.mastodon.url }}). Dzięki!
+Polskojęzyczną wersję tego poradnika (a więc tą, którą właśnie czytasz) znajdziesz zawsze pod adresem [{{ siteConfig.translation.url }}]({{ siteConfig.translation.url }}). Propozycje zmian do tej wersji możesz [zgłaszać na GitHubie]({{ siteConfig.translation.repo.issues }}).
 
-Polskojęzyczną wersję tego poradnika (a więc tą, którą właśnie czytasz) znajdziesz zawsze pod adresem {{ siteConfig.translation.url }}. Propozycje zmian do tej wersji możesz [zgłaszać na GitHubie]({{ siteConfig.translation.repo.issues }}).
+Jeżeli masz konto na GitHubie i chcesz pomóc przy tworzeniu oryginalnej (anglojęzycznej) wersji tego poradnika, możesz przesłać propozycje zmian bezpośrednio. Możesz również skontaktować się z autorką poradnika [na Mastodonie]({{ siteConfig.original.author.mastodon.url }}) lub mailem: `{{ siteConfig.original.author.email.username }} AT {{ siteConfig.original.author.email.server }}`.
+
+Oryginalna (anglojęzyczna) wersja tej strony znajduje się pod adresem [{{ siteConfig.original.url }}]({{ siteConfig.original.url }}). Linkując do niej, podlinkuj również do [{{ siteConfig.original.author.mastodon.handle }}]({{ siteConfig.original.author.mastodon.url }}). Dzięki!
 
 Autor tłumaczenia robi to w dobrej wierze i bez większych oczekiwań wobec świata. Będzie mu jednak bardzo miło, jeśli przy linku do tłumaczenia znajdzie się jeden z linków do jego kont: [{{ siteConfig.translation.author.mastodon.en.handle }}]({{ siteConfig.translation.author.mastodon.en.url }}) albo [{{ siteConfig.translation.author.mastodon.pl.handle }}]({{ siteConfig.translation.author.mastodon.pl.url }}).

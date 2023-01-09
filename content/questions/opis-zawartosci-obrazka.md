@@ -3,7 +3,7 @@ title: Próbuję załączyć obrazek do wpisu. Jak dodać do niego opis zawarto�
 slug: opis-zawartosci-obrazka
 ---
 
-{% emoji "❗❓", "wykrzyknik i znak zapytania" %}Gdy załączysz obrazek do wpisu, zobaczysz link "Edytuj" (z ikoną ołówka) w jego górnym prawym rogu. Kliknij w niego. Otworzy się okienko, w którym będziesz mieć możliwość zdecydowania, która część obrazka powinna być widoczna w podglądzie. Znajdziesz tam także możliwość ustawienia opisu zawartości obrazka, który będzie widoczny dla czytających Twój wpis przy najechaniu myszą oraz zostanie przeczytany przez czytniki ekranu (używane przez osoby z problemami ze wzrokiem) zamiast zwykłego "załączony obrazek".
+{% emoji "❗❓", "wykrzyknik i znak zapytania" %} Gdy załączysz obrazek do wpisu, zobaczysz link "Edytuj" (z ikoną ołówka) w jego górnym prawym rogu. Kliknij w niego. Otworzy się okienko, w którym będziesz mieć możliwość zdecydowania, która część obrazka powinna być widoczna w podglądzie. Znajdziesz tam także możliwość ustawienia opisu zawartości obrazka, który będzie widoczny dla czytających Twój wpis przy najechaniu myszą oraz zostanie przeczytany przez czytniki ekranu (używane przez osoby z problemami ze wzrokiem) zamiast zwykłego "załączony obrazek".
 
 Z myślą o obrazkach składających się w większości z tekstu (np. zrzut ekranu z innej strony), Mastodon posiada wbudowany mechanizm rozpoznawania tekstu (OCR) i możesz go użyć do opisania obrazka. Nie zapomnij jednak sprawdzić, czy wygenerowany opis jest poprawny.
 
