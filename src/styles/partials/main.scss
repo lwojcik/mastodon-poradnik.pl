@@ -5,6 +5,20 @@ body > main {
   margin-bottom: 0;
 }
 
+a[href]:not(:where(
+  [href^="#"],
+  [href^="/"]:not([href^="//"]),
+  [href*="//mastodon-poradnik.pl"]
+)):after {
+  content: "↗️";
+  font-size: 0.6rem;
+  font-weight: bold;
+  position: relative;
+  top: -6px;
+  padding-left: 2px;
+  text-decoration: none;
+}
+
 article {
   & > header {
     margin-bottom: 2rem;

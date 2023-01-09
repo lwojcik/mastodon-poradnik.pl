@@ -30,8 +30,8 @@ module.exports = function (eleventyConfig) {
 
   eleventyConfig.addPlugin(externalLinks, {
     name: "external-links", // Plugin name
-    regex: /^(([a-z]+:)|(\/\/))/i, // Regex that test if href is external
-    target: "_blank", // 'target' attribute for external links
+    regex: /^(([a-z]+:)(?!\/\/mastodon-poradnik.pl)|(\/\/))/i, // Regex that test if href is external
+    target: "_self", // 'target' attribute for external links
     rel: "external noopener noreferrer", // 'rel' attribute for external links
     extensions: [".html"], // Extensions to apply transform to
     includeDoctype: true // Default to include '<!DOCTYPE html>' at the beginning of the file
