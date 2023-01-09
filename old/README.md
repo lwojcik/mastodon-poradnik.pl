@@ -4,7 +4,7 @@ Bazą wyjściową dla tego poradnika jest [An Increasingly Less-Brief Guide to M
 
 <p style="text-align:center;"><h1>Spokojnie. Nie jest tak strasznie, jak mogłoby się wydawać.</h1></p>
 
-**Mastodon różni się dość znacznie od Twittera, ale da się do niego przyzwyczaić.** Wszystkie istotne różnice są oznaczone tym emoji :bangbang:; z góry przepraszamy, jeśli coś zostało pominięte. Dawno nas nie było na Twitterze!
+**Mastodon różni się dość znacznie od Twittera, ale da się do niego przyzwyczaić.** Wszystkie istotne różnice są oznaczone tym emoji {% emoji "❗", "czerwony wykrzyknik" %}; z góry przepraszamy, jeśli coś zostało pominięte. Dawno nas nie było na Twitterze!
 
 Zarówno autorka oryginału, jak i autor tłumaczenia dołożyli wszelkich starań, aby brzmiało to przystępnie, ale sugestie zmian są mile widziane! Jeżeli masz konto na GitHubie i chcesz pomóc przy tworzeniu oryginalnej wersji tego poradnika, możesz przesłać propozycje zmian bezpośrednio. Możesz również skontaktować się z autorką poradnika [na Mastodonie](https://elekk.xyz/@noelle) lub mailem: `noelle AT noelle.codes`.
 
@@ -77,7 +77,7 @@ Mastodon obsługuje też hasztagi, czyli słowa poprzedzone znakiem #, np. "#gie
 
 ## Co łączy go z e-mailem?
 
-:bangbang: Każda instancja Mastodona jest niezależna, ale działa w ramach wspólnej sieci, zupełnie jak serwery poczty e-mail. Gdy zakładasz skrzynkę e-mail na wp.pl, to nie dostajesz automatycznie skrzynki na interia.pl czy gmail.com, ale możesz wysyłać i odbierać wiadomości od użytkowników skrzynek na interia.pl czy gmail.com.
+{% emoji "❗", "czerwony wykrzyknik" %} Każda instancja Mastodona jest niezależna, ale działa w ramach wspólnej sieci, zupełnie jak serwery poczty e-mail. Gdy zakładasz skrzynkę e-mail na wp.pl, to nie dostajesz automatycznie skrzynki na interia.pl czy gmail.com, ale możesz wysyłać i odbierać wiadomości od użytkowników skrzynek na interia.pl czy gmail.com.
 
 Tak samo tutaj - gdy zakładasz konto na mastodon.social, to nie dostajesz konta na innych instancjach. Możesz jednak rozmawiać z ludźmi z innych instancji, a oni mogą rozmawiać z Tobą.
 
@@ -87,7 +87,7 @@ Możesz mieć konta na wielu instancjach i używać każdego z nich do poruszani
 
 ## Co odróżnia go od Twittera i e-maila? Albo inaczej: czym jest globalna i lokalna oś czasu?
 
-:bangbang: Mastodon posiada dwie dodatkowe osie czasu, które możesz przeglądać: lokalną oś czasu (ang. 'Local timeline') i globalną oś czasu (ang. 'Federated timeline').
+{% emoji "❗", "czerwony wykrzyknik" %} Mastodon posiada dwie dodatkowe osie czasu, które możesz przeglądać: lokalną oś czasu (ang. 'Local timeline') i globalną oś czasu (ang. 'Federated timeline').
 
 Lokalna oś czasu prezentuje wszystkie wpisy dodane przez ludzi na Twojej instancji, z wyjątkiem reakcji. Reakcją jest każdy wpis wysłany przez nas _jako odpowiedź_ na wpis innego użytkownika - samo wspomnienie innego użytkownika nie powoduje, że wpis staje się od razu odpowiedzią!.
 
@@ -105,7 +105,7 @@ W fediwersum istnieje mnóstwo różnych typów oprogramowania, na przykład Pix
 
 ## Jak mogę zbudować obecność marki na Mastodonie?
 
-:bangbang: W skrócie: **bardzo ostrożnie.**
+{% emoji "❗", "czerwony wykrzyknik" %} W skrócie: **bardzo ostrożnie.**
 
 Mamy za sobą kilkanaście lat życia z Twitterem, Facebookiem i wieloma innymi serwisami, które przekształciły się w platformy do SEO, budowania świadomości marki czy korporacyjnej synergii - i powiem szczerze: większość z nas ma już tego po dziurki w nosie.
 
@@ -127,7 +127,7 @@ O tym, co może się zdarzyć, gdy popularna osobistość zaczyna korzystać z M
 
 ## Jak mogę uzyskać weryfikację na Mastodonie?
 
-:bangbang: W przeciwieństwie do Twittera, Mastodon nie posiada wbudowanego mechanizmu weryfikacji. Jesteś tym, za kogo się podajesz, a my Ci wierzymy. Jeżeli widzisz kogoś ze znaczkiem wyglądającym jak ikonka weryfikacji na Twitterze (na przykład :white_check_mark:), to ta osoba po prostu dodała emoji do wyświetlanej nazwy.
+{% emoji "❗", "czerwony wykrzyknik" %} W przeciwieństwie do Twittera, Mastodon nie posiada wbudowanego mechanizmu weryfikacji. Jesteś tym, za kogo się podajesz, a my Ci wierzymy. Jeżeli widzisz kogoś ze znaczkiem wyglądającym jak ikonka weryfikacji na Twitterze (na przykład :white_check_mark:), to ta osoba po prostu dodała emoji do wyświetlanej nazwy.
 
 Na niektórych instancjach może być wymagane potwierdzenie tożsamości przed założeniem konta, rejestracja za pomocą innej sieci społecznościowej albo inna forma weryfikacji tożsamości. Są to jednak **wyjątki od reguły**.
 
@@ -224,13 +224,13 @@ Poniżej znajdziesz listę kroków do przejścia, aby **zmigrować** Twoje konto
 
 I gotowe! Miej na uwadze, że cała migracja oraz zaimportowanie Twoich danych może potrwać dłuższą chwilę - szczególnie jeśli przenosisz się z wielkiej lub długo istniejącej instancji.
 
-:bangbang: **Ważne**: Powyższy proces to najbliższa rzecz, jaką Mastodon ma do zaoferowania w kwestii zmiany nazwy użytkownika.
+{% emoji "❗", "czerwony wykrzyknik" %} **Ważne**: Powyższy proces to najbliższa rzecz, jaką Mastodon ma do zaoferowania w kwestii zmiany nazwy użytkownika.
 
 Specjalne podziękowania dla [Teda](https://peoplemaking.games/@esdin) i arachnomyrmex'a za pomoc przy weryfikacji tej instrukcji!
 
 ## Jak zmienić nazwę użytkownika?
 
-:bangbang: W skrócie: nie da się. Gdy już wybierz nazwę użytkownika dla swojego konta, nie da się jej zmienić. Wybieraj z rozwagą.
+{% emoji "❗", "czerwony wykrzyknik" %} W skrócie: nie da się. Gdy już wybierz nazwę użytkownika dla swojego konta, nie da się jej zmienić. Wybieraj z rozwagą.
 
 Rozwijając odpowiedź: jedyną możliwością zmiany nazwy użytkownika jest migracja konta (zobacz wyżej), ale nie zabierzesz ze sobą historii swoich wpisów.
 
@@ -238,7 +238,7 @@ Nadgorliwa administracja serwera mogłaby pokusić się o zmianę nazwy użytko
 
 ## Jak wspomnieć kogoś, kto nie jest na mojej instancji?
 
-:bangbang: Nazwy użytkownika na Mastodonie przyjmują postać @_nazwa_uzytkownika_@_adres_instancji_. Moje konto na mastodon.social to @<span>noelle</span>@mastodon.social; moje konto na elekk.xyz to @<span>noelle</span>@elekk.xyz. Gdy wspominasz kogoś na innej instancji, musisz wpisać całą nazwę wraz z instancją (jednakże formularz dodawania wpisu zasugeruje Ci nazwę użytkownika jeżeli Twoja instancja wie o jej istnieniu).
+{% emoji "❗", "czerwony wykrzyknik" %} Nazwy użytkownika na Mastodonie przyjmują postać @_nazwa_uzytkownika_@_adres_instancji_. Moje konto na mastodon.social to @<span>noelle</span>@mastodon.social; moje konto na elekk.xyz to @<span>noelle</span>@elekk.xyz. Gdy wspominasz kogoś na innej instancji, musisz wpisać całą nazwę wraz z instancją (jednakże formularz dodawania wpisu zasugeruje Ci nazwę użytkownika jeżeli Twoja instancja wie o jej istnieniu).
 
 Jeśli wspominasz o kimś z Twojej instancji, wystarczy wpisać tylko pierwszy człon. Jeśli jesteś ne elekk.xyz, samo @noelle zadziała tak samo, jak @<span>noelle</span>@elekk.xyz. Pomijając "@_adres_instancji_" dajesz Mastodonowi do zrozumienia, że chcesz wspomnieć użytkownika z tej samej instancji co Twoja.
 
@@ -260,7 +260,7 @@ Raczej nie otrzymasz powiadomienia o akcjach podjętych przez moderatorów lub a
 
 ## Jakie są rodzaje wpisów?
 
-:bangbang: Wpisy na Mastodonie (podobnie jak w całym fediwersum) mogą być połączone ze sobą na różne sposoby. Wykorzystuję trzy terminy na określenie różnych rodzajów wpisów. Nie zawsze są to te same określenia, co używane przez innych ludzi.
+{% emoji "❗", "czerwony wykrzyknik" %} Wpisy na Mastodonie (podobnie jak w całym fediwersum) mogą być połączone ze sobą na różne sposoby. Wykorzystuję trzy terminy na określenie różnych rodzajów wpisów. Nie zawsze są to te same określenia, co używane przez innych ludzi.
 
 - **Samodzielne wpisy** - wpisy, które nie stanowią odpowiedzi na inny wpis, tj. do ich opublikowania nie trzeba kliknąć przycisku "Odpowiedz". Są one na samej górze w sekwencji. W samodzielnych wpisach możesz dodawać nazwy użytkownika innych ludzi, aby ich oznaczyć - wpisy te nie stają się odpowiedziami.
 
@@ -290,7 +290,7 @@ Masz do dyspozycji następujące ustawienia:
 
 - **Tylko obserwujący (ang. Followers only)** oznacza, że tylko ludzie, którzy Cię obserwują, oraz ludzie, których wspomnisz w treści wpisu mogą go zobaczyć w swoich osiach czasu lub na stronie Twojego profilu. Gdy ktoś spoza Twoich obserwujących otworzy Twój profil, nie zobaczy tych wpisów. _Z perspektywy Twoich obserwujących_, wpisy tylko dla obserwujących działają dokładnie tak samo jako wpisy niewidczne. **Twoje wpisy tylko dla obserwujących, w których wspominasz innego użytkownika, pojawią się we wspomnieniach u tego użytkownika, nawet jeżeli ta osoba nie obserwuje Cię!**
 
-- :bangbang: **Tylko wspomniane osoby (ang. Mentioned people only)** - jak sama nazwa wskazuje: tylko ci ludzie, których wspomnisz w treści wpisu, zobaczą go i będzie on widoczny dla **wszystkich** osób, które zostały wspomniane (o ile Cię nie zablokowały lub wyciszyły). Pojawi się on na liście ich wspomnień oraz, na serwerach Mastodona od wersji 3.0 wzwyż, w kolumnie Wiadomości bezpośrednie.
+- {% emoji "❗", "czerwony wykrzyknik" %} **Tylko wspomniane osoby (ang. Mentioned people only)** - jak sama nazwa wskazuje: tylko ci ludzie, których wspomnisz w treści wpisu, zobaczą go i będzie on widoczny dla **wszystkich** osób, które zostały wspomniane (o ile Cię nie zablokowały lub wyciszyły). Pojawi się on na liście ich wspomnień oraz, na serwerach Mastodona od wersji 3.0 wzwyż, w kolumnie Wiadomości bezpośrednie.
 
 Miej na uwadze, że serwery używające oprogramowania kompatybilnego z Mastodonem, ale innym niż Mastodon, mogą zignorować powyższe ustawienia prywatności przy dostarczaniu wiadomości do używających ich osób. Używaj tej opcji z rozwagą!
 
@@ -328,7 +328,7 @@ Na prywatnym koncie akceptujesz prośby o obserwowanie _poprzez interfejs Mastod
 
 **Ale...**
 
-:bangbang: Każde konto na Mastodonie (na serwerze bez modyfikacji) udostępnia także kanał RSS zawierający wszystkie publiczne i niewidoczne wpisy - to znaczy te wpisy, które są widoczne na stronie profilu danego konta. Nie trafiają tam wpisy tylko dla obserwujących ani wiadomości bezpośrednie. Jeśli [dodasz ostrzeżenie o zawartości (CW)](#co-oznacza-cw), na kanale RSS będzie widoczna będzie tylko treść CW bez rozwinięcia.
+{% emoji "❗", "czerwony wykrzyknik" %} Każde konto na Mastodonie (na serwerze bez modyfikacji) udostępnia także kanał RSS zawierający wszystkie publiczne i niewidoczne wpisy - to znaczy te wpisy, które są widoczne na stronie profilu danego konta. Nie trafiają tam wpisy tylko dla obserwujących ani wiadomości bezpośrednie. Jeśli [dodasz ostrzeżenie o zawartości (CW)](#co-oznacza-cw), na kanale RSS będzie widoczna będzie tylko treść CW bez rozwinięcia.
 
 Twój kanał RSS jest dostępny pod adresem `https://<adres-twojego-serwera>/users/<twoja-nazwa-użytkownika>.rss`. Na przykład, w przypadku mojego konta `https://elekk.xyz/@noelle` kanał RSS znajduje się pod adresem `https://elekk.xyz/users/noelle.rss` (pamiętaj aby pominąć `@`!)
 
@@ -388,7 +388,7 @@ Nie przesadzaj z ilością hasztagów. Co do zasady hasztagi raczej nie powinny 
 
 ## Co oznacza "CW"?
 
-:bangbang: CW to skrót od anglojęzycznego 'Content Warning' i oznacza ostrzeżenie o zawartości. Ukrywa ono Twój wpis za jakimś tekstem (który możesz samodzielnie ustawić), co pozwala osobie czytającej podjąć decyzję, czy chce rozwinąć i przeczytać wpis, czy też go pominąć. Działa on trochę jak link "Czytaj dalej".
+{% emoji "❗", "czerwony wykrzyknik" %} CW to skrót od anglojęzycznego 'Content Warning' i oznacza ostrzeżenie o zawartości. Ukrywa ono Twój wpis za jakimś tekstem (który możesz samodzielnie ustawić), co pozwala osobie czytającej podjąć decyzję, czy chce rozwinąć i przeczytać wpis, czy też go pominąć. Działa on trochę jak link "Czytaj dalej".
 
 Możesz używać ostrzeżeń o zawartości do oznaczania takich tematów jak:
 
@@ -425,13 +425,13 @@ Jak formułować ostrzeżenia o zawartości? Ogólnie mówiąc, kieruj się swoi
 
 ## Próbuję załączyć obrazek do wpisu. Co to za ikonka z okiem?
 
-:bangbang: Kliknięcie w tę ikonkę spowoduje, że Twój obrazek przykryje nakładka z ostrzeżeniem "Wrażliwa zawartość". Warto tego używać do oznaczania nagości, przemocy i krwi, tematów politycznych itp.
+{% emoji "❗", "czerwony wykrzyknik" %} Kliknięcie w tę ikonkę spowoduje, że Twój obrazek przykryje nakładka z ostrzeżeniem "Wrażliwa zawartość". Warto tego używać do oznaczania nagości, przemocy i krwi, tematów politycznych itp.
 
 Być może zauważysz, że jeżeli do wpisu załączysz obrazek i użyjesz CW, nakładka "wrażliwa zawartość" pojawi się automatycznie i nie da się jej wyłączyć. To zamierzony efekt.
 
 ## Próbuję załączyć obrazek do wpisu. Jak dodać do niego opis zawartości?
 
-:interrobang: Gdy załączysz obrazek do wpisu, zobaczysz link "Edytuj" (z ikoną ołówka) w jego górnym prawym rogu. Kliknij w niego. Otworzy się okienko, w którym będziesz mieć możliwość zdecydowania, która część obrazka powinna być widoczna w podglądzie. Znajdziesz tam także możliwość ustawienia opisu zawartości obrazka, który będzie widoczny dla czytających Twój wpis przy najechaniu myszą oraz zostanie przeczytany przez czytniki ekranu (używane przez osoby z problemami ze wzrokiem) zamiast zwykłego "załączony obrazek".
+{% emoji "❗❓", "wykrzyknik i znak zapytania" %} Gdy załączysz obrazek do wpisu, zobaczysz link "Edytuj" (z ikoną ołówka) w jego górnym prawym rogu. Kliknij w niego. Otworzy się okienko, w którym będziesz mieć możliwość zdecydowania, która część obrazka powinna być widoczna w podglądzie. Znajdziesz tam także możliwość ustawienia opisu zawartości obrazka, który będzie widoczny dla czytających Twój wpis przy najechaniu myszą oraz zostanie przeczytany przez czytniki ekranu (używane przez osoby z problemami ze wzrokiem) zamiast zwykłego "załączony obrazek".
 
 Z myślą o obrazkach składających się w większości z tekstu (np. zrzut ekranu z innej strony), Mastodon posiada wbudowany mechanizm rozpoznawania tekstu (OCR) i możesz go użyć do opisania obrazka. Nie zapomnij jednak sprawdzić, czy wygenerowany opis jest poprawny.
 
@@ -451,7 +451,7 @@ Możesz także wykorzystywać opisy do obrazków jako nośniki dodatkowego humor
 
 ## Dlaczego ktoś na innej instancji może używać tej emoji, a ja nie?
 
-:bangbang: :bangbang: Na każdej instancji administracja może dodawać własne emoji i wiele z nich z tego korzysta.
+{% emoji "❗", "czerwony wykrzyknik" %} {% emoji "❗", "czerwony wykrzyknik" %} Na każdej instancji administracja może dodawać własne emoji i wiele z nich z tego korzysta.
 
 Administracja Twojej instancji posiada opcję skopiowania dowolnej emoji z innej instancji. Jeżeli zauważysz emoji, która Ci się podoba a nie jest dostępna na Twojej instancji, poproś administrację Twojego serwera o skopiowanie jej.
 
@@ -463,7 +463,7 @@ Niektóre instancje Mastodona umożliwiają pełnotekstowe wyszukiwanie, jednak 
 
 ## Dlaczego nie mogę zacytować czyjegoś wpisu jak na Twitterze?
 
-:bangbang: Podobnie jak z wyszukiwaniem, jest to funkcja zapobiegająca nękaniu. Jeżeli chcesz odpowiedzieć na czyjś wpis, to zrób dokładnie to - dodaj odpowiedz do tego wpisu. Nie możesz tak po prostu rzucić go swoim obserwującym i dołączyć do tego złośliwy komentarz.
+{% emoji "❗", "czerwony wykrzyknik" %} Podobnie jak z wyszukiwaniem, jest to funkcja zapobiegająca nękaniu. Jeżeli chcesz odpowiedzieć na czyjś wpis, to zrób dokładnie to - dodaj odpowiedz do tego wpisu. Nie możesz tak po prostu rzucić go swoim obserwującym i dołączyć do tego złośliwy komentarz.
 
 Daruj sobie robienie zrzutów ekranu wpisów i dołączanie ich jako obrazki. **Da się**, ale społeczność Mastodona nie pochwala tego. Jeżeli będziesz tego nadużywać, szybko wyrobisz sobie złą reputację.
 
@@ -475,7 +475,7 @@ To prawda! Ale z czasem ta dziwność staje się bardzo przyjemna.
 
 Ale najpierw o nas, polskojęzycznej społeczności internetu.
 
-Jest nas, osób mówiących po polsku, stosunkowo niewielka liczba w skali świata. Mieliśmy nieco inną historię  internetu niż USA czy kraje zachodniej Europy. Dla ludzi z tych krajów Twitter czy Facebook mogły być pierwszymi krokami w internecie. U nas Facebook i Twitter pojawiły się oficjalnie już po kilku latach istnienia i zajęły miejsce licznych projektów lokalnych: Grono, Nasza-klasa, Blip.pl i wielu, wielu innych.
+Jest nas, osób mówiących po polsku, stosunkowo niewielka liczba w skali świata. Mieliśmy nieco inną historię internetu niż USA czy kraje zachodniej Europy. Dla ludzi z tych krajów Twitter czy Facebook mogły być pierwszymi krokami w internecie. U nas Facebook i Twitter pojawiły się oficjalnie już po kilku latach istnienia i zajęły miejsce licznych projektów lokalnych: Grono, Nasza-klasa, Blip.pl i wielu, wielu innych.
 
 Na polskim Mastodonie spotkasz szeroki przekrój ludzi. Niektórzy mogą pamiętać każdy z serwisów wymienionych w paragrafie powyżej. Niektórzy nigdy nie korzystali z Twittera i nie chcą być na Facebooku. Inni przenieśli się na Mastodona, bo namówili ich znajomi. Dostrzegalna różnorodność tej grupy wynika również z jej (na razie) niskiej liczebności - łatwiej się nawzajem zauważyć, gdy wokoło nie ma tłumów.
 
@@ -495,7 +495,7 @@ Poniżej wybór popularnych motywów i hasztagów znanych na polskojęzycznym Ma
 
 - popularne na polskim Mastodonie stają się też tzw. grupy Guppe Groups - podobne nieco do dawnych grup dyskusyjnych. Więcej na ten temat znajdziesz w [artykule Sebastiana](https://zb3.org/m0bi13/przekluwacz-baniek-w-fediversum-guppe-groups).
 
-- zdjęcia zwierząt domowych są zawsze mile widziane. Koty, psy, skrzydlate. Każde.  
+- zdjęcia zwierząt domowych są zawsze mile widziane. Koty, psy, skrzydlate. Każde.
 
 Zagraniczne fediwersum jest nieco większe i tu również dużo się dzieje. Poniżej kilka popularnych motywów z anglojęzycznej części Mastodona:
 

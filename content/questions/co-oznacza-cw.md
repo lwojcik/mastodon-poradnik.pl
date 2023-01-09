@@ -3,7 +3,7 @@ title: Co oznacza "CW"?
 slug: co-oznacza-cw
 ---
 
-:bangbang: CW to skrót od anglojęzycznego 'Content Warning' i oznacza ostrzeżenie o zawartości. Ukrywa ono Twój wpis za jakimś tekstem (który możesz samodzielnie ustawić), co pozwala osobie czytającej podjąć decyzję, czy chce rozwinąć i przeczytać wpis, czy też go pominąć. Działa on trochę jak link "Czytaj dalej".
+{% emoji "❗", "czerwony wykrzyknik" %} CW to skrót od anglojęzycznego 'Content Warning' i oznacza ostrzeżenie o zawartości. Ukrywa ono Twój wpis za jakimś tekstem (który możesz samodzielnie ustawić), co pozwala osobie czytającej podjąć decyzję, czy chce rozwinąć i przeczytać wpis, czy też go pominąć. Działa on trochę jak link "Czytaj dalej".
 
 Możesz używać ostrzeżeń o zawartości do oznaczania takich tematów jak:
 
@@ -18,13 +18,13 @@ Możesz używać ostrzeżeń o zawartości do oznaczania takich tematów jak:
 
 Niektóre popularne skróty, które napotkasz w ostrzeżeniach u anglojęzycznych użytkowników:
 
-- mh: zdrowie psychiczne (od ang. mental health)
-- ph: zdrowie fizyczne (od ang. physical health)
-- alc: alkohol (od ang. alcohol)
+- mh: zdrowie psychiczne (od ang. _mental health_)
+- ph: zdrowie fizyczne (od ang. _physical health_)
+- alc: alkohol (od ang. _alcohol_)
 - pol: polityka, często w połączeniu z kodem kraju, np. "uspol" oznacza politykę USA
 - pda: publiczne okazywanie czułości (od ang. public display of affection)
-- nsfw: nie oglądać w miejscu pracy (od ang. not safe for work)
-- ec: kontakt wzrokowy (od ang. eye contact) - zazwyczaj używany, gdy do wpisu dołączone jest zdjęcie
+- nsfw: nie oglądać w miejscu pracy (od ang. _not safe for work_)
+- ec: kontakt wzrokowy (od ang. _eye contact_) - zazwyczaj używany, gdy do wpisu dołączone jest zdjęcie
 
 Oprócz tego w ostrzeżeniach mogą znaleźć się dodatkowe informacje:
 

@@ -7,7 +7,7 @@ Bazą wyjściową dla tego poradnika jest [{{ siteConfig.original.title }}]({{ s
 
 ### Spokojnie. Mastodon nie jest taki straszny!
 
-**Mastodon różni się dość znacznie od Twittera, ale da się do niego przyzwyczaić.** Wszystkie istotne różnice są oznaczone tym emoji :bangbang:; z góry przepraszamy, jeśli coś zostało pominięte. Dawno nas nie było na Twitterze!
+**Mastodon różni się dość znacznie od Twittera, ale da się do niego przyzwyczaić.** Wszystkie istotne różnice są oznaczone tym emoji {% emoji "❗", "czerwony wykrzyknik" %}; z góry przepraszamy, jeśli coś zostało pominięte. Dawno nas nie było na Twitterze!
 
 Zarówno autorka oryginału, jak i autor tłumaczenia dołożyli wszelkich starań, aby brzmiało to przystępnie, ale sugestie zmian są mile widziane! Jeżeli masz konto na GitHubie i chcesz pomóc przy tworzeniu oryginalnej wersji tego poradnika, możesz przesłać propozycje zmian bezpośrednio. Możesz również skontaktować się z autorką poradnika [na Mastodonie]({{ siteConfig.original.author.mastodon.url }}) lub mailem: `{{ siteConfig.original.author.email.username }} AT {{ siteConfig.original.author.email.server }}`.
 

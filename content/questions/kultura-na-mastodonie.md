@@ -31,7 +31,7 @@ Poniżej wybór popularnych motywów i hasztagów znanych na polskojęzycznym Ma
 
 Zagraniczne fediwersum jest nieco większe i tu również dużo się dzieje. Poniżej kilka popularnych motywów z anglojęzycznej części Mastodona:
 
-- :pineapple:: - nikt tak naprawdę nie wie. [acw](https://cybre.space/@acw) wrzucił jako pierwszy, ktoś inny podchwycił, i tak to to trwa do dziś. Takie tam głupoty. Nie wiesz co napisać? Wrzuć :pineapple:.
+- {% emoji "🍍", "ananas" %} - nikt tak naprawdę nie wie. [acw](https://cybre.space/@acw) wrzucił jako pierwszy, ktoś inny podchwycił, i tak to to trwa do dziś. Takie tam głupoty. Nie wiesz co napisać? Wrzuć {% emoji "🍍", "ananas" %}.
 
 - AWOO - [Awoo.Space](https://awoo.space) to jedna z pierwszych instancji Mastodona. "Awoo" to dźwięk wyjącego wilka. Śmiesznie to brzmi. Awoo! (Pawoo.net nie ma z tym nic wspólnego; w języku japońskim "pawoo" jest oznacza trąbienie słonia.). Ktoś się wkurzył na te wszystkie "awoo" i ustanowił karę 350 dolarów za każde "awoo". Spokojnie, nikt jej nigdy nie zapłacił.
 

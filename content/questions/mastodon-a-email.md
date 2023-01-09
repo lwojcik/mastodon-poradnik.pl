@@ -3,7 +3,7 @@ title: Co łączy Mastodona z e-mailem?
 slug: mastodon-a-email
 ---
 
-:bangbang: Każda instancja Mastodona jest niezależna, ale działa w ramach wspólnej sieci, zupełnie jak serwery poczty e-mail. Gdy zakładasz skrzynkę e-mail na wp.pl, to nie dostajesz automatycznie skrzynki na interia.pl czy gmail.com, ale możesz wysyłać i odbierać wiadomości od użytkowników skrzynek na interia.pl czy gmail.com.
+{% emoji "❗", "czerwony wykrzyknik" %} Każda instancja Mastodona jest niezależna, ale działa w ramach wspólnej sieci, zupełnie jak serwery poczty e-mail. Gdy zakładasz skrzynkę e-mail na wp.pl, to nie dostajesz automatycznie skrzynki na interia.pl czy gmail.com, ale możesz wysyłać i odbierać wiadomości od użytkowników skrzynek na interia.pl czy gmail.com.
 
 Tak samo tutaj - gdy zakładasz konto na mastodon.social, to nie dostajesz konta na innych instancjach. Możesz jednak rozmawiać z ludźmi z innych instancji, a oni mogą rozmawiać z Tobą.
 

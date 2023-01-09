@@ -7,7 +7,7 @@ const orderedQuestionSlugs = require("./content/_data/orderedQuestionSlugs.json"
 const MARKDOWN_OPTIONS = {
   html: true,
   xhtmlOut: true,
-  linkify: true,
+  // linkify: true,
   typographer: true,
   breaks: true
 };
@@ -89,6 +89,8 @@ module.exports = function (eleventyConfig) {
   eleventyConfig.addShortcode("currentYear", () =>
     new Date().getFullYear().toString()
   );
+
+  eleventyConfig.addPlugin(require("eleventy-plugin-emoji"));
 
   return {
     dir: {
