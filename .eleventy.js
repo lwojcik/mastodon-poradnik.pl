@@ -90,7 +90,7 @@ module.exports = function (eleventyConfig) {
   );
 
   eleventyConfig.addFilter("readableDate", (date) =>
-    format(date, "dd MMMM yyyy, HH:mm", {
+    format(date, "d MMMM yyyy 'r.'", {
       locale: pl
     })
   );
