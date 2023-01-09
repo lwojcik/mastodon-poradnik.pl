@@ -15,4 +15,4 @@ Wszystkie trzy opcje są dostępne po kliknięciu `...` przy jednym z wpisów lu
 
 **Jest jednak małe ale.**
 
-Podobnie jak w przypadku [prywatnego konta](#więc-jeśli-ustawię-konto-jako-prywatne-tylko-zaakceptowani-obserwujący-będą-widzieć-moje-wpisy), każda osoba - nawet zablokowana lub zawieszona przez moderatora - może otworzyć Twoją publiczną stronę lub kanał RSS i zobaczyć Twoje wpisy oznaczone jako publiczne i niewidoczne. Niestety nie ma na to rady. Pomocne może być ustawienie wszystkich wpisów jako widoczne tylko dla obserwujących.
+Podobnie jak w przypadku [prywatnego konta](/konto-prywatne/), każda osoba - nawet zablokowana lub zawieszona przez moderatora - może otworzyć Twoją publiczną stronę lub kanał RSS i zobaczyć Twoje wpisy oznaczone jako publiczne i niewidoczne. Niestety nie ma na to rady. Pomocne może być ustawienie wszystkich wpisów jako widoczne tylko dla obserwujących.

@@ -29,7 +29,7 @@ body > nav {
         justify-content: center;
         color: var(--h1-color);
 
-        @media screen and (max-width: 480px) {
+        @media screen and (max-width: 800px) {
           strong {
             display: none;
           }

@@ -17,4 +17,6 @@ slug: rodzaje-wpisow
 
 **Przykład**: Możesz kliknąć na ikonkę odpowiedzi przy cudzym wpisie, aby na niego odpowiedzieć, **albo** kliknąć ikonkę odpowiedzi przy cudzym wpisie, aby dodać do niego odpowiedź, **albo** kliknąć ikonkę odpowiedzi przy swojej odpowiedzi na cudzy wpis.
 
-Załączamy [diagram](/images/replies.png) (jako link, bo jest dość duży). Zwróć uwagę, że gdy tylko czyjś wpis zostanie dodany do sekwencji, Twoje odpowiedzi przestaną działać jako odpowiedzi do Twoich własnych wpisów. Jest to istotne, ponieważ odpowiedzi na własne wpisy i odpowiedzi innych ludzi na Twoje wpisy są różnie wyświetlane na osiach czasu Twoich obserwujących.
+Spójrz na diagram poniżej. Zwróć uwagę, że gdy tylko czyjś wpis zostanie dodany do sekwencji, Twoje odpowiedzi przestaną działać jako odpowiedzi do Twoich własnych wpisów. Jest to istotne, ponieważ odpowiedzi na własne wpisy i odpowiedzi innych ludzi na Twoje wpisy są różnie wyświetlane na osiach czasu Twoich obserwujących.
+
+![Diagram prezentujący różne typy wpisów i odpowiedzi na Mastodonie](/images/replies.png)
