@@ -34,4 +34,4 @@ Oprócz tego w ostrzeżeniach mogą znaleźć się dodatkowe informacje:
 
 Administracja niektórych serwerów może wymagać, aby wpisy o określonej tematyce były opatrzone ostrzeżeniami o zawartości. Nie jest to cenzura, a raczej uprzejmość wobec ludzi, którzy patrzą na świat w jakimś stopniu inaczej, niż my. Dzięki ostrzeżeniom o zawartości osoby o zróżnicowanej wrażliwości na pewne bodźce (np. w spektrum autyzmu, bojące się widoku pająków, cierpiące na depresję itp.) mogą pominąć pewne treści i wciąż cieszyć się bezpieczną i zdrową platformą do rozmów i wymiany myśli.
 
-Jak formułować ostrzeżenia o zawartości? Ogólnie mówiąc, kieruj się swoim najlepszym osądem. Zadaj sobie pytanie: "czy jest jakiś powód, dla którego ktoś nie chciałby tego zobaczyć?". Masz możliwość, aby poświęcić zaledwie chwilkę czasu i uczynić fediwersum lepszym miejscem. Skorzystaj z tego!
+Jak formułować ostrzeżenia o zawartości? Ogólnie mówiąc, kieruj się swoim najlepszym osądem. Zadaj sobie pytanie: "czy jest jakiś powód, dla którego ktoś mógłby nie chcieć na to patrzeć?". Masz możliwość, aby poświęcić zaledwie chwilkę czasu i uczynić fediwersum lepszym miejscem. Skorzystaj z tej możliwości!

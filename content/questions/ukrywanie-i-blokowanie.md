@@ -9,7 +9,7 @@ Masz kilka możliwości.
 
 - **Jeśli nie chcesz widzieć tej osoby ani nie chcesz, aby ta osoba widziała Ciebie**, możesz ją _zablokować_. Zablokowana osoba zostanie automatycznie wyciszona. Jeżeli wcześnie obserwowaliście siebie nawzajem, to już nie będzie to możliwe. Osoba ta nie będzie mogła dodać Cię do obserwowanych i nie zobaczysz jej w żadnej z osi czasu, chyba że ją odblokujesz (jednak czytaj dalej!).
 
-- **Jeśli ta osoba nęka Cię albo łamie zasady**, możesz [ją zgłosić](#co-zrobić-gdy-zobaczę-że-ktoś-łamie-zasady) i Twój moderator powinien się tym zająć.
+- **Jeśli ta osoba nęka Cię albo łamie zasady**, możesz [ją zgłosić](/lamanie-zasad/) i Twój moderator powinien się tym zająć.
 
 Wszystkie trzy opcje są dostępne po kliknięciu `...` przy jednym z wpisów lub na profilu tej osoby w interfejsie WWW Mastodona.
 
