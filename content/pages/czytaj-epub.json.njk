@@ -1,0 +1,12 @@
+---
+permalink: /czytaj/epub.json
+---
+
+[
+  {%- for questionSlug in orderedQuestionSlugs -%}
+  {%- set question = collections.questionDataObject[questionSlug] -%}
+  {
+    data: "<h1>{{ question.data.title }}</h1>{{ question.templateContent|safe }}"
+  }{%- if not loop.last %},{% endif %}
+{%- endfor -%}
+]

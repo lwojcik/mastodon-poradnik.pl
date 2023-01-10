@@ -5,6 +5,7 @@ const { parse } = require("node-html-parser");
 const pl = require("date-fns/locale/pl");
 const externalLinks = require("eleventy-plugin-external-links");
 const orderedQuestionSlugs = require("./content/_data/orderedQuestionSlugs.json");
+const Epub = require("epub-gen");
 
 const MARKDOWN_OPTIONS = {
   html: true,

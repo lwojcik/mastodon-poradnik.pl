@@ -22,6 +22,7 @@
     "date-fns": "^2.29.3",
     "eleventy-plugin-emoji": "^1.1.0",
     "eleventy-plugin-external-links": "^1.1.2",
+    "epub-gen": "^0.1.0",
     "eslint": "^8.23.0",
     "eslint-config-prettier": "^8.5.0",
     "eslint-plugin-inclusive-language": "^2.2.0",
