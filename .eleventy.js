@@ -26,8 +26,28 @@ module.exports = function (eleventyConfig) {
     return new markdownIt(MARKDOWN_OPTIONS).renderInline(str);
   });
 
-  eleventyConfig.addFilter("makeLinksLocal", (content) => {
+  eleventyConfig.addFilter("localizeLinks", (content) => {
+    const root = parse(content);
+    const links = root.querySelectorAll("a");
+
+    if (links) {
+      links.forEach((link) => {
+        if (!link.classList.contains("skip-localizing")) {
+          const href = link.getAttribute("href");
+          if (href && href.startsWith("/")) {
+            const newHref = `#${href.replace(/\//g, "")}`;
+            link.setAttribute("href", newHref);
+          }
+        }
+      });
+      // const newContent = root.toString();
+      return root.toString();
+    }
     return content;
+  });
+
+  eleventyConfig.addFilter("filterHtmlForEpub", (content) => {
+    return content.replace(/"/g, '\\"').replace(/(\r\n|\n|\r)/gm, "");
   });
 
   eleventyConfig.addPlugin(externalLinks, {
@@ -61,24 +81,24 @@ module.exports = function (eleventyConfig) {
     return content;
   });
 
-  eleventyConfig.addTransform("localLinks", (content, outputPath) => {
-    if (outputPath && outputPath.endsWith("czytaj/index.html")) {
-      const root = parse(content);
-      const links = root.querySelectorAll("a");
-      links.forEach((link) => {
-        if (!link.classList.contains("skip-localizing")) {
-          const href = link.getAttribute("href");
-          if (href && href.startsWith("/")) {
-            const newHref = `#${href.replace(/\//g, "")}`;
-            link.setAttribute("href", newHref);
-          }
-        }
-      });
-      const newContent = root.toString();
-      return newContent;
-    }
-    return content;
-  });
+  // eleventyConfig.addTransform("localLinks", (content, outputPath) => {
+  //   if (outputPath && outputPath.endsWith("czytaj/index.html")) {
+  //     const root = parse(content);
+  //     const links = root.querySelectorAll("a");
+  //     links.forEach((link) => {
+  //       if (!link.classList.contains("skip-localizing")) {
+  //         const href = link.getAttribute("href");
+  //         if (href && href.startsWith("/")) {
+  //           const newHref = `#${href.replace(/\//g, "")}`;
+  //           link.setAttribute("href", newHref);
+  //         }
+  //       }
+  //     });
+  //     const newContent = root.toString();
+  //     return newContent;
+  //   }
+  //   return content;
+  // });
 
   eleventyConfig.addCollection("questionDataObject", function (collectionApi) {
     const data = {};

@@ -1,12 +1,11 @@
 ---
 permalink: /czytaj/epub.json
 ---
-
 [
   {%- for questionSlug in orderedQuestionSlugs -%}
   {%- set question = collections.questionDataObject[questionSlug] -%}
   {
-    data: "<h1>{{ question.data.title }}</h1>{{ question.templateContent|safe }}"
+    "data": "<h1 id=\"{{ question.data.slug }}\">{{ question.data.title }}</h1>{{ question.templateContent|localizeLinks|filterHtmlForEpub|safe }}"
   }{%- if not loop.last %},{% endif %}
 {%- endfor -%}
 ]
