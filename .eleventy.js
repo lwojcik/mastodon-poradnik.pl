@@ -1,6 +1,7 @@
 const markdownIt = require("markdown-it");
 const htmlmin = require("html-minifier");
 const { format } = require("date-fns");
+const { parse } = require("node-html-parser");
 const pl = require("date-fns/locale/pl");
 const externalLinks = require("eleventy-plugin-external-links");
 const orderedQuestionSlugs = require("./content/_data/orderedQuestionSlugs.json");
@@ -55,6 +56,25 @@ module.exports = function (eleventyConfig) {
         removeComments: true,
         collapseWhitespace: true
       });
+    }
+    return content;
+  });
+
+  eleventyConfig.addTransform("localLinks", (content, outputPath) => {
+    if (outputPath && outputPath.endsWith("czytaj/index.html")) {
+      const root = parse(content);
+      const links = root.querySelectorAll("a");
+      links.forEach((link) => {
+        if (!link.classList.contains("skip-localizing")) {
+          const href = link.getAttribute("href");
+          if (href && href.startsWith("/")) {
+            const newHref = `#${href.replace(/\//g, "")}`;
+            link.setAttribute("href", newHref);
+          }
+        }
+      });
+      const newContent = root.toString();
+      return newContent;
     }
     return content;
   });
