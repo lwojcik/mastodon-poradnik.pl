@@ -113,6 +113,18 @@ module.exports = function (eleventyConfig) {
     return data;
   });
 
+  eleventyConfig.addCollection("epubDataObject", function (collectionApi) {
+    const data = {};
+    const targetCollection = collectionApi.getFilteredByTag("question");
+
+    targetCollection.forEach((el) => {
+      const slug = el.data.slug;
+      data[slug] = el;
+    });
+
+    return data;
+  });
+
   eleventyConfig.addCollection("questionDataArray", (collectionApi) => {
     const data = [];
     const targetCollection = collectionApi.getFilteredByTag("question");
