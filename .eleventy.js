@@ -115,7 +115,7 @@ module.exports = function (eleventyConfig) {
 
   eleventyConfig.addCollection("epubDataObject", function (collectionApi) {
     const data = {};
-    const targetCollection = collectionApi.getFilteredByTag("question");
+    const targetCollection = collectionApi.getFilteredByTag("epub-meta");
 
     targetCollection.forEach((el) => {
       const slug = el.data.slug;
@@ -159,28 +159,6 @@ module.exports = function (eleventyConfig) {
   );
 
   eleventyConfig.addPlugin(require("eleventy-plugin-emoji"));
-
-  eleventyConfig.addTransform(
-    "generateEpub",
-    async function (content, outputPath) {
-      if (outputPath && outputPath.endsWith("epub.json")) {
-        const { epub: epubConfig } = siteConfig;
-
-        console.log("Generowanie epuba...");
-
-        await new Epub(
-          {
-            ...epubConfig,
-            content: JSON.parse(content)
-          },
-          "./mastodon-poradnik.epub"
-        );
-
-        return content;
-      }
-      return content;
-    }
-  );
 
   return {
     dir: {

@@ -1,7 +1,12 @@
 ---
 permalink: /czytaj/epub.json
 ---
+{% set licence = collections.epubDataObject["licencja-prawa-autorskie"]  %}
 [
+  {
+    "title": "Licencja i prawa autorskie",
+    "data": "{{ licence.templateContent|filterHtmlForEpub|safe }}"
+  },
   {%- for questionSlug in orderedQuestionSlugs -%}
   {%- set question = collections.questionDataObject[questionSlug] -%}
   {

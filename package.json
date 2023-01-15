@@ -13,8 +13,10 @@
     "build:sass": "sass --no-source-map src/styles:_site/css",
     "watch:eleventy": "eleventy --serve",
     "build:eleventy": "eleventy",
+    "generate-epub": "node ./scripts/generate-epub.js",
     "start": "npm run clean; npm-run-all build:sass --parallel watch:*",
     "build": "npm run clean; npm-run-all build:*",
+    "postbuild": "npm run generate-epub",
     "dev": "npm run start"
   },
   "devDependencies": {
