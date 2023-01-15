@@ -63,7 +63,8 @@
   },
   "epub": {
     "title": "Niezbyt zwięzłe wprowadzenie do Mastodona",
-    "author": "Noëlle Anthony / Łukasz Wójcik",
-    "lang": "pl"
+    "author": "Noëlle Anthony, Łukasz Wójcik",
+    "lang": "pl",
+    "tocTitle": "Spis treści"
   }
 }

@@ -4,6 +4,7 @@ const { format } = require("date-fns");
 const { parse } = require("node-html-parser");
 const pl = require("date-fns/locale/pl");
 const externalLinks = require("eleventy-plugin-external-links");
+const siteConfig = require("./content/_data/siteConfig.json");
 const orderedQuestionSlugs = require("./content/_data/orderedQuestionSlugs.json");
 const Epub = require("epub-gen");
 
@@ -146,6 +147,28 @@ module.exports = function (eleventyConfig) {
   );
 
   eleventyConfig.addPlugin(require("eleventy-plugin-emoji"));
+
+  eleventyConfig.addTransform(
+    "generateEpub",
+    async function (content, outputPath) {
+      if (outputPath && outputPath.endsWith("epub.json")) {
+        const { epub: epubConfig } = siteConfig;
+
+        console.log("Generowanie epuba...");
+
+        await new Epub(
+          {
+            ...epubConfig,
+            content: JSON.parse(content)
+          },
+          "./mastodon-poradnik.epub"
+        );
+
+        return content;
+      }
+      return content;
+    }
+  );
 
   return {
     dir: {

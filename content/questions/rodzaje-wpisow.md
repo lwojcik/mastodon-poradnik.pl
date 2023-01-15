@@ -19,4 +19,4 @@ slug: rodzaje-wpisow
 
 Spójrz na diagram poniżej. Zwróć uwagę, że gdy tylko czyjś wpis zostanie dodany do sekwencji, Twoje odpowiedzi przestaną działać jako odpowiedzi do Twoich własnych wpisów. Jest to istotne, ponieważ odpowiedzi na własne wpisy i odpowiedzi innych ludzi na Twoje wpisy są różnie wyświetlane na osiach czasu Twoich obserwujących.
 
-![Diagram prezentujący różne typy wpisów i odpowiedzi na Mastodonie](/images/replies.png)
+![Diagram prezentujący różne typy wpisów i odpowiedzi na Mastodonie](https://raw.githubusercontent.com/lwojcik/Mastodon-Poradnik/legacy/replies.png)
