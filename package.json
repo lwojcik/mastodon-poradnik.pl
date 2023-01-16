@@ -14,9 +14,10 @@
     "watch:eleventy": "eleventy --serve",
     "build:eleventy": "eleventy",
     "generate-epub": "node ./scripts/generate-epub.js",
+    "generate-pdf": "node ./scripts/generate-pdf.js",
     "start": "npm run clean; npm-run-all build:sass --parallel watch:*",
     "build": "npm run clean; npm-run-all build:*",
-    "postbuild": "npm run generate-epub",
+    "postbuild": "npm run generate-epub; npm run generate-pdf",
     "dev": "npm run start"
   },
   "devDependencies": {
@@ -29,12 +30,14 @@
     "eslint-config-prettier": "^8.5.0",
     "eslint-plugin-inclusive-language": "^2.2.0",
     "html-minifier": "^4.0.0",
+    "html-pdf-node": "^1.0.8",
     "lodash": "^4.17.21",
     "markdown-it": "^13.0.1",
     "markdown-it-anchor": "^8.6.6",
     "markdownlint": "^0.26.2",
     "node-html-parser": "^6.1.4",
     "npm-run-all": "^4.1.5",
+    "pdf-creator-node": "^2.3.5",
     "prettier": "^2.7.1",
     "sass": "^1.57.1"
   }

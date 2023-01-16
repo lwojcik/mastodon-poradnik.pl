@@ -68,5 +68,9 @@
     "tocTitle": "Spis treści",
     "cover": "https://raw.githubusercontent.com/lwojcik/Mastodon-Poradnik/eleventy/assets/images/epub_cover.jpg",
     "fileName": "mastodon-poradnik.epub"
+  },
+  "pdf": {
+    "format": "A4",
+    "fileName": "mastodon-poradnik.pdf"
   }
 }
