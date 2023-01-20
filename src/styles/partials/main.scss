@@ -1,0 +1,67 @@
+body > main {
+  padding-top: 0;
+  padding-bottom: 0;
+  margin-top: 0;
+  margin-bottom: 0;
+}
+
+a[href]:not(:where(
+  [href^="#"],
+  [href^="/"]:not([href^="//"]),
+  [href*="//mastodon-poradnik.pl"]
+)):after {
+  content: "↗️";
+  font-size: 0.6rem;
+  font-weight: bold;
+  position: relative;
+  top: -6px;
+  padding-left: 2px;
+  text-decoration: none;
+}
+
+[data-whatinput="keyboard"] a:focus {
+  outline: 2px solid;
+}
+
+article {
+  & > header {
+    margin-bottom: 2rem;
+  }
+
+  & > footer {
+    margin-top: 2rem;
+  }
+}
+
+article.full_content {
+  padding-top: 2rem;
+  padding-bottom: 2rem;
+  margin-top: 4rem;
+
+  h1 {
+    margin-bottom: 1rem;
+  }
+}
+
+.theme-switcher {
+  height: 100%;
+  padding: 0.5rem 1rem;
+}
+
+.skip-to-content-link {
+  position: absolute;
+  display: block;
+  transform: translateY(-100%);
+  border: 2px solid #000;
+  background: #fff;
+  color: #000;
+  z-index: 100;
+  left: 0;
+  top: 0;
+  padding: 8px 12px;
+  transition: transform 0.3s;
+}
+
+.skip-to-content-link:focus {
+  transform: translateY(0%);
+}

@@ -1,0 +1,30 @@
+---
+title: Pytanie
+layout: base
+date: git Last Modified
+---
+
+<main class="container">
+  <nav aria-label="breadcrumb">
+    <ul>
+      <li><a href="/">Strona główna</a></li>
+      <li><a href="/pytania/">Pytania</a></li>
+      <li>{{ title }}</li>
+    </ul>
+  </nav>
+
+  <article id="content">
+    <header>
+      <h1>{{ title }}</h1>
+    </header>
+    {{ content | safe }}
+    <footer>
+      {% include "partials/navigation.njk" %}
+
+      <div class="question-footer">
+        <p>Ostatnio zmodyfikowano: {{ page.date|readableDate }}</p>
+        {# <p><a href="#">Zaproponuj zmianę</a> #}
+      </div>
+    </footer>
+  </article>
+</main>

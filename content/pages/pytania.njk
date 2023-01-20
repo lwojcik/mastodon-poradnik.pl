@@ -1,0 +1,33 @@
+---
+title: Pytania i odpowiedzi
+permalink: /pytania/
+layout: base
+---
+
+<main class="container">
+  <nav aria-label="breadcrumb">
+    <ul>
+      <li><a href="/">Strona główna</a></li>
+      <li><a href="/pytania/">Pytania i odpowiedzi</a></li>
+    </ul>
+  </nav>
+  <article id="content">
+    <header>
+      <h1>{{ title }}</h1>
+    </header>
+    <ul>
+    {%- for questionSlug in orderedQuestionSlugs -%}
+    {%- set question = collections.questionDataObject[questionSlug].data -%}
+      <li>
+        <a href="/{{ question.slug }}/">{{ question.title }}</a>
+      </li>
+    {%- endfor -%}
+    </ul>
+    <footer>
+      <div class="question-footer">
+        <p>Ostatnio zmodyfikowano: {{ page.date|readableDate }}</p>
+        {# <p><a href="#">Zaproponuj zmianę</a> #}
+      </div>
+    </footer>
+  </article>
+</main>

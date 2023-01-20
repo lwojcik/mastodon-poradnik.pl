@@ -1,0 +1,10 @@
+body > footer {
+  border-top: 1px solid var(--nav-border-color);
+  padding-top: 2rem;
+  padding-bottom: 2rem;
+
+  p {
+    font-size: 0.75rem;
+    margin-bottom: 0.2rem;
+  }
+}

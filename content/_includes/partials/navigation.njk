@@ -1,0 +1,23 @@
+{% set questionDataArray = collections.questionDataArray %}	
+{% set currentQuestionIndex = questionDataArray|findIndexBySlug(slug) %}
+{% set previousQuestion = questionDataArray|getByIndex(currentQuestionIndex - 1) %}
+{% set nextQuestion = questionDataArray|getByIndex(currentQuestionIndex + 1) %}
+
+
+<div class="navigation">
+  <div class="previous">
+    {% if previousQuestion %}
+      <a href="{{ previousQuestion.url }}">&larr; {{ previousQuestion.data.title }}</a>
+    {% endif %}
+  </div>
+
+  <div class="contents">
+    <a href="/pytania/">Spis treści</a>
+  </div>
+
+  <div class="next">
+  {% if nextQuestion %}
+    <a href="{{ nextQuestion.url }}"">{{ nextQuestion.data.title }} &rarr;</a>
+  {% endif %}
+  </div>
+</div>

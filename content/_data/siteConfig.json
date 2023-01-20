@@ -1,0 +1,76 @@
+{
+  "meta": {
+    "title": "Mastodon Poradnik"
+  },
+  "original": {
+    "title": "An Increasingly Less-Brief Guide to Mastodon",
+    "url": "http://guidetomastodon.com",
+    "license": {
+      "type": "MIT",
+      "url": "https://github.com/joyeusenoelle/GuideToMastodon/blob/main/LICENSE"
+    },
+    "author": {
+      "name": "Noëlle Anthony",
+      "url": "https://github.com/joyeusenoelle",
+      "email": {
+        "username": "noelle",
+        "server": "noelle.codes"
+      },
+      "mastodon": {
+        "url": "https://elekk.xyz/@noelle",
+        "handle": "@Noelle@elekk.xyz"
+      }
+    },
+    "contributors": {
+      "url": "https://github.com/joyeusenoelle/GuideToMastodon/graphs/contributors"
+    }
+  },
+  "translation": {
+    "title": "Niezbyt zwięzłe wprowadzenie do Mastodona",
+    "url": "https://mastodon-poradnik.pl",
+    "license": {
+      "type": "MIT",
+      "url": "https://github.com/lwojcik/Mastodon-Poradnik/blob/main/LICENSE"
+    },
+    "repo": {
+      "issues": "https://github.com/lwojcik/Mastodon-Poradnik/issues"
+    },
+    "author": {
+      "name": "Łukasz Wójcik",
+      "url": "https://www.lukaszwojcik.net",
+      "mastodon": {
+        "en": {
+          "url": "https://masto.ai/@lukem",
+          "handle": "@lukem@masto.ai"
+        },
+        "pl": {
+          "url": "https://mastodon.pl/@lukaszwojcik",
+          "handle": "@lukaszwojcik@mastodon.pl"
+        }
+      }
+    }
+  },
+  "search": {
+    "engine": {
+      "name": "DuckDuckGo",
+      "url": "https://duckduckgo.com/"
+    },
+    "action": "https://duckduckgo.com",
+    "domain": "mastodon-poradnik.pl",
+    "placeholder": "Wyszukaj…",
+    "label": "Wyszukaj w poradniku za pomocą DuckDuckGo",
+    "submit": "Szukaj"
+  },
+  "epub": {
+    "title": "Niezbyt zwięzłe wprowadzenie do Mastodona",
+    "author": "Noëlle Anthony x Łukasz Wójcik",
+    "lang": "pl",
+    "tocTitle": "Spis treści",
+    "cover": "https://raw.githubusercontent.com/lwojcik/Mastodon-Poradnik/eleventy/assets/images/epub_cover.jpg",
+    "fileName": "mastodon-poradnik.epub"
+  },
+  "pdf": {
+    "format": "A4",
+    "fileName": "mastodon-poradnik.pdf"
+  }
+}

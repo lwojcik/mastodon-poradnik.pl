@@ -1,0 +1,56 @@
+.navigation {
+  margin-bottom: 2rem;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+
+  a {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    min-height: 80px;
+  }
+
+  .previous,
+  .contents,
+  .next {
+    width: 31%;
+    height: 100%;
+  }
+
+  .previous {
+    text-align: left;
+
+    a {
+      justify-content: left;
+    }
+  }
+
+  .contents {
+    text-align: center;
+  }
+
+  .next {
+    text-align: right;
+  }
+}
+
+@media screen and (max-width: 500px) {
+  .navigation {
+    flex-direction: column;
+
+    .previous,
+    .contents,
+    .next {
+      width: 100%;
+      margin-bottom: 0.75rem;
+      height: auto;
+      text-align: left;
+
+      a {
+        min-height: auto;
+        justify-content: flex-start;
+      }
+    }
+  }
+}
