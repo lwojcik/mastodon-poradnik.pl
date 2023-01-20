@@ -28,7 +28,11 @@ const generatePdf = () => {
       left: "2.5cm",
       right: "2.5cm"
     },
-    preferCSSPageSize: true
+    preferCSSPageSize: true,
+    displayHeaderFooter: true,
+    headerTemplate: "<div/>",
+    footerTemplate:
+      '<div style="text-align: right;width: 297mm;font-size: 10px;"><span style="margin-right: 1cm">str. <span class="pageNumber"></span> z <span class="totalPages"></span></span></div>'
   };
 
   html_to_pdf.generatePdf(file, options);
