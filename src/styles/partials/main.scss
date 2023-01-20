@@ -47,3 +47,21 @@ article.full_content {
   height: 100%;
   padding: 0.5rem 1rem;
 }
+
+.skip-to-content-link {
+  position: absolute;
+  display: block;
+  transform: translateY(-100%);
+  border: 2px solid #000;
+  background: #fff;
+  color: #000;
+  z-index: 100;
+  left: 0;
+  top: 0;
+  padding: 8px 12px;
+  transition: transform 0.3s;
+}
+
+.skip-to-content-link:focus {
+  transform: translateY(0%);
+}
