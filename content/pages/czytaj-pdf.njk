@@ -8,15 +8,41 @@ permalink: /czytaj/czytaj-pdf.html
 <head>
   <title></title>
   <style>
-    body {
-      font-family: Lato, Arial, Helvetica, sans-serif;
+    @font-face {
+      font-family: 'latobold';
+      src: url('/fonts/lato/lato-bold-webfont.woff2') format('woff2'),
+          url('/fonts/lato/lato-bold-webfont.woff') format('woff');
+      font-weight: normal;
+      font-style: normal;
+    }
+
+    @font-face {
+        font-family: 'latoregular';
+        src: url('/fonts/lato/lato-regular-webfont.woff2') format('woff2'),
+            url('/fonts/lato/lato-regular-webfont.woff') format('woff');
+        font-weight: normal;
+        font-style: normal;
+    }
+
+    body, body *, p, li {
+      font-family: 'latoregular';
       color: #000;
+    }
+
+    b, strong, h1, h2, h3, h4, h5 {
+      font-family: 'latobold';
+      font-weight: 700;
     }
 
     h1 {
       font-size: 36px;
       margin-top: 42px;
       margin-bottom: 42px;
+      font-weight: bold;
+    }
+
+    h2, h3 {
+      font-weight: bolder;
     }
 
     li a,
@@ -78,15 +104,15 @@ permalink: /czytaj/czytaj-pdf.html
 {% set licence = collections.epubDataObject["licencja-prawa-autorskie"]  %}
 <main class="container">
   <article class="full_content">
-    <img class="cover" src="https://raw.githubusercontent.com/lwojcik/Mastodon-Poradnik/eleventy/assets/images/epub_cover.jpg" alt="" />
+    <img class="cover" src="https://raw.githubusercontent.com/lwojcik/Mastodon-Poradnik/main/assets/images/epub_cover.jpg" alt="" />
     <header>
       <hgroup style="text-align:center">
         <h1>Niezbyt zwięzłe wprowadzenie do Mastodona</h1>
       </hgroup>
     </header>
-    <h2 class="breakBefore">Licencja i prawa autorskie</h2>
+    <h1 class="breakBefore">Licencja i prawa autorskie</h1>
     {{ licence.templateContent|safe }}
-    <h2 class="breakBefore">Wstęp</h2>
+    <h1 class="breakBefore">Wstęp</h1>
     {{ intro.templateContent|safe }}
     <h1 id="spis_tresci"><a href="#spis_tresci">Spis treści:</a></h1>
     <ul>
