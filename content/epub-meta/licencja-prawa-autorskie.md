@@ -1,13 +1,10 @@
 ---
 title: Licencja i prawa autorskie
 slug: licencja-prawa-autorskie
-date: git Last Modified
 ---
 
 **{{ siteConfig.translation.title }}**
 Tytuł oryginału: {{ siteConfig.original.title }}
-
-Wygenerowano: {{ page.date|readableDate }}
 
 Oryginał: Copyright © 2018-{% currentYear %} Noëlle Anthony - licencja MIT
 Przekład: Copyright © 2022-{% currentYear %} Łukasz Wójcik - licencja MIT

@@ -1,5 +1,5 @@
 ---
-title: Jak bardzo prywatne jest "Prywatne"?
+title: Jak bardzo prywatne jest Prywatne?
 slug: prywatnosc-na-mastodonie
 ---
 

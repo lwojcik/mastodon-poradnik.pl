@@ -10,9 +10,6 @@ eleventyExcludeFromCollections: true
   <url>
     <loc>{{ url }}/</loc>
   </url>
-  <url>
-    <loc>{{ url }}/wstep/</loc>
-  </url>
 {%- for questionSlug in orderedQuestionSlugs %}
 {%- set question = collections.questionDataObject[questionSlug].data %}
   <url>

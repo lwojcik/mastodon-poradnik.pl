@@ -3,11 +3,11 @@ title: Mam jeszcze inne pytania.
 slug: inne-pytania
 ---
 
-Nie obawiaj się ich zadawać! Ludzie zazwyczaj chętnie odpowiadają na pytania i udzielają pomocy.
+Pytaj śmiało! Ludzie zazwyczaj chętnie odpowiadają i udzielają pomocy.
 
 Hasztagi, które pomogą Ci szybciej uzyskać pomoc: `#FediPomoc`, `#FediPomocPL`, `#FediTipsPL`.
 
-Ponadto możesz skorzystać z poradników, które prezentują nieco inną perspektywę:
+Ponadto możesz skorzystać z poradników, które prezentują inną perspektywę:
 
 - [Sebastian](https://mastodon.social/m0bi13) prowadzi [blog na temat Mastodona i fediwersum](https://zb3.org/m0bi13),
 - [Agnieszka R. Turczyńska](https://circumstances.run/@agturcz) napisała ["tootorial" o zakładaniu i korzystaniu z konta w fediwersum na przykładzie Mastodona](https://zb3.org/agturcz/pl-jak-zalozyc-konto-na-fediverse-i-jak-z-niego-korzystac-tootorial),
@@ -21,5 +21,5 @@ Istnieje też sporo materiałów anglojęzycznych:
 
 A jeśli nadal nie możesz znaleźć odpowiedzi na swoje pytanie, możesz także skontaktować się z:
 
-- autorem tłumaczenia: {{ siteConfig.translation.author.mastodon.pl.url }}
-- autorką oryginalnej wersji (anglojęzycznej) tego poradnika: {{ siteConfig.original.author.mastodon.url }}
+- autorem tłumaczenia: [{{ siteConfig.translation.author.mastodon.pl.url }}]({{ siteConfig.translation.author.mastodon.pl.url }})
+- autorką oryginalnej wersji (anglojęzycznej) tego poradnika: [{{ siteConfig.original.author.mastodon.url }}]({{ siteConfig.original.author.mastodon.url }})
