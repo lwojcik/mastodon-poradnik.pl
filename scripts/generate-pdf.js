@@ -22,6 +22,12 @@ const generatePdf = () => {
   const options = {
     format: siteConfig.pdf.format,
     path: path.join(rootPath, siteConfig.pdf.fileName),
+    args: [
+      "--no-sandbox",
+      "--disable-setuid-sandbox",
+      "--font-render-hinting=none",
+      "--force-color-profile=srgb"
+    ],
     margin: {
       top: "2.5cm",
       bottom: "2.5cm",
