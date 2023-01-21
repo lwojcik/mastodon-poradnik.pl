@@ -13,4 +13,4 @@ Jeżeli nie posiadasz własnej strony, możesz również skorzystać z innych sp
 
 1. Publikując link do Twojego profilu Mastodona w widocznym miejscu w każdym innym serwisie społęcznościowym, gdzie ludzie Cię kojarzą,
 
-2. Jeżeli masz konto na Twitterze - możesz skorzystać z zewnętrznego serwisu do weryfikacji takiego jak [Twittodon](https://twittodon.com/).
+2. Jeżeli masz konto na Twitterze - możesz skorzystać z zewnętrznego serwisu do weryfikacji takiego jak [Twittodon.com](https://twittodon.com/).

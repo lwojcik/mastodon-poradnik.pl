@@ -3,7 +3,7 @@ title: Jak zbudować obecność marki na Mastodonie?
 slug: marka-na-mastodonie
 ---
 
-**[!!!]**W skrócie: **bardzo ostrożnie.**
+**[!!!]** W skrócie: **bardzo ostrożnie.**
 
 Mamy za sobą kilkanaście lat życia z Twitterem, Facebookiem i wieloma innymi serwisami, które przekształciły się w platformy do SEO, budowania świadomości marki czy korporacyjnej synergii - i powiem szczerze: większość z nas ma już tego po dziurki w nosie.
 

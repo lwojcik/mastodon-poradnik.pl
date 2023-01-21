@@ -11,7 +11,9 @@ Jest nas, osób mówiących po polsku, stosunkowo niewielka liczba w skali świa
 
 Na polskim Mastodonie spotkasz szeroki przekrój ludzi. Niektórzy mogą pamiętać każdy z serwisów wymienionych w paragrafie powyżej. Niektórzy nigdy nie korzystali z Twittera i nie chcą być na Facebooku. Inni przenieśli się na Mastodona, bo namówili ich znajomi. Jeszcze inni są na Mastodonie, ale równolegle korzystają z innych. Dostrzegalna różnorodność tej grupy wynika również z jej (jak na razie) niskiej liczebności - łatwiej się nawzajem zauważyć, gdy wokoło nie ma tłumów.
 
-Polskojęzyczna kultura fediwersum jest mieszanką motywów znanych już z innych stron społecznościowych, jak i czymś zupełnie nowym i świeżym. Zakłądając konto na Mastodonie dokładasz cegiełkę do jej rozwoju.
+Polskojęzyczna kultura fediwersum jest mieszanką motywów znanych już z innych stron społecznościowych, jak i czymś zupełnie nowym i świeżym. Zakładając konto na Mastodonie dokładasz cegiełkę do jej rozwoju.
+
+A jak znaleźć jej przejawy? Zwracaj uwagę na hasztagi we wpisach innych ludzi.
 
 Poniżej wybór popularnych motywów i hasztagów znanych w polskiej społeczności. Lista ta zapewne nie jest kompletna:
 
@@ -19,11 +21,13 @@ Poniżej wybór popularnych motywów i hasztagów znanych w polskiej społeczno�
 
 - `#FediPomoc` i `#FediTipsPL` - tutaj warto zajrzeć lub poprosić o pomoc w sprawie Mastodona i innych aplikacji w fediwersum, zwłaszcza jeśli używasz ich od niedawna. Są tam ludzie, którzy chętnie odpowiedzą na Twoje pytania.
 
-- "Dzień dobry, smacznej kawusi" - nieco żartobliwa tradycja witania się na początku dnia, popularna też na Facebooku czy Twitterze. Czasem ludzie załączają do tego link do jakiegoś artykułu istotnego w danej chwili czy śmieszny obrazek lub mem.
+- **"Dzień dobry, smacznej kawusi"** - nieco żartobliwa tradycja witania się na początku dnia, popularna też na Facebooku czy Twitterze. Czasem ludzie załączają do tego link do jakiegoś artykułu istotnego w danej chwili czy śmieszny obrazek lub mem.
 
 - `#giereczkowo` - hasztag do rozmów o grach, głównie video, ale nie tylko. W odróżnieniu od nieco poważniej brzmiącego `#gry` chodzi to o gry jako przyjemną, niezobowiązującą formę rozrywki dla wszystkich.
 
-- John Mastodon - w grudniu 2022 r. pewien amerykański serwis opublikował artykuł o Twitterze. Jego autor wspomniał, że John Mastodon - twórca platformy nazwanej od jego imienia - stracił konto na Twitterze. Wiadomość była prawdą na zasadzie Radia Erewań - twórca Mastodona nazywa się Eugen "Gargron" Rochko, usunięte konto na Twitterze nazywało się "joinMastodon" (ang. "dołącz do Mastodona"), a nazwa Mastodon... to już wcześniej wyjaśnialiśmy. W każdym razie wywołało to falę wesołości i krąży jako żart również w polskiej społeczności. Ktoś nawet zarejestrował domenę [JohnMastodon.org](https://johnmastodon.org/) i przekierował ją na wpis Eugena. Zaś na potrzeby [sesji pytań i odpowiedzi na Reddicie](https://old.reddit.com/r/Mastodon/comments/zqfr4h/ama_with_eugen_rochko_founder_and_lead_developer/) Eugen założył konto o nazwie "NotJohnMastodon".
+- `#caturday`- sobota, dzień kota. Jest sobota i masz kota? Masz święty obowiązek wstawienia jego zdjęcia. A jeżeli akurat nie jest sobota, ale chcesz wstawić zdjęcie swojego kota, to pomocny może być tag `#mastocats` albo `#CatsOfMastodon`.
+
+- **John Mastodon** - w grudniu 2022 r. pewien amerykański serwis opublikował artykuł o Twitterze. Jego autor wspomniał, że John Mastodon - twórca platformy nazwanej od jego imienia - stracił konto na Twitterze. Wiadomość była prawdą w stylu Radia Erewań - twórca Mastodona nazywa się Eugen "Gargron" Rochko, usunięte konto na Twitterze nazywało się "joinMastodon" (ang. "dołącz do Mastodona"), a nazwa Mastodon... to już wcześniej wyjaśnialiśmy. W każdym razie wywołało to falę wesołości i krąży jako żart również w polskiej społeczności. Ktoś nawet zarejestrował domenę [JohnMastodon.org](https://johnmastodon.org/) i przekierował ją na wpis Eugena. Zaś na potrzeby [sesji pytań i odpowiedzi na Reddicie](https://old.reddit.com/r/Mastodon/comments/zqfr4h/ama_with_eugen_rochko_founder_and_lead_developer/) Eugen założył konto o nazwie "NotJohnMastodon".
 
 - popularne na polskim Mastodonie stają się też tzw. grupy Guppe Groups - podobne nieco do dawnych grup dyskusyjnych. Więcej na ten temat znajdziesz w [artykule Sebastiana](https://zb3.org/m0bi13/przekluwacz-baniek-w-fediversum-guppe-groups).
 

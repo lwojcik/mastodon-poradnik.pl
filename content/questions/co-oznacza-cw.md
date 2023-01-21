@@ -3,7 +3,7 @@ title: Co oznacza CW?
 slug: co-oznacza-cw
 ---
 
-**[!!!]**CW to skrót od anglojęzycznego 'Content Warning' i oznacza ostrzeżenie o zawartości. Ukrywa ono Twój wpis za jakimś tekstem, którego treść możesz samodzielnie ustawić. Funkcja ta pozwala osobie czytającej podjąć decyzję, czy chce rozwinąć i przeczytać wpis, czy też go pominąć. Działa on trochę jak link "Czytaj dalej".
+**[!!!]** CW to skrót od anglojęzycznego 'Content Warning' i oznacza ostrzeżenie o zawartości. Ukrywa ono Twój wpis za jakimś tekstem, którego treść możesz samodzielnie ustawić. Funkcja ta pozwala osobie czytającej podjąć decyzję, czy chce rozwinąć i przeczytać wpis, czy też go pominąć. Działa on trochę jak link "Czytaj dalej".
 
 Możesz używać ostrzeżeń o zawartości do oznaczania takich tematów jak:
 
