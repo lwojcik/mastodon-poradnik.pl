@@ -26,7 +26,8 @@ const generatePdf = () => {
       "--no-sandbox",
       "--disable-setuid-sandbox",
       "--font-render-hinting=none",
-      "--force-color-profile=srgb"
+      "--force-color-profile=srgb",
+      "--disable-web-security"
     ],
     margin: {
       top: "2.5cm",
