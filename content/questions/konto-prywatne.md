@@ -9,7 +9,7 @@ Na prywatnym koncie akceptujesz prośby o obserwowanie _poprzez interfejs Mastod
 
 **Ale...**
 
-{% emoji "❗", "czerwony wykrzyknik" %} Każde konto na Mastodonie (na serwerze bez modyfikacji) udostępnia także kanał RSS zawierający wszystkie publiczne i niewidoczne wpisy - to znaczy te wpisy, które są widoczne na stronie profilu danego konta. Nie trafiają tam wpisy tylko dla obserwujących ani wiadomości bezpośrednie. Jeśli [dodasz ostrzeżenie o zawartości (CW)](/co-oznacza-cw/), na kanale RSS będzie widoczna będzie tylko treść CW bez rozwinięcia.
+**[!!!]**Każde konto na Mastodonie (na serwerze bez modyfikacji) udostępnia także kanał RSS zawierający wszystkie publiczne i niewidoczne wpisy - to znaczy te wpisy, które są widoczne na stronie profilu danego konta. Nie trafiają tam wpisy tylko dla obserwujących ani wiadomości bezpośrednie. Jeśli [dodasz ostrzeżenie o zawartości (CW)](/co-oznacza-cw/), na kanale RSS będzie widoczna będzie tylko treść CW bez rozwinięcia.
 
 Twój kanał RSS jest dostępny pod adresem `https://<adres-twojego-serwera>/users/<twoja-nazwa-użytkownika>.rss`. Na przykład, w przypadku mojego konta `https://elekk.xyz/@noelle` kanał RSS znajduje się pod adresem `https://elekk.xyz/users/noelle.rss` (pamiętaj aby pominąć `@`!)
 

@@ -3,7 +3,7 @@ title: Jaka jest ogólnie przyjęta etykieta na Mastodonie?
 slug: etykieta-na-mastodonie
 ---
 
-Nie ma jednego sztywnego zestawu reguł dla wszystkich. Jak wspomnieliśmy wyżej, różne instancje mają różne zasady. Mimo to, wielu ludzi kieruje się kilkoma prostymi regułami, których celem jest uczynienie Mastodona miejscem bardziej przyjaznym dla wszystkich.
+Nie ma jednego sztywnego zestawu reguł dla całego fediwersum. Jak wspomnieliśmy wyżej, różne serwery mają różne zasady. Mimo to, wielu ludzi kieruje się kilkoma prostymi regułami, których celem jest uczynienie Mastodona (i całego fediwersum) miejscem bardziej przyjaznym dla wszystkich.
 
 - Jeśli załączasz obrazek do swojego wpisu, ale nie opisujesz go w treści, dodaj opis jego zawartości, aby ułatwić zrozumienie go przez osoby używające czytników ekranu. Wielu ludzi odmawia podbijania obrazków, jeżeli nie są one opisane.
 

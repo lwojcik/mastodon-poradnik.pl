@@ -3,7 +3,7 @@ title: No dobrze, to jak przekonać ludzi, że jestem osobą, za którą się po
 slug: metadane-na-mastodonie
 ---
 
-Instancje Mastodona umożliwiają dodanie metadanych do Twojego profilu - maksymalnie do 4 pozycji wyświetlonych w tabelce na stronie Twojego profilu. Dane te nie wliczają się w limit znaków opisu Twojego profilu.
+Instancje Mastodona umożliwiają dodanie metadanych do Twojego profilu - maksymalnie do 4 pozycji wyświetlonych w tabelce na stronie Twojego profilu, za pomocą których możesz podlinkować do innych stron lub podać identyfikatory do innych profili w mediach społecznościowych. Metadane nie wliczają się w limit znaków opisu Twojego profilu.
 
 Jeżeli wstawisz w te pola linki do innych Twoich stron, na niektórych instancjach znajdziesz możliwość zweryfikowania, czy te strony _należą do Ciebie_. W tym celu musisz dodać linku zwrotny do Twojego konta Mastodona na każdej z tych stron. Dla przykładu, jeżeli posiadasz stronę-wizytówkę, możesz dodać link do niej w metadanych Twojego konta na Mastodonie, a potem dodać link do Twojego profilu na Mastodonie w nagłówku Twojej strony. W ten sposób Mastodon zweryfikuje, że strona należy do Ciebie i zobaczysz, że link do tej strony w Twoim profilu będzie wyświetlany na zielonym tle ze znaczkiem :heavy_check_mark:.
 

@@ -3,7 +3,7 @@ title: Jak zmienić nazwę użytkownika?
 slug: zmiana-nazwy-uzytkownika
 ---
 
-{% emoji "❗", "czerwony wykrzyknik" %} W skrócie: nie da się. Gdy już wybierz nazwę użytkownika dla swojego konta, nie da się jej zmienić. Wybieraj z rozwagą.
+**[!!!]**W skrócie: nie da się. Gdy już wybierz nazwę użytkownika dla swojego konta, nie da się jej zmienić. Wybieraj z rozwagą.
 
 Rozwijając odpowiedź: jedyną możliwością zmiany nazwy użytkownika jest migracja konta (zobacz wyżej), ale nie zabierzesz ze sobą historii swoich wpisów.
 

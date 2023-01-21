@@ -7,7 +7,7 @@ Bazą wyjściową dla tego poradnika jest [{{ siteConfig.original.title }}]({{ s
 
 ### Spokojnie. Mastodon nie jest taki straszny!
 
-**Mastodon różni się dość znacznie od Twittera, ale da się do niego przyzwyczaić.** Wszystkie istotne różnice są oznaczone tym emoji {% emoji "❗", "czerwony wykrzyknik" %}; z góry przepraszamy, jeśli coś zostało pominięte. Dawno nas nie było na Twitterze!
+**Mastodon różni się dość znacznie od Twittera, ale da się do niego przyzwyczaić.** Wszystkie istotne różnice są oznaczone tym emoji **[!]**; z góry przepraszamy, jeśli coś zostało pominięte. Dawno nas nie było na Twitterze!
 
 Zarówno autorka oryginału, jak i autor tłumaczenia dołożyli wszelkich starań, aby brzmiało to przystępnie, ale sugestie zmian są mile widziane!
 
