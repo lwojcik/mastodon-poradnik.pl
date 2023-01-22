@@ -22,4 +22,4 @@ Istnieje też sporo materiałów anglojęzycznych:
 A jeśli nadal nie możesz znaleźć odpowiedzi na swoje pytanie, możesz także skontaktować się z:
 
 - autorem tłumaczenia: [{{ siteConfig.translation.author.mastodon.pl.url }}]({{ siteConfig.translation.author.mastodon.pl.url }})
-- autorką oryginalnej wersji (anglojęzycznej) tego poradnika: [{{ siteConfig.original.author.mastodon.url }}]({{ siteConfig.original.author.mastodon.url }})
+- autorką oryginalnej (anglojęzycznej) wersji tego poradnika: [{{ siteConfig.original.author.mastodon.url }}]({{ siteConfig.original.author.mastodon.url }})

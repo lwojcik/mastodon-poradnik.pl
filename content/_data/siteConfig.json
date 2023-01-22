@@ -72,5 +72,8 @@
   "pdf": {
     "format": "A4",
     "fileName": "mastodon-poradnik.pdf"
+  },
+  "github": {
+    "questions": "https://github.com/lwojcik/Mastodon-Poradnik/blob/main/content/questions"
   }
 }
