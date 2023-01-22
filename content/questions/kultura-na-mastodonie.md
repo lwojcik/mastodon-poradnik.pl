@@ -27,7 +27,9 @@ Poniżej wybór popularnych motywów i hasztagów znanych w polskiej społeczno�
 
 - `#caturday`- sobota, dzień kota. Jest sobota i masz kota? Masz święty obowiązek wstawienia jego zdjęcia. A jeżeli akurat nie jest sobota, ale chcesz wstawić zdjęcie swojego kota, to pomocny może być tag `#MastoCats` albo `#CatsOfMastodon`.
 
-- `#drogiBlipie` - w czasach popularności serwisu Blip.pl ten hashtag służył do zadawania pytań
+- "drogie słonie", "słonikować", "idę na słonia" - mastodont to taki wymarły włochaty słoń. Więc ludzie w Polsce nazywają czasem Mastodona "słoniem" albo "słonikiem", a czynność przeglądania lub publikowania na nim - "siedzieniem na słoniu" czy "słonikowaniem".
+
+- `#drogiBlipie` - w czasach popularności serwisu Blip.pl ten hashtag służył do zadawania pytań i proszenia o opinię szerszej społeczności.
 
 - **John Mastodon** - w grudniu 2022 r. pewien amerykański serwis opublikował artykuł o Twitterze. Jego autor wspomniał, że John Mastodon - twórca platformy nazwanej od jego imienia - stracił konto na Twitterze. Wiadomość była prawdą w stylu Radia Erewań - twórca Mastodona nazywa się Eugen "Gargron" Rochko, usunięte konto na Twitterze nazywało się "joinMastodon" (ang. "dołącz do Mastodona"), a nazwa Mastodon... to już wcześniej wyjaśnialiśmy. W każdym razie wywołało to falę wesołości i krąży jako żart również w polskiej społeczności. Ktoś nawet zarejestrował domenę [JohnMastodon.org](https://johnmastodon.org/) i przekierował ją na wpis Eugena. Zaś na potrzeby [sesji pytań i odpowiedzi na Reddicie](https://old.reddit.com/r/Mastodon/comments/zqfr4h/ama_with_eugen_rochko_founder_and_lead_developer/) Eugen założył konto o nazwie "NotJohnMastodon".
 
