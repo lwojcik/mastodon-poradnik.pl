@@ -44,6 +44,6 @@ Poniżej znajdziesz listę kroków do przejścia, aby **zmigrować** Twoje konto
 
 I gotowe! Miej na uwadze, że cała migracja oraz zaimportowanie Twoich danych może potrwać dłuższą chwilę - szczególnie jeśli przenosisz się z wielkiej lub długo istniejącej instancji.
 
-**[!!!]\*\***Ważne\*\*: Powyższy proces to najbliższa rzecz, jaką Mastodon ma do zaoferowania w kwestii zmiany nazwy użytkownika.
+**[!!!] Ważne**: Powyższy proces to najbliższa rzecz, jaką Mastodon ma do zaoferowania w kwestii zmiany nazwy użytkownika.
 
 Specjalne podziękowania dla [Teda](https://peoplemaking.games/@esdin) i arachnomyrmex'a za pomoc przy weryfikacji tej instrukcji!
