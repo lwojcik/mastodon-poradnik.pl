@@ -1,6 +1,6 @@
 # Mastodon-Poradnik
 
-**[Poradnik na temat Mastodona - mastodon-poradnik.pl](https://mastodon-poradnik.pl/)**
+**[Poradnik na temat Mastodona znajdziesz TUTAJ](https://mastodon-poradnik.pl/)**
 
 Do czytania offline: **[wersja PDF](https://mastodon-poradnik.pl/pdf)**, **[wersja EPUB](https://mastodon-poradnik.pl/epub)**
 
