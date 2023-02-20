@@ -154,6 +154,11 @@ module.exports = function (eleventyConfig) {
     return collection[value];
   });
 
+  eleventyConfig.addFilter(
+    "alwaysProductionUrl",
+    (path) => new URL(path, siteConfig.translation.url)
+  );
+
   eleventyConfig.addShortcode("currentYear", () =>
     new Date().getFullYear().toString()
   );
