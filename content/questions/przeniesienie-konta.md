@@ -19,7 +19,7 @@ Przy przekierowaniu konta możesz przenieść część swoich danych ręcznie. Z
 
 Jeżeli wybierzesz **migrację** konta, stanie się dokładnie to samo, co przy przekierowaniu konta. Ponadto **wszyscy, którzy Cię obserwują, automatycznie zaobserwują Twoje nowe konto** (dzięki czemu nikt nie będzie musiał drugi raz szukać i dodawać Cię do obserwowanych). _Możesz_ także przenieść swoich obserwowanych, listy, zablokowanych, wyciszonych, zablokowane domeny i zakładki - system nie zrobi tego automatycznie za Ciebie.
 
-**W żadnym z powyższych przypadków Twoje wpisy nie zostaną przeniesione. Na nowym koncie zawsze zaczynasz z pustą historią wpisów.**
+**W żadnym z powyższych przypadków nie zostaną przeniesione Twoje wpisy i subskrybowane hasztagi. Na nowym koncie zawsze zaczynasz z pustą historią wpisów.**
 
 Poniżej znajdziesz listę kroków do przejścia, aby **zmigrować** Twoje konto, wraz z kilkoma krokami opcjonalnymi (wiemy, że tych kroków jest dużo, ale dla ułatwienia pewne kwestie są rozdzielone).
 
