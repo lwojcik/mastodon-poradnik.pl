@@ -7,13 +7,17 @@ Tak i nie.
 
 Możesz tego dokonać na jeden z dwóch sposobów: poprzez **przekierowanie** albo **migrację** konta.
 
+## Przekierowanie konta
+
 Jeżeli wybierzesz **przekierowanie** konta, Twoje stare konto będzie wyświetlać komunikat o przeniesieniu i stracisz możliwość korzystania z niego (nie będzie się dało nic z niego opublikować). Zachowasz jednak możliwość wyeksportowania danych z tego konta oraz reaktywowania go w dowolnym momencie. Ludzie, którzy wejdą na Twoje stare konto, zobaczą informację, że można Cię znaleźć pod nowym adresem. Nic więcej nie zostanie przeniesione automatycznie.
 
 Aby ustawić przekierowanie konta przejdź na stronę `[adres Twojego serwera]/settings/migration/redirect/new` (na przykład elekk.xyz/settings/migration/redirect/new). Link ten znajdziesz na stronie poświeconej migracji konta. Wystarczy, że wpiszesz nazwę konta, do którego chcesz ustawić przekierowanie, a Mastodon zajmie się resztą.
 
 Przy przekierowaniu konta możesz przenieść część swoich danych ręcznie. Zobacz kroki 4-6 poniżej.
 
-Jeżeli wybierzesz **migrację** konta, stanie się dokładnie to samo, co przy przekierowaniu konta. **Oprócz tego jednak**, wszyscy, którzy Cię obserwują, automatycznie zaobserwują Twoje nowe konto (dzięki czemu nikt nie będzie musiał drugi raz szukać i dodawać Cię do obserwowanych). _Możesz_ także przenieść swoich obserwowanych, listy, zablokowanych, wyciszonych, zablokowane domeny i zakładki - system nie zrobi tego automatycznie za Ciebie.
+## Migracja konta
+
+Jeżeli wybierzesz **migrację** konta, stanie się dokładnie to samo, co przy przekierowaniu konta. Ponadto **wszyscy, którzy Cię obserwują, automatycznie zaobserwują Twoje nowe konto** (dzięki czemu nikt nie będzie musiał drugi raz szukać i dodawać Cię do obserwowanych). _Możesz_ także przenieść swoich obserwowanych, listy, zablokowanych, wyciszonych, zablokowane domeny i zakładki - system nie zrobi tego automatycznie za Ciebie.
 
 **W żadnym z powyższych przypadków Twoje wpisy nie zostaną przeniesione. Na nowym koncie zawsze zaczynasz z pustą historią wpisów.**
 
