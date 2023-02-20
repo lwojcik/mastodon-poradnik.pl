@@ -13,6 +13,7 @@
     "build:sass": "sass --no-source-map src/styles:_site/css",
     "watch:eleventy": "eleventy --serve",
     "build:eleventy": "eleventy",
+    "debug": "DEBUG=Eleventy* npm run watch:eleventy",
     "generate-epub": "node ./scripts/generate-epub.js",
     "generate-pdf": "node ./scripts/generate-pdf.js",
     "start": "npm run clean; npm-run-all build:sass --parallel watch:*",
