@@ -1,5 +1,5 @@
-const switchToDarkLabel = "Włącz tryb ciemny";
-const switchToLightLabel = "Włącz tryb jasny";
+const switchToDarkLabel = "Tryb ciemny";
+const switchToLightLabel = "Tryb jasny";
 const htmlThemeAttribute = "data-theme";
 const themeKey = "theme";
 const darkValue = "dark";
