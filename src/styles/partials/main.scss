@@ -5,6 +5,15 @@ body > main {
   margin-bottom: 0;
 }
 
+.container {
+  max-width: 780px;
+}
+
+nav[aria-label="breadcrumb"] {
+  padding-left: 16px;
+  padding-right: 16px;
+}
+
 a[href]:not(:where(
   [href^="#"],
   [href^="/"]:not([href^="//"]),
