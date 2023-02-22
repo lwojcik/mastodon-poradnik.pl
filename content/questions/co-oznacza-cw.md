@@ -34,4 +34,10 @@ Oprócz tego w ostrzeżeniach mogą znaleźć się dodatkowe informacje:
 
 Administracja niektórych serwerów może wymagać, aby wpisy o określonej tematyce były opatrzone ostrzeżeniami o zawartości. Nie jest to cenzura, lecz uprzejmość wobec ludzi, którzy patrzą na świat inaczej od nas i nie wynika to z ich świadomego wyboru. Dzięki ostrzeżeniom o zawartości osoby o zróżnicowanej wrażliwości na różne bodźce (np. w spektrum autyzmu, bojące się widoku pająków, cierpiące na depresję itp.) mogą świadomie pominąć niektóre treści i wciąż cieszyć się bezpieczną i zdrową platformą do rozmów i wymiany myśli.
 
-Jak formułować ostrzeżenia o zawartości? Kieruj się swoim najlepszym osądem. Zadaj sobie pytanie: "czy jest jakiś powód, dla którego ktoś mógłby nie chcieć na to patrzeć?". Masz możliwość, aby poświęcić zaledwie chwilkę czasu i uczynić fediwersum lepszym miejscem. Skorzystaj z tej możliwości!
+## Jak formułować ostrzeżenia o zawartości?
+
+Kieruj się swoim najlepszym osądem. Zadaj sobie pytanie: "czy jest jakiś powód, dla którego ktoś mógłby nie chcieć na to patrzeć?". Masz możliwość, aby poświęcić zaledwie chwilkę czasu i uczynić fediwersum lepszym miejscem. Skorzystaj z tej możliwości!
+
+## Nie lubię tych wszystkich CW, ich rozwijanie jest męczące
+
+Możesz wyłączyć wszystkie ostrzeżenia zawartości na Twojej osi czasu. Przejdź do preferencji Twojego konta, wejdź do zakładki **Wygląd** i zaznacz opcję **Zawsze rozwijaj wpisy oznaczone ostrzeżeniem o zawartości**.
