@@ -3,7 +3,7 @@ title: Co zrobić, gdy zobaczę, że ktoś łamie zasady?
 slug: lamanie-zasad
 ---
 
-Jeżeli zauważysz łamanie zasad, możesz to zgłosić. Kliknij w przycisk z wielokropkiem (`...`) pod wpisem naruszającym zasady i wybierz `Zgłoś @nazwa_uzytkownika` (opcja ta znajduje się zazwyczaj gdzieś na dole menu). Otworzy się okno, w którym możesz zaznaczyć inne wpisy zgłaszanego użytkownika, jak również wpisać _powód_ zgłoszenia, aby ułatwić moderacji zrozumienie, dlaczego wysyłasz zgłoszenie.
+Jeżeli zauważysz łamanie zasad, możesz to zgłosić. Kliknij w przycisk z wielokropkiem (`...`) pod wpisem naruszającym zasady i wybierz `Zgłoś @login_osoby_zglaszanej` (opcja ta znajduje się zazwyczaj gdzieś na dole menu). Otworzy się okno, w którym możesz zaznaczyć inne wpisy zgłaszanej osoby, jak również wpisać _powód_ zgłoszenia, aby ułatwić moderacji zrozumienie, dlaczego wysyłasz zgłoszenie.
 
 Jeżeli osoba naruszająca zasady jest na innej instancji, to obok powodu zgłoszenia znajdziesz także przełącznik umożliwiający przekazanie zgłoszenia do instancji tej osoby. W ten sposób zgłoszenie trafi nie tylko do moderacji Twojej instancji, ale również do moderacji tamtejszej instancji. Zanim jednak to zrobisz, **sprawdź reguły instancji, której używa zgłaszana przez Ciebie osoba**. Może się bowiem okazać, że z perspektywy tamtej instancji nie dochodzi do złamania reguł.
 

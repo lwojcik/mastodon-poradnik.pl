@@ -13,10 +13,10 @@ Możesz używać ostrzeżeń o zawartości do oznaczania takich tematów jak:
 - częste fobie, takie jak pająki czy krew
 - rozmowy o zdrowiu
 - rozmowy o wojnach i konfliktach zbrojnych
-- długie wpisy, które zajęłyby sporo miejsca na osiach czasu innych użytkowników
+- długie wpisy, które zajęłyby sporo miejsca na osiach czasu innych osób
 - komentarze do dyskusji trwających gdzieś indziej w fediwersum, często oznaczone jako "meta" czy "dyskusja" (ang. "discourse")
 
-Niektóre popularne skróty, które napotkasz w ostrzeżeniach u anglojęzycznych użytkowników:
+Niektóre popularne skróty, które napotkasz w ostrzeżeniach do wpisów anglojęzycznych:
 
 - mh: zdrowie psychiczne (od ang. _mental health_)
 - ph: zdrowie fizyczne (od ang. _physical health_)

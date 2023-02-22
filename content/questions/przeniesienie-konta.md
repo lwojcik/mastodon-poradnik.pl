@@ -19,7 +19,7 @@ Przy przekierowaniu konta możesz przenieść część swoich danych ręcznie. Z
 
 Jeżeli wybierzesz **migrację** konta, stanie się dokładnie to samo, co przy przekierowaniu konta. Ponadto **wszyscy, którzy Cię obserwują, automatycznie zaobserwują Twoje nowe konto** (dzięki czemu nikt nie będzie musiał drugi raz szukać i dodawać Cię do obserwowanych). _Możesz_ także przenieść swoich obserwowanych, listy, zablokowanych, wyciszonych, zablokowane domeny i zakładki - system nie zrobi tego automatycznie za Ciebie.
 
-**W żadnym z powyższych przypadków nie zostaną przeniesione Twoje wpisy i subskrybowane hasztagi. Na nowym koncie zawsze zaczynasz z pustą historią wpisów.**
+**W żadnym z powyższych przypadków nie zostaną przeniesione Twoje wpisy ani subskrybowane hasztagi. Na nowym koncie zawsze zaczynasz z pustą historią wpisów.**
 
 Poniżej znajdziesz listę kroków do przejścia, aby **zmigrować** Twoje konto, wraz z kilkoma krokami opcjonalnymi (wiemy, że tych kroków jest dużo, ale dla ułatwienia pewne kwestie są rozdzielone).
 
@@ -44,10 +44,10 @@ Poniżej znajdziesz listę kroków do przejścia, aby **zmigrować** Twoje konto
 
 8. Na Twoim **starym** koncie przejdź do Preferencji, a następnie do `Konto > Ustawienia konta`. Na dole tej strony, pod nagłówkiem `Przenieś konto` kliknij "**zrobić to tutaj**".
 
-9. Wpisz adres Twojego **nowego** konta w formacie `uzytkownik@instancja` oraz hasło do Twojego **starego konta**. W ten sposób Mastodon weryfikuje, że to Ty jesteś właścicielem konta (na wypadek, gdybyś zapomniał(a) się wylogować i ktoś inny używał Twojego komputera). Następnie kliknij "**Przenieś obserwujących**".
+9. Wpisz adres Twojego **nowego** konta w formacie `login@instancja` oraz hasło do Twojego **starego konta**. W ten sposób Mastodon weryfikuje, że konto należy do Ciebie. Następnie kliknij "**Przenieś obserwujących**".
 
 I gotowe! Miej na uwadze, że cała migracja oraz zaimportowanie Twoich danych może potrwać dłuższą chwilę - szczególnie jeśli przenosisz się z wielkiej lub długo istniejącej instancji.
 
-**[!!!] Ważne**: Powyższy proces to najbliższa rzecz, jaką Mastodon ma do zaoferowania w kwestii zmiany nazwy użytkownika.
+**[!!!] Ważne**: Powyższy proces to najbliższa rzecz, jaką Mastodon ma do zaoferowania w kwestii zmiany loginu.
 
 Specjalne podziękowania dla [Teda](https://peoplemaking.games/@esdin) i arachnomyrmex'a za pomoc przy weryfikacji tej instrukcji!

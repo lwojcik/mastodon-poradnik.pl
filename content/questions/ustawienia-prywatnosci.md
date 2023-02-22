@@ -16,13 +16,13 @@ To ustawienie oznacza, że wszyscy zobaczą Twój wpis. Pojawi się on na liści
 - na liście Twoich wpisów,
 - w osiach czasu Twoich obserwujących,
 - w lokalnych i globalnych osiach czasu,
-- na liście wspomnień u każdego, kogo oznaczysz za pomocą nazwy użytkownika.
+- na liście wspomnień u każdego, kogo oznaczysz za pomocą adresu.
 
 Twoje publiczne _odpowiedzi_ pojawią się:
 
 - na liście Twoich _wpisów i odpowiedzi_ (ale nie na liście Twoich wpisów - to osobna lista!)
 - w osiach czasu każdego z Twoich obserwujących, którzy _także_ obserwują osobę, której odpowiadasz,
-- na liście wspomnień u każdego, kogo oznaczysz za pomocą nazwy użytkownika.
+- na liście wspomnień u każdego, kogo oznaczysz za pomocą adresu.
 
 ## Niewidoczny (ang. <span lang="en">unlisted</span>)
 
@@ -32,7 +32,7 @@ To ustawienie oznacza, że każdy może zobaczyć Twój wpis, ale nie pojawi si�
 
 To ustawienie oznacza, że tylko ludzie, którzy Cię obserwują, oraz ludzie, których wspomnisz w treści wpisu mogą go zobaczyć w swoich osiach czasu lub na stronie Twojego profilu. Gdy ktoś spoza Twoich obserwujących otworzy Twój profil, nie zobaczy tych wpisów.
 
-Patrząc z perspektywy obserwujących Twój profil, wpisy tylko dla obserwujących działają dokładnie tak samo jako wpisy niewidoczne. **Twoje wpisy tylko dla obserwujących, w których wspominasz innego użytkownika, pojawią się we wspomnieniach u tego użytkownika, nawet jeżeli ta osoba nie obserwuje Cię!**
+Patrząc z perspektywy obserwujących Twój profil, wpisy tylko dla obserwujących działają dokładnie tak samo jako wpisy niewidoczne. **Twoje wpisy tylko dla obserwujących, w których wspominasz inną osobę, pojawią się we wspomnieniach u tej osoby, nawet jeżeli osoba ta nie obserwuje Cię!**
 
 ## [!!!] Tylko wspomniane osoby (ang. <span lang="en">mentioned people only</span>)
 

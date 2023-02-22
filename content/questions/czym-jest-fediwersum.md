@@ -9,7 +9,7 @@ Fediwersum, fediwers, fedi (ang. _"fediverse"_ albo _"fedi"_) - to rozproszony z
 
 W fediwersum istnieje mnóstwo różnych typów oprogramowania, na przykład Pixelfed, Friendica, Pleroma, Bookwyrm czy WriteFreely. Mastodon jest jednym z najpopularniejszych, i to na nim koncentrujemy swoją uwagę.
 
-Mimo to, używamy terminów "Mastodon" i "fediwersum" naprzemiennie, ponieważ to, co dzieje się na Mastodonie, widzą także użytkownicy innych aplikacji w fediwersum. Wielu ludzi korzystających na codzień z Mastodona może również posiadać konta w innych serwisach fediwersum.
+Mimo to, używamy terminów "Mastodon" i "fediwersum" naprzemiennie, ponieważ to, co dzieje się na Mastodonie, widoczne jest także z poziomu innych aplikacji w fediwersum. Wielu ludzi korzystających na codzień z Mastodona może również posiadać konta np. na Pixelfedzie.
 
 Jeżeli interesuje Cię, jakie inne serwisy dostępne są w fediwersum, może zainteresować Cię infografika ze strony [https://axbom.com/fediverse/](https://axbom.com/fediverse/). Prezentujemy ją poniżej.
 

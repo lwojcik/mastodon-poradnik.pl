@@ -19,7 +19,7 @@ Warto także mieć na uwadze, że osoby administrujące serwerami to wąskie gro
 
 Mogą też istnieć inne powody. Czasem powodem blokady danego serwera jest niepożadana aktywność na nim, naruszanie prywatności osób na innych serwerach czy też znacząco podwyższone zużycie zasobów innych instancji.
 
-A czasem niestety zdarza się, że niektóre serwery są blokowane prewencyjnie z arbitralnych powodów - np. wysokiej liczby użytkowników, kraju pochodzenia czy samego faktu, że instancja jest ogólnodostępna (a więc otwarta dla wszystkich). Bywa to kontrowersyjne, jednak należy pamiętać, że administracja ma pełne prawo swobodnie decydować o tym, kto komunikuje się z jej serwerem.
+A czasem niestety zdarza się, że niektóre serwery są blokowane prewencyjnie z arbitralnych powodów - np. wysokiej liczby zarejestrowanych kont, kraju pochodzenia czy samego faktu, że instancja jest ogólnodostępna (a więc otwarta dla wszystkich). Bywa to kontrowersyjne, jednak należy pamiętać, że administracja ma pełne prawo swobodnie decydować o tym, kto komunikuje się z jej serwerem.
 
 ## Używam serwera, który jest blokowany przez wiele innych serwerów, a to nie jest moja wina. Co robić, jak żyć?
 
