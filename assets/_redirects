@@ -3,4 +3,5 @@ https://mastodon-poradnik.netlify.app/* https://mastodon-poradnik.pl/:splat 301!
 https://mastodon-poradnik.netlify.app/* https://mastodon-poradnik.pl/:splat 301!
 /epub /mastodon-poradnik.epub 301!
 /pdf /mastodon-poradnik.pdf 301!
+/zmiana-nazwy-uzytkownika/ /zmiana-loginu/ 301!
 https://wiki.mastodon-poradnik.pl/* https://github.com/lwojcik/Mastodon-Poradnik/wiki/:splat 307!

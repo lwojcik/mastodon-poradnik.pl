@@ -25,6 +25,8 @@ Poniżej wybór popularnych motywów i hasztagów znanych w polskiej społeczno�
 
 - `#giereczkowo` - hasztag do rozmów o grach, głównie video, ale nie tylko. W odróżnieniu od nieco poważniej brzmiącego `#gry` chodzi to o gry jako przyjemną, niezobowiązującą formę rozrywki dla wszystkich.
 
+- `#literatura`, `#ksiazki`, `#ksiazkodon`, `#ksiazkary`, `#ksiazkowersum` (i pewnie jeszcze kilka pominęliśmy) - mnogość hasztagów skupiających osoby lubiące czytać książki.
+
 - `#caturday`- sobota, dzień kota. Jest sobota i masz kota? Masz święty obowiązek wstawienia jego zdjęcia. A jeżeli akurat nie jest sobota, ale chcesz wstawić zdjęcie swojego kota, to pomocny może być tag `#MastoCats` albo `#CatsOfMastodon`.
 
 - "drogie słonie", "słonikować", "idę na słonia" - mastodont to taki wymarły włochaty słoń. Więc ludzie w Polsce nazywają czasem Mastodona "słoniem" albo "słonikiem", a czynność przeglądania lub publikowania na nim - "siedzieniem na słoniu" czy "słonikowaniem".
