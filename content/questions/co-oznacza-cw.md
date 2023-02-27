@@ -12,11 +12,14 @@ Możesz używać ostrzeżeń o zawartości do oznaczania takich tematów jak:
 - tematy wzbudzające obrzydzenie
 - częste fobie, takie jak pająki czy krew
 - rozmowy o zdrowiu
+- rozmowy o jedzeniu
+- przemoc
 - rozmowy o wojnach i konfliktach zbrojnych
-- długie wpisy, które zajęłyby sporo miejsca na osiach czasu innych użytkowników
+- długie wpisy, które zajęłyby sporo miejsca na osiach czasu innych osób
+- wpisy zawierające sporo emoji, które byłyby problematyczne do odczytania przez czytniki ekranu
 - komentarze do dyskusji trwających gdzieś indziej w fediwersum, często oznaczone jako "meta" czy "dyskusja" (ang. "discourse")
 
-Niektóre popularne skróty, które napotkasz w ostrzeżeniach u anglojęzycznych użytkowników:
+Niektóre popularne skróty, które napotkasz w ostrzeżeniach do wpisów anglojęzycznych:
 
 - mh: zdrowie psychiczne (od ang. _mental health_)
 - ph: zdrowie fizyczne (od ang. _physical health_)
@@ -32,6 +35,12 @@ Oprócz tego w ostrzeżeniach mogą znaleźć się dodatkowe informacje:
 - 'boosts ok' / 'boosts appreciated' - prośba albo zachęta do podbicia wpisu
 - 'no boosts' / 'no favs' - informuje, że dana osoba nie życzy sobie, aby jej wpis był podbijany / dodawany do ulubionych i warto to uszanować
 
-Administracja niektórych serwerów może wymagać, aby wpisy o określonej tematyce były opatrzone ostrzeżeniami o zawartości. Nie jest to cenzura, lecz uprzejmość wobec ludzi, którzy patrzą na świat inaczej od nas i nie wynika to z ich świadomego wyboru. Dzięki ostrzeżeniom o zawartości osoby o zróżnicowanej wrażliwości na różne bodźce (np. w spektrum autyzmu, bojące się widoku pająków, cierpiące na depresję itp.) mogą świadomie pominąć niektóre treści i wciąż cieszyć się bezpieczną i zdrową platformą do rozmów i wymiany myśli.
+Administracja niektórych serwerów może wymagać, aby wpisy o określonej tematyce były opatrzone ostrzeżeniami o zawartości. Nie jest to cenzura, lecz uprzejmość wobec ludzi, którzy patrzą na świat inaczej od nas i nie wynika to z ich świadomego wyboru. Dzięki ostrzeżeniom o zawartości osoby o zróżnicowanej wrażliwości na różne bodźce (np. w spektrum autyzmu, bojące się widoku pająków, cierpiące na depresję, mające niezdrowe relacje z jedzeniem czy alkoholem) mogą świadomie pominąć niektóre treści i wciąż cieszyć się bezpieczną i zdrową platformą do rozmów i wymiany myśli.
 
-Jak formułować ostrzeżenia o zawartości? Kieruj się swoim najlepszym osądem. Zadaj sobie pytanie: "czy jest jakiś powód, dla którego ktoś mógłby nie chcieć na to patrzeć?". Masz możliwość, aby poświęcić zaledwie chwilkę czasu i uczynić fediwersum lepszym miejscem. Skorzystaj z tej możliwości!
+## Jak formułować ostrzeżenia o zawartości?
+
+Kieruj się swoim najlepszym osądem. Zadaj sobie pytanie: "czy jest jakiś powód, dla którego ktoś mógłby nie chcieć na to patrzeć?". Masz możliwość, aby poświęcić zaledwie chwilkę czasu i uczynić fediwersum lepszym miejscem. Skorzystaj z tej możliwości!
+
+## Nie lubię tych wszystkich CW, ich rozwijanie jest męczące
+
+Możesz wyłączyć wszystkie ostrzeżenia zawartości na Twojej osi czasu. Przejdź do preferencji Twojego konta, wejdź do zakładki **Wygląd** i zaznacz opcję **Zawsze rozwijaj wpisy oznaczone ostrzeżeniem o zawartości**.
