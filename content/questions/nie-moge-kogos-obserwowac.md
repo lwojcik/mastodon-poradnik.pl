@@ -3,7 +3,7 @@ title: Nie mogę dodać do obserwowanych kogoś, kogo znam.
 slug: nie-moge-kogos-obserwowac
 ---
 
-Jeżeli osoba, którą znasz, korzysta z innego serwera Mastodona, i nie jesteś w stanie dodać jej do obserwowanych (np. widzisz kłódkę na profilu, a ta osoba nie ma włączonego akceptowania prósb o obserwowanie) - oznacz to, że **serwer tej osoby blokuje komunikację z Twoim** (albo na odwrót). Proces blokowania komunikacji między serwerami bywa nazywany **defederacją**.
+Jeżeli osoba, którą znasz, korzysta z innego serwera Mastodona, i nie jesteś w stanie dodać jej do obserwowanych (np. widzisz kłódkę na profilu, a ta osoba nie ma włączonego akceptowania próśb o obserwowanie) - oznacz to, że **serwer tej osoby blokuje komunikację z Twoim** (albo na odwrót). Proces blokowania komunikacji między serwerami bywa nazywany **defederacją**.
 
 Komunikację między serwerami może zablokować każda osoba, kto używa danego serwera (wtedy nikt z zablokowanego serwera nie będzie mógł komunikować się z tą osobą), jak również administracja serwera (blokada jest wtedy skuteczna dla całej społeczności tego serwera).
 
