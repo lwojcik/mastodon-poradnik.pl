@@ -17,4 +17,4 @@ Jeżeli masz konto na GitHubie i chcesz pomóc przy tworzeniu oryginalnej (anglo
 
 Oryginalna (anglojęzyczna) wersja tej strony znajduje się pod adresem [{{ siteConfig.original.url }}]({{ siteConfig.original.url }}). Linkując do niej, podlinkuj również do [{{ siteConfig.original.author.mastodon.handle }}]({{ siteConfig.original.author.mastodon.url }}). Dzięki!
 
-Autorem tłumaczenia jest [{{ siteConfig.translation.author.name }}]({{ siteConfig.translation.author.url }}).
+Autorem oryginalnego tłumaczenia jest [{{ siteConfig.translation.author.name }}]({{ siteConfig.translation.author.url }}). Polskojęzyczna wersja jest uaktualniana i uzupełniana o dodatkowe treści niezależnie od wersji oryginalnej.
