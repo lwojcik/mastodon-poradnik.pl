@@ -11,7 +11,7 @@ Komunikację między serwerami może zablokować każda osoba, kto używa danego
 
 Jest to środek bezpieczeństwa.
 
-Z uwagi na rozproszoną naturę Mastodona i całego fediwersum, różne serwery samodzielnie decydują o tym, co na nich jest dozwolone. Nie zawsze zasady jednego serwera są kompatybilne z zasadami pozostałych i tworzy to pole do nadużyć. Osoby z grup marginalizowanych grup bywają nękane przez osoby z innych serwerów - często przy cichym przyzwoleniu, a nawet aktywnym udziale ich administracji.
+Z uwagi na rozproszoną naturę Mastodona i całego fediwersum, różne serwery samodzielnie decydują o tym, co na nich jest dozwolone. Nie zawsze zasady jednego serwera są kompatybilne z zasadami pozostałych i tworzy to pole do nadużyć. Osoby z grup marginalizowanych bywają nękane przez osoby z innych serwerów - często przy cichym przyzwoleniu, a nawet aktywnym udziale ich administracji.
 
 Jeżeli administracja i moderacja serwera, co do którego zgłaszane są nadużycia, nie reagują na nie, albo pole do nadużyć wynika bezpośrednio ze zbyt liberalnych zasad tego serwera (a nawet ich braku) - osoby administrujące innymi serwerami mogą zablokować komunikację z tym serwerem, aby nie narażać swoich społeczności na dalsze nadużycia i nękanie.
 
