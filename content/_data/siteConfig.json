@@ -30,22 +30,22 @@
     "url": "https://mastodon-poradnik.pl",
     "license": {
       "type": "MIT",
-      "url": "https://github.com/lwojcik/Mastodon-Poradnik/blob/main/LICENSE"
+      "url": "https://github.com/lwojcik/mastodon-poradnik.pl/blob/main/LICENSE"
     },
     "repo": {
-      "issues": "https://github.com/lwojcik/Mastodon-Poradnik/issues"
+      "issues": "https://github.com/lwojcik/mastodon-poradnik.pl/issues"
     },
     "author": {
       "name": "Łukasz Wójcik",
-      "url": "https://www.lukaszwojcik.net",
+      "url": "https://lukaszwojcik.net",
       "mastodon": {
         "en": {
-          "url": "https://masto.ai/@lukem",
-          "handle": "@lukem@masto.ai"
+          "url": "https://hachyderm.io/@lukem",
+          "handle": "@lukem@hachyderm.io"
         },
         "pl": {
-          "url": "https://mastodon.pl/@lukaszwojcik",
-          "handle": "@lukaszwojcik@mastodon.pl"
+          "url": "https://pol.social/@lukem",
+          "handle": "@lukem@pol.social"
         }
       }
     }
@@ -74,6 +74,6 @@
     "fileName": "mastodon-poradnik.pdf"
   },
   "github": {
-    "questions": "https://github.com/lwojcik/Mastodon-Poradnik/blob/main/content/questions"
+    "questions": "https://github.com/lwojcik/mastodon-poradnik.pl/blob/main/content/questions"
   }
 }
