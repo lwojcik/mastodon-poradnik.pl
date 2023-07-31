@@ -3,7 +3,7 @@ title: Chcę rozmawiać z ludźmi po polsku. Jak wybrać instancję?
 slug: wybor-instancji-polska
 ---
 
-Jeżeli nie interesuje Cię obcojęzyczna część fediwersum, Twoim najlepszym wyborem będzie jedna z instancji dedykowanych polskojęzycznej społeczności. Najstarszą polską instancją jest [101010.pl](https://101010.pl). Są też inne, takie jak [pol.social](https://pol.social/) czy [mastodon.pl](https://mastodon.pl).
+Jeżeli nie interesuje Cię obcojęzyczna część fediwersum, Twoim najlepszym wyborem będzie jedna z instancji dedykowanych polskojęzycznej społeczności. Najstarszą polską instancją jest [101010.pl](https://101010.pl). Są też inne, takie jak [pol.social](https://pol.social/), [wspanialy.eu](https://wspanialy.eu/) czy [mastodon.pl](https://mastodon.pl).
 
 Istnieją także (wciąż nieliczne, ale jednak) instancje tematyczne: [social.puczat.pl](https://social.puczat.pl/) dla osób po kryzysach psychicznych. Dla osób o szeroko rozumianych poglądach lewicowych istnieje [lewacki.space](https://lewacki.space/) oraz [spojnik.works](https://spojnik.works).
 
