@@ -27,6 +27,6 @@ Mastodon jest jednym z najpopularniejszych typów oprogramowania w fediwersum, i
 
 Jeżeli interesuje Cię, jakie inne serwisy dostępne są w fediwersum, może zainteresować Cię infografika ze strony [https://axbom.com/fediverse/](https://axbom.com/fediverse/). Prezentujemy ją poniżej.
 
-Autorem grafiki jest [Axbom](https://axbom.com/fediverse/). Dostępna jest na licencji CC BY-SA.
+Autorem grafiki jest [Per Axbom](https://axbom.com/fediverse/). Dostępna jest na licencji CC BY-SA.
 
 ![Grafika prezentująca różne serwisy fediwersum pogrupowane według przeznaczenia](https://raw.githubusercontent.com/lwojcik/Mastodon-Poradnik/main/assets/images/fediverse-branches-axbom-30-CC-BY-SA.webp)
