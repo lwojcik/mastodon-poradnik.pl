@@ -44,3 +44,13 @@ Kieruj się swoim najlepszym osądem. Zadaj sobie pytanie: "czy jest jakiś pow�
 ## Nie lubię tych wszystkich CW, ich rozwijanie jest męczące
 
 Możesz wyłączyć wszystkie ostrzeżenia zawartości na Twojej osi czasu. Przejdź do preferencji Twojego konta, wejdź do zakładki **Wygląd** i zaznacz opcję **Zawsze rozwijaj wpisy oznaczone ostrzeżeniem o zawartości**.
+
+## Ojej, ktoś nie używa ostrzeżeń o zawartości!
+
+Pamiętaj, że ostrzeżenia o zawartości to _tylko i wyłącznie_ przyjęty zwyczaj i uprzejmość wobec innych. Każda osoba ma pełną dowolność co do tego, czy chce korzystać z tej funkcji. Tak długo, jak nie łamie zasad na swoim serwerze, **nie musi** tego robić. Dla wielu osób pewne tematy są integralną częścią ich życia lub kultury.
+
+Jeżeli przyszło Ci do głowy upomnienie kogoś, bo nie używa ostrzeżeń o zawartości - **nie rób tego, serio**. Zjawisko to jest nazywane 'tone policing', często zdarza się przy wpisach poruszających nieprzyjemne tematy lub osobiste przeżycia innych osób i jest bardzo niemile widziane w społeczności.
+
+Nie zachowuj się jak internetowa policja i nie pouczaj innych. Pozwól ludziom korzystać z Mastodona tak, jak im się podoba.
+
+Pamiętaj, że dysponujesz także innymi narzędziami, które pozwalają ukrywać pewne treści na Twojej osi czasu. Może wystarczy odfiltrowanie konkretnego słowa lub hasztaga?
