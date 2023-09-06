@@ -11,7 +11,7 @@ Ponadto możesz skorzystać z poradników, które prezentują inną perspektyw�
 
 - [Sebastian](https://mastodon.social/m0bi13) prowadzi [blog na temat Mastodona i fediwersum](https://zb3.org/m0bi13),
 - [Agnieszka R. Turczyńska](https://circumstances.run/@agturcz) napisała ["tootorial" o zakładaniu i korzystaniu z konta w fediwersum na przykładzie Mastodona](https://zb3.org/agturcz/pl-jak-zalozyc-konto-na-fediverse-i-jak-z-niego-korzystac-tootorial),
-- [Jacek Zadrożny](https://101010.pl/@jaczad) napisał [poradnik do Mastodona dla osób niewidomych](https://informaton.blog/2021/10/17/poradnik-do-mastodona-dla-osob-niewidomych/).
+- [Jacek Zadrożny](https://101010.pl/@jaczad) napisał [poradnik do Mastodona dla osób niewidomych](https://informaton.blog/2021-10-17-poradnik-do-mastodona-dla-osob-niewidomych/).
 
 Istnieje też sporo materiałów anglojęzycznych:
 
@@ -21,5 +21,5 @@ Istnieje też sporo materiałów anglojęzycznych:
 
 A jeśli nadal nie możesz znaleźć odpowiedzi na swoje pytanie, możesz także skontaktować się z:
 
-- autorem tłumaczenia: [{{ siteConfig.translation.author.mastodon.pl.url }}]({{ siteConfig.translation.author.mastodon.pl.url }})
+- autorem tłumaczenia: [{{ siteConfig.translation.author.mastodon.en.url }}]({{ siteConfig.translation.author.mastodon.en.url }})
 - autorką oryginalnej (anglojęzycznej) wersji tego poradnika: [{{ siteConfig.original.author.mastodon.url }}]({{ siteConfig.original.author.mastodon.url }})
