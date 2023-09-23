@@ -21,4 +21,5 @@ Nie ma jednego sztywnego zestawu reguł dla całego fediwersum. Jak wspomnieliś
   - Przejrzyj całą konwersację i upewnij się, że ktoś już wcześniej nie napisał tego samego, co Ty
   - Upewnij się, że ton Twojego komentarza pasuje do tej konwersacji, jest uprzejmy i pozwala rozstrzygać wątpliwości na korzyść innych rozmówców w konwersacji.
   - Angielskie słowo "noadvice", jako hasztag albo treść CW, oznacza, że autor wpisu chce się tylko wyżalić i nie oczekuje pomocy ani porad. Miłe słowa i wyrazy współczucia są jednak bardzo na miejscu.
+
 - Pamiętaj, że jeżeli ktoś nie odpowiada na Twoją wiadomość, to nie oznacza że Cię ignoruje. Może tej osoby akurat nie ma na Mastodonie. Może ma już tyle powiadomień, że przeoczyła Twój wpis. Może ta osoba całkiem wyciszyła konwersację, a wtedy Twoja odpowiedź nie będzie u niej widoczna! Ludzie mogą przegapić wpisy z wielu powodów, nawet jeśli są one skierowane bezpośrednio do nich. Nie bierz tego do siebie.

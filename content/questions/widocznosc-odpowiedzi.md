@@ -3,7 +3,7 @@ title: Dlaczego nie widzę wszystkich odpowiedzi pod cudzym wpisem?
 slug: widocznosc-odpowiedzi
 ---
 
-W dużym uproszczeniu: widzisz tyle, ile widzi Twój serwer - a widzi tyle, ile widzą ludzie mający konta na nim.
+W dużym uproszczeniu: widzisz tyle, ile widzi Twój serwer - a widzi tyle, ile widzą osoby korzystające z niego.
 
 Wpisy i reakcje osób z innych serwerów są widoczne tylko wtedy, gdy minimum jedna osoba z Twojego serwera doda kogoś z tego serwera do swojej listy obserwowanych. Twój serwer nie jest w stanie wyświetlić Ci odpowiedzi dodanej przez osobę, której nikt z Twojego serwera nie obserwuje.
 

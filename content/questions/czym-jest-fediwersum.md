@@ -21,7 +21,7 @@ Istnieje mnóstwo różnych typów oprogramowania w fediwersum, na przykład:
 - WriteFreely - platforma blogowa
 - i wiele innych
 
-Mając konto na Mastodonie, możesz dodać do obserwowanych kogoś, kto ma konto na którymkolwiek z serwisów z powyższej listy i widzieć wpisy tej osoby w swojej osi czasu.
+Mając konto na Mastodonie, możesz dodać do obserwowanych kogoś, kto ma konto na którymkolwiek z serwisów z powyższej listy i widzieć wpisy tej osoby w swojej osi czasu. Możesz także mieć osobne konta na każdym z tych serwisów z osobna (i wiele osób tak robi), ale jest to absolutnie opcjonalne.
 
 Mastodon jest jednym z najpopularniejszych typów oprogramowania w fediwersum, i to na nim koncentrujemy swoją uwagę. Czasem jednak używamy terminów "Mastodon" i "fediwersum" naprzemiennie, ponieważ to, co dzieje się na Mastodonie, widoczne jest także z poziomu innych aplikacji w fediwersum. Wielu ludzi korzystających na codzień z Mastodona może również posiadać konta w innych serwisach, np. Pixelfedzie czy Kbinie.
 

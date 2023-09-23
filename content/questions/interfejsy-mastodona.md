@@ -9,4 +9,6 @@ Halcyon - [https://notabug.org/halcyon-suite/halcyon](https://notabug.org/halcyo
 
 Innym stosunkowo nowym projektem jest Elk - [https://elk.zone/](https://elk.zone/).
 
+Jeszcze dłuższą listę zewnętrznych interfejsów znajdziesz w [wiki należącej do tego poradnik](https://github.com/lwojcik/mastodon-poradnik.pl/wiki/Aplikacje-klienckie#www).
+
 Pamiętaj, że wszystkie narzędzia powyżej są zewnętrznymi klientami, należącymi do kogoś innego niż administracja Twojej instancji. Upewnij się, że masz do nich wystarczająco dużo zaufania, aby powierzyć im swoje dane logowania!

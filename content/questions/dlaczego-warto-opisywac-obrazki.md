@@ -9,7 +9,7 @@ Z Mastodona korzystają różni ludzie. Są tacy, którzy mają problemy ze wzro
 
 Dyski i serwery bywają czasem kapryśne. Administracja Twojej instancji może zdecydować o usunięciu starych plików, a wtedy Twój obrazek już się nie wyświetli.
 
-A czasem może się zdarzyć, że to, co chcesz pokazać na obrazku, będzie mało czytelne albo zbyt abstrakcyjne. Dla niektórzych Twoje poczucie humoru może być zbyt zawoalowane, nawet dla osób z doskonałym wzrokiem i nielimitowanym dostępem do sieci.
+A czasem może się zdarzyć, że to, co chcesz pokazać na obrazku, będzie mało czytelne albo zbyt abstrakcyjne. Dla niektórych osób Twoje poczucie humoru może być zbyt abstrakcyjne lub zawoalowane - nawet mimo doskonałego wzroku i nielimitowanego dostępu do sieci.
 
 Dzięki opisom do obrazków szeroka grupa ludzi może wchodzić w interakcję z Twoimi treściami znając ich pełen kontekst.
 

@@ -15,8 +15,6 @@ Aby ustawić przekierowanie konta przejdź na stronę `[adres Twojego serwera]/s
 
 Przy przekierowaniu konta możesz przenieść część swoich danych ręcznie. Zobacz kroki 4-6 poniżej.
 
-Jeżeli korzystasz z list do porządkowania obserwowanych kont, te również nie zostaną przeniesione. Możesz jednak przenieść je za pomocą zewnętrznego narzędzia - [masto-list-importer](https://www.eliotlash.com/masto-list-importer/).
-
 ## Migracja konta
 
 Jeżeli wybierzesz **migrację** konta, stanie się dokładnie to samo, co przy przekierowaniu konta. Ponadto **wszyscy, którzy Cię obserwują, automatycznie zaobserwują Twoje nowe konto** (dzięki czemu nikt nie będzie musiał drugi raz szukać i dodawać Cię do obserwowanych). _Możesz_ także przenieść swoich obserwowanych, listy zablokowanych, wyciszonych, zablokowane domeny i zakładki - system nie zrobi tego automatycznie za Ciebie.

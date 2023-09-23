@@ -32,10 +32,11 @@ Niektóre popularne skróty, które napotkasz w ostrzeżeniach do wpisów angloj
 Oprócz tego w ostrzeżeniach mogą znaleźć się dodatkowe informacje:
 
 - `+` i `-` w połączeniu z innym skrótem (np. `mh+` albo `mh-`) sygnalizuje czy informacja jest pozytywna czy negatywna
+- `~` jest stanem pośrednim między `+` a `-` - czyli `mh~` oznacza stan bez zmian od czasu wcześniejszego statusu - czyli takie "bywało lepiej"
 - 'boosts ok' / 'boosts appreciated' - prośba albo zachęta do podbicia wpisu
 - 'no boosts' / 'no favs' - informuje, że dana osoba nie życzy sobie, aby jej wpis był podbijany / dodawany do ulubionych i warto to uszanować
 
-Administracja niektórych serwerów może wymagać, aby wpisy o określonej tematyce były opatrzone ostrzeżeniami o zawartości. Nie jest to cenzura, lecz uprzejmość wobec ludzi, którzy patrzą na świat inaczej od nas i nie wynika to z ich świadomego wyboru. Dzięki ostrzeżeniom o zawartości osoby o zróżnicowanej wrażliwości na różne bodźce (np. w spektrum autyzmu, bojące się widoku pająków, cierpiące na depresję, mające niezdrowe relacje z jedzeniem czy alkoholem) mogą świadomie pominąć niektóre treści i wciąż cieszyć się bezpieczną i zdrową platformą do rozmów i wymiany myśli.
+Administracja niektórych serwerów może wymagać, aby wpisy o określonej tematyce były opatrzone ostrzeżeniami o zawartości. Nie jest to cenzura, lecz uprzejmość wobec ludzi, którzy patrzą na świat inaczej od nas i nie wynika to z ich świadomego wyboru. Dzięki ostrzeżeniom o zawartości osoby o zróżnicowanej wrażliwości na różne bodźce (np. w spektrum autyzmu, bojące się widoku pająków, cierpiące na depresję, mające niezdrowe relacje z jedzeniem czy alkoholem itp.) mogą świadomie pominąć niektóre treści i wciąż cieszyć się bezpieczną i zdrową platformą do rozmów i wymiany myśli.
 
 ## Jak formułować ostrzeżenia o zawartości?
 

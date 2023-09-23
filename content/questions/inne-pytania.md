@@ -19,6 +19,8 @@ Istnieje też sporo materiałów anglojęzycznych:
 - [Ted](https://peoplemaking.games/esdin) prowadzi [dokument z poradami i FAQ](https://docs.google.com/document/d/1gln7Lg92Vz3TbIjz6qZkpdPOxDAe63jof5snpR4xAa0/),
 - [elilla](https://transmom.love/@elilla) napisała [futurystyczne wprowadzenie do Mastodona](https://wordsmith.social/elilla/a-futuristic-mastodon-introduction-for-2021).
 
+Jeszcze więcej linków do ciekawych materiałów o Mastodonie znajdziesz w [wiki obok tego poradnika](https://github.com/lwojcik/mastodon-poradnik.pl/wiki/Ciekawe-linki).
+
 A jeśli nadal nie możesz znaleźć odpowiedzi na swoje pytanie, możesz także skontaktować się z:
 
 - autorem tłumaczenia: [{{ siteConfig.translation.author.mastodon.en.url }}]({{ siteConfig.translation.author.mastodon.en.url }})

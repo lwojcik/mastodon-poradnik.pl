@@ -7,7 +7,7 @@ Jeżeli osoba, którą znasz, korzysta z innego serwera Mastodona, i nie jesteś
 
 Komunikację między serwerami może zablokować każda osoba, kto używa danego serwera (wtedy nikt z zablokowanego serwera nie będzie mógł komunikować się z tą osobą), jak również administracja serwera (blokada jest wtedy skuteczna dla całej społeczności tego serwera).
 
-## Dlaczego administracja blokuje niektóre serwery?
+## Dlaczego niektóre serwery są blokowane?
 
 Jest to środek bezpieczeństwa.
 
@@ -17,7 +17,7 @@ Jeżeli administracja i moderacja serwera, co do którego zgłaszane są naduży
 
 Warto także mieć na uwadze, że osoby administrujące serwerami to wąskie grono. Często znają się nawzajem i wymieniają się informacjami. Defederacja na jednym popularnym serwerze może pociągnąć za sobą efekt kuli śnieżnej na innych, znacząco ograniczając zasięg blokowanego serwera w fediwersum.
 
-Mogą też istnieć inne powody. Czasem powodem blokady danego serwera jest niepożadana aktywność na nim, naruszanie prywatności osób na innych serwerach czy też znacząco podwyższone zużycie zasobów innych instancji.
+Mogą też istnieć inne powody. Czasem powodem blokady danego serwera jest stwierdzenie niepożadanej aktywności na nim, naruszanie prywatności osób na innych serwerach czy też znacząco podwyższone zużycie zasobów innych instancji.
 
 A czasem niestety zdarza się, że niektóre serwery są blokowane prewencyjnie z arbitralnych powodów - np. wysokiej liczby zarejestrowanych kont, kraju pochodzenia czy samego faktu, że instancja jest ogólnodostępna (a więc otwarta dla wszystkich). Bywa to kontrowersyjne - jednak należy pamiętać, że na każdym serwerze administracja ma pełne prawo swobodnie decydować o tym, komu zezwolić na komunikację, a komu nie.
 
@@ -25,6 +25,6 @@ A czasem niestety zdarza się, że niektóre serwery są blokowane prewencyjnie 
 
 Bardzo nam przykro. Istnieją dwa wyjścia z tej sytuacji:
 
-1. Jeżeli chcesz nadal korzystać ze swojego serwera, bezpośredni powód blokady nie jest już aktualny, albo uważasz że serwer jest blokowany niesłusznie - **wywieraj nacisk na administrację swojego serwera, aby spróbowała dogadać się z administratorami innych instancji w sprawie zdjęcia blokad**. Sensownym rozwiązaniem może też być zmiana standardów moderacji, aby takie sytuacje nie powtarzały się.
+1. Jeżeli chcesz nadal korzystać ze swojego serwera, bezpośredni powód blokady nie jest już aktualny, albo uważasz że serwer jest blokowany niesłusznie - **wywieraj nacisk na administrację swojego serwera, aby spróbowała dogadać się z administracjami innych instancji w sprawie zdjęcia blokad**. Sensownym rozwiązaniem może też być zmiana standardów moderacji, aby takie sytuacje nie powtarzały się.
 
 1. Jeżeli powyższe nie zadziała - rozważ [**przeniesienie na inny serwer**](/przeniesienie-konta/) albo załóż drugie konto na innym serwerze o lepszej reputacji.

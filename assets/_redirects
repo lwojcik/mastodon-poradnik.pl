@@ -5,3 +5,4 @@ https://mastodon-poradnik.netlify.app/* https://mastodon-poradnik.pl/:splat 301!
 /pdf /mastodon-poradnik.pdf 301!
 /zmiana-nazwy-uzytkownika/ /zmiana-loginu/ 301!
 https://wiki.mastodon-poradnik.pl/* https://github.com/lwojcik/Mastodon-Poradnik/wiki/:splat 307!
+/czym-sa-hasztagi/ /jak-dzialaja-hasztagi/ 301!

@@ -8,3 +8,7 @@ Możliwe, że nie jesteś na Mastodonie! Fediwersum to wielki zbiór serwerów p
 Niektóre typy serwerów są wyspecjalizowane w jednej rzeczy. Dla przykładu, Pixelfed - serwis przemyślany jako alternatywa dla Instagrama - prezentuje tylko wpisy z dołączonymi grafikami / zdjęciami i nie pozwala na dodawanie wpisów tekstowych. Bookwyrm - alternatywa dla Goodreads - umożliwia ludziom tworzenie wirtualnych półek z książkami.
 
 Niestety nasza wiedza na temat innych serwerów jest mocno ograniczona. Jeżeli potrzebujesz pomocy, zapytaj osoby używające tych serwisów czy istnieje poradnik taki jak ten.
+
+## Ale ja jestem na Mastodonie!
+
+Być może Twój serwer używa przestarzałej wersji. Mastodon to oprogramowanie rozwijane na bieżąco i co jakiś czas otrzymuje nowe funkcje. Jeżeli administracja Twojego serwera nie planuje wykonania aktualizacji, to niestety jedynym wyjściem jest zmiana serwera.
