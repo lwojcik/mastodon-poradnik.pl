@@ -1,5 +1,5 @@
 ---
-title: Jak działa wyszukiwanie?
+title: Jak działa wyszukiwarka? Czy da się wyszukiwać wpisy?
 slug: wyszukiwanie
 ---
 

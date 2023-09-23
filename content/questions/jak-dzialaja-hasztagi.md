@@ -1,6 +1,6 @@
 ---
 title: Jak działają hasztagi?
-slug: jak dzialaja-hasztagi
+slug: jak-dzialaja-hasztagi
 ---
 
 Hasztagi to słowa opatrzone znakiem "#" umożliwiające zgrupowanie wpisów o podobnej tematyce na jednej osi czasu.
