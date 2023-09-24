@@ -1,5 +1,5 @@
 ---
-title: Dlaczego nie mogę zacytować czyjegoś wpisu jak na Twitterze?
+title: Dlaczego nie mogę zacytować czyjegoś wpisu jak na X / Twitterze?
 slug: cytowanie-wpisow
 ---
 

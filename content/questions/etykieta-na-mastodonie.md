@@ -15,7 +15,7 @@ Nie ma jednego sztywnego zestawu reguł dla całego fediwersum. Jak wspomnieliś
 
 - Jeżeli tworzysz bota, który publikuje treści automatycznie, ustaw go tak, aby [publikował wpisy jako niewidoczne](/ustawienia-prywatnosci/). W ten sposób zmniejszysz ryzyko, że Twój bot zostanie oflagowany jako spam.
 
-- Jeżeli używasz skryptu, który przesyła Twoje wpisy z Twittera na Twoje konto na Mastodonie, ustaw go tak, aby wpisy zawierały ostrzeżenie o zawartości (CW). W ten sposób nawet wpisy na wrażliwe tematy będą poprawnie oznaczone na Mastodonie.
+- Jeżeli używasz skryptu, który przesyła Twoje wpisy z X / Twittera na Twoje konto na Mastodonie, ustaw go tak, aby wpisy zawierały ostrzeżenie o zawartości (CW). W ten sposób nawet wpisy na wrażliwe tematy będą poprawnie oznaczone na Mastodonie.
 
 - Jeżeli widzisz konwersację i chciałbyś dodać w niej coś od siebie:
   - Przejrzyj całą konwersację i upewnij się, że ktoś już wcześniej nie napisał tego samego, co Ty

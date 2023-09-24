@@ -7,7 +7,7 @@ Bazą wyjściową dla tego poradnika jest [{{ siteConfig.original.title }}]({{ s
 
 ### Spokojnie. Mastodon nie jest taki straszny!
 
-**Mastodon jest podobny do innych sieci społecznościowych, zwłaszcza do Twittera, ale nie jest ich bezpośrednim zamiennikiem.** Wszystkie istotne różnice są oznaczone tak: **[!!!]**; z góry przepraszamy, jeśli coś zostało pominięte.
+**Mastodon ma wiele wspólnego z innymi sieciami społecznościowymi, zwłaszcza X / Twitterem, choć nie jest ich bezpośrednim zamiennikiem.** Wszystkie istotne różnice są oznaczone tak: **[!!!]**; z góry przepraszamy, jeśli coś zostało pominięte.
 
 Zarówno autorka oryginału, jak i autor tłumaczenia dołożyli wszelkich starań, aby brzmiało to przystępnie, ale sugestie zmian są mile widziane!
 

@@ -7,11 +7,11 @@ slug: czym-jest-fediwersum
 
 Fediwersum, fediwers, fedi (ang. _"fediverse"_ albo _"fedi"_) - to rozproszony zbiór serwerów, które porozumiewają się ze sobą za pomocą protokołów ActivityPub lub OStatus.
 
-Mówiąc prostszym językiem - to taka część internetu, w której funkcjonują odpowiedniki popularnych platform społecznościowych: Twittera, Instagrama, YouTube, Wykopu i wielu innych, ale różniąca się od nich jedną szczególną cechą.
+Mówiąc prostszym językiem - to taka część internetu, w której funkcjonują odpowiedniki popularnych platform społecznościowych: X / Twittera, Instagrama, YouTube, Wykopu i wielu innych, ale różniąca się od nich jedną szczególną cechą.
 
-Otóż wyobraź sobie, że używając Twittera, możesz na swoim koncie zobaczyć filmy z kanałów YouTube, zdjęcia z Instagrama czy linki z Wykopu. W "tradycyjnym" świecie wymaga to zakładania osobnych kont w każdym serwisie z osobna.
+Otóż wyobraź sobie, że używając X / Twittera, możesz na swoim koncie zobaczyć filmy z kanałów YouTube, zdjęcia z Instagrama czy linki z Wykopu. W "tradycyjnym" świecie wymaga to zakładania osobnych kont w każdym serwisie z osobna.
 
-Fediwersum to taki zbiór małych Twitterów, YouTube'ów, Instagramów i Wykopów, działających niezależnie od siebie i prowadzonych przez różne osoby lub instytucje.
+Fediwersum to taki zbiór małych X / Twitterów, YouTube'ów, Instagramów i Wykopów, działających niezależnie od siebie i prowadzonych przez różne osoby lub instytucje.
 
 Istnieje mnóstwo różnych typów oprogramowania w fediwersum, na przykład:
 
