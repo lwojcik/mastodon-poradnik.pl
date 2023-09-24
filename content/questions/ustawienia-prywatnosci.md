@@ -11,22 +11,22 @@ Masz do dyspozycji następujące ustawienia:
 
 ## Publiczny (ang. <span lang="en">public</span>)
 
-To ustawienie oznacza, że wszyscy zobaczą Twój wpis. Pojawi się on na liście Twoich wpisów oraz na osiach czasu Twoich obserwujących. Twoje _samodzielne wpisy_ i _odpowiedzi na własne wpisy_ ustawione jako publiczne pojawią się:
+To ustawienie oznacza, że wszyscy zobaczą Twój wpis. Pojawi się on na liście Twoich wpisów i na osiach czasu Twoich obserwujących. Twoje _samodzielne wpisy_ i _odpowiedzi na własne wpisy_ ustawione jako publiczne pojawią się:
 
 - na liście Twoich wpisów,
 - w osiach czasu Twoich obserwujących,
-- w lokalnych i globalnych osiach czasu,
-- na liście wspomnień u każdego, kogo oznaczysz za pomocą adresu.
+- w kanałach na żywo,
+- na liście wspomnień u każdego, kogo oznaczysz za pomocą ich adresu (np. `@osoba@mastodon.social`).
 
 Twoje publiczne _odpowiedzi_ pojawią się:
 
-- na liście Twoich _wpisów i odpowiedzi_ (ale nie na liście Twoich wpisów - to osobna lista!)
+- na liście Twoich _wpisów i odpowiedzi_ (ale nie na liście Twoich wpisów - to dwie osobne listy!)
 - w osiach czasu każdego z Twoich obserwujących, którzy _także_ obserwują osobę, której odpowiadasz,
-- na liście wspomnień u każdego, kogo oznaczysz za pomocą adresu.
+- na liście wspomnień u każdego, kogo oznaczysz za pomocą ich adresu.
 
 ## Niewidoczny (ang. <span lang="en">unlisted</span>)
 
-To ustawienie oznacza, że każdy może zobaczyć Twój wpis, ale nie pojawi się on na lokalnych i globalnych osiach czasu. Poza tą różnicą wpisy oznaczone jako niewidoczne działają dokładnie tak samo, jak wpisy publiczne.
+To ustawienie oznacza, że każdy może zobaczyć Twój wpis, ale nie pojawi się on w kanałach na żywo. Poza tą różnicą wpisy oznaczone jako niewidoczne działają dokładnie tak samo, jak wpisy publiczne.
 
 ## Tylko obserwujący (ang. <span lang="en">followers only</span>)
 
@@ -36,6 +36,6 @@ Patrząc z perspektywy obserwujących Twój profil, wpisy tylko dla obserwujący
 
 ## [!!!] Tylko wspomniane osoby (ang. <span lang="en">mentioned people only</span>)
 
-Jak sama nazwa wskazuje: tylko ci ludzie, których wspomnisz w treści wpisu, zobaczą Twój i będzie on widoczny dla **wszystkich** osób, które zostały wspomniane (o ile Cię nie zablokowały lub wyciszyły). Pojawi się on na liście ich wspomnień oraz, na serwerach Mastodona od wersji 3.0 wzwyż, w kolumnie Wiadomości bezpośrednie.
+Jak sama nazwa wskazuje: tylko ci ludzie, których wspomnisz w treści wpisu, zobaczą go, i będzie on widoczny dla **wszystkich** osób, które zostały wspomniane (o ile Cię nie zablokowały lub wyciszyły). Pojawi się on na liście ich wspomnień oraz w kolumnie _Prywatne wzmianki_.
 
-Miej na uwadze, że serwery używające oprogramowania kompatybilnego z Mastodonem, ale innym niż Mastodon, mogą zignorować powyższe ustawienia prywatności przy dostarczaniu wiadomości do używających ich osób. Używaj tej opcji z rozwagą!
+Miej na uwadze, że serwery używające oprogramowania kompatybilnego z Mastodonem, ale innym niż Mastodon, wcale nie muszą stosować się do powyższych ustawień. Używaj tej opcji z rozwagą!

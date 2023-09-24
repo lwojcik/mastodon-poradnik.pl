@@ -3,7 +3,7 @@ title: Jak działa filtrowanie wpisów?
 slug: jak-dzialaja-filtry
 ---
 
-Filtrowanie wpisów jest o wiele bardziej rozbudowane niż na Twitterze. Dzięki temu możesz otworzyć osobne filtry działające w różny sposób w zależności od preferencji. Możesz na przykład tworzyć filtry czasowe, przeznaczone do wyciszania informacji o trwających aktualnie wydarzeniach.
+Filtrowanie wpisów jest o wiele bardziej rozbudowane niż na X / Twitterze. Dzięki temu możesz otworzyć osobne filtry działające w różny sposób w zależności od preferencji. Możesz na przykład tworzyć filtry czasowe, przeznaczone do wyciszania informacji o trwających aktualnie wydarzeniach.
 
 Możliwe jest także częściowe ukrywanie wpisów za ostrzeżeniem - taki filtr działa wówczas w nieco podobny sposób do ostrzeżenia o zawartości (CW). Wpisy filtrowane w ten sposób możesz wciąż przeczytać poprzez kliknięcie w treść ostrzeżenia.
 

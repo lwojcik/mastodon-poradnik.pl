@@ -7,27 +7,33 @@ To prawda! Ale z czasem ta dziwność staje się bardzo przyjemna.
 
 Ale najpierw o nas, polskojęzycznej społeczności internetu.
 
-Jest nas, osób mówiących po polsku, stosunkowo niewielka liczba w skali świata. Mieliśmy nieco inną historię internetu niż USA czy kraje zachodniej Europy. Dla ludzi z tych krajów Twitter czy Facebook mogły być pierwszymi krokami w internecie, a te z kolei zajęły miejsce takich projektów jak MySpace, Orkut czy Friendster. U nas Facebook i Twitter pojawiły się oficjalnie już po kilku latach istnienia i zajęły miejsce licznych projektów lokalnych: Grono, Nasza-klasa, Blip.pl i wielu, wielu innych.
+Jest nas, osób mówiących po polsku, stosunkowo niewielka liczba w skali świata. Mieliśmy nieco inną historię internetu niż USA czy kraje zachodniej Europy. Dla ludzi z tych krajów Twitter czy Facebook mogły być pierwszymi krokami w internecie. Ale Twitter i Facebook wcale nie były pierwszymi serwisami społecznościowymi: zajęły miejsce innych projektów, takich jak MySpace, Orkut czy Friendster.
 
-Na polskim Mastodonie spotkasz szeroki przekrój ludzi. Niektórzy mogą pamiętać każdy z serwisów wymienionych w paragrafie powyżej. Niektórzy nigdy nie korzystali z Twittera i nie chcą być na Facebooku. Inni przenieśli się na Mastodona, bo namówili ich znajomi. Jeszcze inni są na Mastodonie, ale równolegle korzystają z innych. Dostrzegalna różnorodność tej grupy wynika również z jej (jak na razie) niskiej liczebności - łatwiej się nawzajem zauważyć, gdy wokoło nie ma tłumów.
+Facebook i Twitter dodały język polski do swoich interfejsów dopiero po kilku latach swojego istnienia. Ale znacznie wcześniej zaczęły już miejsce innych projektów prowadzonych w Polsce: Grona, Naszej-klasy, Blip.pl i wielu, wielu innych.
 
-Polskojęzyczna kultura fediwersum jest mieszanką motywów znanych już z innych stron społecznościowych, jak i czymś zupełnie nowym i świeżym. Zakładając konto na Mastodonie dokładasz cegiełkę do jej rozwoju.
+W polskojęzycznej części Mastodona i fediwersum spotkasz szeroki przekrój ludzi. Niektórzy mogą pamiętać każdy z serwisów wymienionych w paragrafie powyżej. Niektórzy nigdy nie korzystali z X / Twittera i nie chcą być na Facebooku. Inni przenieśli się na Mastodona, bo namówili ich znajomi. Jeszcze inni są na Mastodonie, ale równolegle korzystają z innych serwisów. Wyraźna różnorodność tej grupy wynika również z jej (jak na razie) niskiej liczebności - łatwiej się nawzajem zauważyć, gdy wokoło nie ma tłumów.
 
-A jak znaleźć jej przejawy? Zwracaj uwagę na hasztagi we wpisach innych ludzi.
+Kultura polskojęzycznego fediwersum jest mieszanką motywów znanych już z innych stron społecznościowych, ale jest też czymś zupełnie nowym i świeżym. Zakładając konto na Mastodonie dokładasz cegiełkę do jej rozwoju.
+
+A jak znaleźć jej przejawy? Obserwuj dużo osób (zwłaszcza tych aktywnych) i zwracaj uwagę na hasztagi we wpisach innych ludzi.
 
 Poniżej wybór popularnych motywów i hasztagów znanych w polskiej społeczności. Lista ta zapewne nie jest kompletna:
 
-- `#ExiTT` - hasztag używany przez osoby przenoszące się na Mastodona z Twittera w celu łatwiejszego odnalezienia się nazwajem na nowej platformie. Zajrzyj tam, jeżeli chcesz znaleźć nowe osoby do obserwowania.
+- `#ExiTT` - hasztag używany przez osoby przenoszące się na Mastodona z X / Twittera w celu łatwiejszego odnalezienia się nazwajem na nowej platformie. Zajrzyj tam, jeżeli chcesz znaleźć nowe osoby do obserwowania.
 
 - `#FediPomoc` i `#FediTipsPL` - tutaj warto zajrzeć lub poprosić o pomoc w sprawie Mastodona i innych aplikacji w fediwersum, zwłaszcza jeśli używasz ich od niedawna. Są tam ludzie, którzy chętnie odpowiedzą na Twoje pytania.
 
 - **"Dzień dobry, smacznej kawusi"** - nieco żartobliwa tradycja witania się na początku dnia, popularna też na Facebooku czy Twitterze. Czasem ludzie załączają do tego link do jakiegoś artykułu istotnego w danej chwili czy śmieszny obrazek lub mem.
+
+- `#miniankiety`, `#bitwa`, `#AZabawa` - hasztagi z ankietami i zabawami słownymi prowadzone przez użytkownika [@LukaszD](https://pol.social/@LukaszD).
 
 - `#giereczkowo` - hasztag do rozmów o grach, głównie video, ale nie tylko. W odróżnieniu od nieco poważniej brzmiącego `#gry` chodzi to o gry jako przyjemną, niezobowiązującą formę rozrywki dla wszystkich.
 
 - `#literatura`, `#ksiazki`, `#ksiazkodon`, `#ksiazkary`, `#ksiazkowersum` (i pewnie jeszcze kilka pominęliśmy) - mnogość hasztagów skupiających osoby lubiące czytać książki.
 
 - `#caturday`- sobota, dzień kota. Jest sobota i masz kota? Masz święty obowiązek wstawienia jego zdjęcia. A jeżeli akurat nie jest sobota, ale chcesz wstawić zdjęcie swojego kota, to pomocny może być tag `#MastoCats` albo `#CatsOfMastodon`.
+
+- `#silentSunday` - tradycja o wiele starsza od Mastodona, ale również tutaj kultywowana. Opublikuj ciekawe zdjęcie z tym tagiem, ale nie dodawaj do niego żadnego opisu. Zdjęcie ma się bronić samo bez słów.
 
 - "drogie słonie", "słonikować", "idę na słonia" - mastodont to taki wymarły włochaty słoń. Więc ludzie w Polsce nazywają czasem Mastodona "słoniem" albo "słonikiem", a czynność przeglądania lub publikowania na nim - "siedzieniem na słoniu" czy "słonikowaniem".
 

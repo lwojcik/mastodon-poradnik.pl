@@ -1,5 +1,5 @@
 ---
-title: Ojej, w moim opublikowanym wpisie jest błąd lub literówka.
+title: Ojej, w moim wpisie jest błąd lub literówka.
 slug: edycja-wpisow
 ---
 
