@@ -1,6 +1,6 @@
 ---
-title: Co odróżnia Mastodona od Twittera i e-maila? Czym jest globalna i lokalna oś czasu?
-slug: globalna-lokalna-os
+title: Co odróżnia Mastodona od Twittera i e-maila? Czym są kanały na żywo?
+slug: kanaly-na-zywo
 ---
 
 ## Brak algorytmu + kanały na żywo
