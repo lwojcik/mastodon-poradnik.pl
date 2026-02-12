@@ -25,7 +25,7 @@ Poniżej wybór popularnych motywów i hasztagów znanych w polskiej społeczno�
 
 - **"Dzień dobry, smacznej kawusi"** - nieco żartobliwa tradycja witania się na początku dnia, popularna też na Facebooku czy Twitterze. Czasem ludzie załączają do tego link do jakiegoś artykułu istotnego w danej chwili czy śmieszny obrazek lub mem.
 
-- `#miniankiety`, `#bitwa`, `#AZabawa` - hasztagi z ankietami i zabawami słownymi prowadzone przez użytkownika [@LukaszD](https://pol.social/@LukaszD).
+- `#miniankiety`, `#bitwa`, `#AZabawa` - hasztagi z ankietami i zabawami słownymi prowadzone przez użytkownika [@LukaszD](https://101010.pl/@LukaszD).
 
 - `#giereczkowo` - hasztag do rozmów o grach, głównie video, ale nie tylko. W odróżnieniu od nieco poważniej brzmiącego `#gry` chodzi to o gry jako przyjemną, niezobowiązującą formę rozrywki dla wszystkich.
 
